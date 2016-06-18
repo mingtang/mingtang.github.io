@@ -3,11 +3,28 @@
   <channel>
     <title></title>
     <description>I am a Geochemist-To-Be!</description>
-    <link>http://mingtang.me/</link>
-    <atom:link href="http://mingtang.me/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 18 Jun 2016 02:27:10 -0700</pubDate>
-    <lastBuildDate>Sat, 18 Jun 2016 02:27:10 -0700</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sat, 18 Jun 2016 03:21:35 -0700</pubDate>
+    <lastBuildDate>Sat, 18 Jun 2016 03:21:35 -0700</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>Post with an images</title>
+        <description>&lt;p&gt;A sample post to show how images are being rendered on harmony.&lt;/p&gt;
+
+&lt;h3 id=&quot;image-from-external-host&quot;&gt;Image from external host&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://placekitten.com/g/900/300&quot; alt=&quot;Image&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 30 Aug 2014 16:56:45 -0700</pubDate>
+        <link>http://localhost:4000/sample-post-with-images</link>
+        <guid isPermaLink="true">http://localhost:4000/sample-post-with-images</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
     
       <item>
         <title>Sample post from harmony</title>
@@ -69,8 +86,8 @@
 &lt;p&gt;Want me to suggest something? Please &lt;a href=&quot;https://github.com/web-create/harmony/issues/new&quot;&gt;Send me a request&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 19 Aug 2014 16:56:45 -0700</pubDate>
-        <link>http://mingtang.me/sample-post</link>
-        <guid isPermaLink="true">http://mingtang.me/sample-post</guid>
+        <link>http://localhost:4000/sample-post</link>
+        <guid isPermaLink="true">http://localhost:4000/sample-post</guid>
         
         
         <category>blog</category>
@@ -90,8 +107,8 @@
 
 </description>
         <pubDate>Mon, 28 Jul 2014 15:48:45 -0700</pubDate>
-        <link>http://mingtang.me/blog/jekyll/2014/07/28/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">http://mingtang.me/blog/jekyll/2014/07/28/welcome-to-jekyll/</guid>
+        <link>http://localhost:4000/blog/jekyll/2014/07/28/welcome-to-jekyll/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/jekyll/2014/07/28/welcome-to-jekyll/</guid>
         
         
         <category>blog</category>
