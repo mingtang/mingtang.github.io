@@ -8,7 +8,7 @@
         <meta name="description" content="Personal blog belonging to Ming Tang.
 ">
         <link rel="canonical" 
-        href="http://localhost:4000/.orig">
+        href="http://mingtang.me/.orig">
         
         <!-- Harmony styles -->
         <link rel="stylesheet" type="text/css" href="/assets/css/main.css">
@@ -31,13 +31,13 @@
                 <h2>I am a Geochemist-To-Be!</h2>
                 <ul>
 	<li>
-		<a href="http://localhost:4000/">Home</a><span>/</span>
+		<a href="http://mingtang.me/">Home</a><span>/</span>
 	</li>
 	<li>
-		<a href="http://localhost:4000/research">Research</a><span>/</span>
+		<a href="http://mingtang.me/research">Research</a><span>/</span>
 	</li>
 	<li>
-		<a href="http://localhost:4000/cv">CV</a><span>/</span>
+		<a href="http://mingtang.me/cv">CV</a><span>/</span>
 	</li>
 </ul>                
             </div>
@@ -47,37 +47,7 @@
   		
   			<div class="post">
     			<h3 class="post-title">
-			      <a href="http://localhost:4000/sample-post-with-images">
-			        Post with an images
-			      </a>
-    			</h3>
-
-          <p class="post-meta">
-            
-            <span class="categories">
-            blog
-            </span> |
-            
-            <span class="post-date">
-            Aug 30, 2014 
-            </span>
-          </p>          
-    			    			
-  				<p>
-	  				<p>A sample post to show how images are being rendered on harmony.</p>
-
-	
-  				</p>
-  				<p>
-  					<a href="http://localhost:4000/sample-post-with-images" title="Post with an images">
-  						Read More
-					</a>
-  				</p>
-  			</div>
-  		
-  			<div class="post">
-    			<h3 class="post-title">
-			      <a href="http://localhost:4000/sample-post">
+			      <a href="http://mingtang.me/sample-post">
 			        Sample post from harmony
 			      </a>
     			</h3>
@@ -100,7 +70,7 @@
 	
   				</p>
   				<p>
-  					<a href="http://localhost:4000/sample-post" title="Sample post from harmony">
+  					<a href="http://mingtang.me/sample-post" title="Sample post from harmony">
   						Read More
 					</a>
   				</p>
@@ -108,7 +78,7 @@
   		
   			<div class="post">
     			<h3 class="post-title">
-			      <a href="http://localhost:4000/blog/jekyll/2014/07/28/welcome-to-jekyll/">
+			      <a href="http://mingtang.me/blog/jekyll/2014/07/28/welcome-to-jekyll/">
 			        What is Jekyll!
 			      </a>
     			</h3>
@@ -130,7 +100,7 @@
 	
   				</p>
   				<p>
-  					<a href="http://localhost:4000/blog/jekyll/2014/07/28/welcome-to-jekyll/" title="What is Jekyll!">
+  					<a href="http://mingtang.me/blog/jekyll/2014/07/28/welcome-to-jekyll/" title="What is Jekyll!">
   						Read More
 					</a>
   				</p>
@@ -138,7 +108,7 @@
   		
 	</div>
 	<div class="post-footer">
-		<div class="column-full"><a href="http://localhost:4000/blog">Blog archive</a></div>
+		<div class="column-full"><a href="http://mingtang.me/blog">Blog archive</a></div>
 	</div>
 </div>
         <footer class="main-footer">
@@ -146,9 +116,9 @@
                 <div class="column one">
                     <h6>Few more links</h6>
 <ul class="menu">
-    <li><a href="http://localhost:4000/">Home</a></li>   
-    <li><a href="http://localhost:4000/research">Research</a></li>
-    <li><a href="http://localhost:4000/cv">CV</a></li> 
+    <li><a href="http://mingtang.me/">Home</a></li>   
+    <li><a href="http://mingtang.me/research">Research</a></li>
+    <li><a href="http://mingtang.me/cv">CV</a></li> 
 </ul>		                    
                 </div>
                 <div class="column two">
