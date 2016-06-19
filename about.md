@@ -6,8 +6,7 @@ permalink: /about/
 
 Hi, I am `Ming Tang`.
 
-My favorite sport is badminton. I also play tennis and basketball. Recently I've started Bowling!
-I play Dota I and II and many other video games!
+![Image]({{ site.url }}/images/tang.jpg)
 
 ### Contact me
 
