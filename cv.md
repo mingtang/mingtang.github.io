@@ -62,7 +62,7 @@ permalink: /cv/
 
 **Tang, M.**, McDonough, F.W., Rudnick, L.R. (201X). Europium anomaly in the MORB source mantle. Geochimica et Cosmochimica Acta, in revision
 
-**Tang, M.**, Chen, K., Rudnick, L.R. (2016). [Archean upper crust transition from mafic to felsic marks the onset of plate tectonics. Science, 351(6271), 372-375.](https://www.researchgate.net/publication/291345855_Archean_upper_crust_transition_from_mafic_to_felsic_marks_the_onset_of_plate_tectonics)
+**Tang, M.**, Chen, K., Rudnick, L.R. (2016). Archean upper crust transition from mafic to felsic marks the onset of plate tectonics. Science, 351(6271), 372-375.
 
 #### 2015
 
