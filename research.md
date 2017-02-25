@@ -12,6 +12,6 @@ Continents and plate tectonics, both unique to our Earth, are actually linked to
 
 In our latest work, we found new evidence for when the present-day like continents started to form. About 3 billion years ago, the proto-continent is only a fraction of present-day continent by area. The surface of the proto-continent, or subaerial crust in the early Archean, has a mafic bulk composition (rich in Mg and Fe, low in Si), comparable to the surface of other terrestrial planets, like Venus and Mars. This mafic upper continental crust gradually transformed to a felsic and present-day like upper continental crust from 3 to 2.5 billion years ago, attended by a massive five-fold continental area expansion. Driving this fundamental transition is probably the initiation of global plate tectonics around 3 billion years ago, which transported water, a key component to generate felsic magma, to the sources.
 
-![Image](/images/research.jpg)
+![Image](https://mingtang.me/images/research.png)
 
 Fig. 1. A size-composition comparison between the proto-continents in the early Archean (>3 billion years ago) and present-day continents. The distribution and shapes of the early Archean proto-continents shown here are not real. The green color of the early Archean ocean indicates high Fe (II) contents in the seawater at that time. Fe (II) is an ion that makes a green solution.
