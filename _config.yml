@@ -18,7 +18,7 @@ harmony:
   # It will appear in your document head meta (for Google search results) and 
   # in your feed.xml site description.
   meta_description: > # 
-   Personal blog belonging to Ming Tang.
+   Ming Tang's personal blog.
   basetheme: theme-base-01 # pre defined thmes are darken, blue-water, redish.
   # author: # Author details
   #   name: Gayan Virajith
@@ -30,12 +30,12 @@ harmony:
 
   # Profile links, leave blank to ignore
   social: 
-    github: jgao1
+    github:
     twitter:
-    facebook: ming.tang.526
-    gplus: +JianxinGao
-    dribble: 
-    pinterest: 
+    facebook:
+    gplus:
+    dribble:
+    pinterest:
   # Toggle disclaimer in footer
   show_disclaimer: false
 
@@ -55,6 +55,7 @@ exclude:
   - .gitignore
   - .sass-cache
   - Gemfile.lock
+  - vendor
 
 # Sass conversion configs
 sass:
