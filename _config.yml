@@ -18,7 +18,7 @@ harmony:
   # It will appear in your document head meta (for Google search results) and
   # in your feed.xml site description.
   meta_description: > #
-   Ming Tang's personal blog.
+   Ming Tang - Rice University, Department of Earth Science
   basetheme: theme-base-01 # pre defined thmes are darken, blue-water, redish.
   # author: # Author details
   #   name: Gayan Virajith
@@ -32,8 +32,8 @@ harmony:
   social:
     github:
     twitter:
-    facebook:
-    gplus:
+    facebook: ming.tang.526
+    gplus: 104729184549251723279
     dribble:
     pinterest:
   # Toggle disclaimer in footer
