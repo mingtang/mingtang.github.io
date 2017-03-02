@@ -1,1 +1,1 @@
-window.location.replace("https://mingtang.me");
+//window.location.replace("https://mingtang.me");
