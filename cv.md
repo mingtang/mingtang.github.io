@@ -8,7 +8,7 @@ permalink: /cv/
 
 ---
 
-- B.A., Geochemistry, Nanjing University `2007 - 2011`
+- B.A., Geochemistry, Nanjing University `2006 - 2011`
 <br>supervised by Xiao-Lei Wang
 
 -  Ph.D., Geochemistry, University of Maryland, College Park `2011 - 2016`
@@ -26,7 +26,7 @@ permalink: /cv/
 - Post-doc at Rice University, USA `2016 - 2017`
 
 
-### Teaching Experience 
+### Teaching Experience
 
 ---
 
@@ -100,4 +100,3 @@ Sauzeat, L., Rudnick, R.L., Chauvel, C., Garçon, M. and **Tang, M.** (2015) Ne
 Wang, X. L., Shu, X. J., Xu, X., **Tang, M.**, & Gaschnig, R. (2012). Petrogenesis of the Early Cretaceous adakite-like porphyries and associated basaltic andesites in the eastern Jiangnan orogen, southern China. *Journal of Asian Earth Sciences*, 61, 243-256.
 
 Wang, X. L., Shu, L. S., Xing, G. F., Zhou, J. C., **Tang, M.**, Shu, X. J., ... & Hu, Y. H. (2012). Post-orogenic extension in the eastern part of the Jiangnan orogen: Evidence from ca 800–760Ma volcanic rocks. *Precambrian Research*, 222–223, 404–423.
-
