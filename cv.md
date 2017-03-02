@@ -8,10 +8,10 @@ permalink: /cv/
 
 ---
 
-- B.A., Geochemistry, Nanjing University `2007 - 2011`
+- B.A., Geochemistry, Nanjing University <span class="date">2007 - 2011</span>
 <br>supervised by Xiao-Lei Wang
 
--  Ph.D., Geochemistry, University of Maryland, College Park `2011 - 2016`
+-  Ph.D., Geochemistry, University of Maryland, College Park <span class="date">2011 - 2016</span>
 <br>supervised by Williams F. McDonough and Roberta L. Rudnick
 
 
@@ -19,37 +19,37 @@ permalink: /cv/
 
 ---
 
-- Undergraduate research assistance at Nanjing University, China `2009 - 2011`
+- Undergraduate research assistance at Nanjing University, China <span class="date">2009 - 2011</span>
 
-- Graduate research assistance at the University of Maryland, USA `2012 - 2016`
+- Graduate research assistance at the University of Maryland, USA <span class="date">2012 - 2016</span>
 
-- Post-doc at Rice University, USA `2016 - 2017`
+- Post-doc at Rice University, USA <span class="date">2016 - 2017</span>
 
 
 ### Teaching Experience
 
 ---
 
-- High temperature geochemistry, teaching assistant `Sep - Dec, 2011`
+- High temperature geochemistry, teaching assistant <span class="date">Sep - Dec, 2011</span>
 
-- Physical geology, teaching assistant `Feb - May 2012`
+- Physical geology, teaching assistant <span class="date">Feb - May 2012</span>
 
-- Climate change, teaching assistant `Feb - May 2015`
+- Climate change, teaching assistant <span class="date">Feb - May 2015</span>
 
 
 ### Research Award
 
 ---
 
-- GSA graduate research grant `2014`
+- GSA graduate research grant <span class="date">2014</span>
 
-- Jena outstanding graduate paper cup award `2014`
+- Jena outstanding graduate paper cup award <span class="date">2014</span>
 
-- Ann G. Wylie Dissertation fellowship `2015`
+- Ann G. Wylie Dissertation fellowship <span class="date">2015</span>
 
-- Graduate School Summer Research fellowship `2015`
+- Graduate School Summer Research fellowship <span class="date">2015</span>
 
-- Goldschmidt student grant `2015` `2016`
+- Goldschmidt student grant <span class="date">2015, 2016</span>
 
 
 ### Service

@@ -495,7 +495,12 @@ body.theme-base-01 {
     h1, h2, h3, h4, h5, h6 { color: $base-01; }
   }
 
-
+  span.date {
+      //font-family: Menlo, Monaco, "Courier New", monospace;
+      background: rgba($base-08, .1);
+      padding: .25em .5em;
+      font-size: 85%;
+  }
 }
 
 /* --------------------------------
