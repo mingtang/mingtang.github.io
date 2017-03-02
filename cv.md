@@ -8,7 +8,7 @@ permalink: /cv/
 
 ---
 
-- B.A., Geochemistry, Nanjing University `2006 - 2011`
+- B.A., Geochemistry, Nanjing University `2007 - 2011`
 <br>supervised by Xiao-Lei Wang
 
 -  Ph.D., Geochemistry, University of Maryland, College Park `2011 - 2016`
