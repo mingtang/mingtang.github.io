@@ -9,14 +9,11 @@
         <link rel="canonical"
         href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 
-        <% if page.title == photography %>
-        <script>
-            window.location.replace("http://tangming.weebly.com/photography.html");
-        </script>
-        <% endif %>
-
         <!-- Harmony styles -->
         <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/main.css">
+
+        <!-- image lightbox -->
+        <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/lightbox.css">
 
         <link rel="shortcut icon" type="image/x-icon" href="https://mingtang.me/favicon.ico">
 
