@@ -74,5 +74,10 @@
 
         <!-- Google analytics  -->
         {% include google-analytics.html %}
+
+        <!-- image lightbox -->
+        {% if page.title == "Photography" %}
+        {% include imagelightboxjs.html %}
+        {% endif %}
     </body>
 </html>
