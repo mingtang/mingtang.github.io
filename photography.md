@@ -9,6 +9,12 @@ permalink: /photography
 <a href="/images/photography/panorama/panorama3.jpg" data-imagelightbox="a"><img src="/images/photography/panorama/panorama3.jpg" alt="" /></a>
 
 <div class="photobox">
+
+<a href="/images/photography/full/photo23.jpg" data-imagelightbox="a"><img src="/images/photography/thumb/photo23.jpg" alt="" /></a>
+<a href="/images/photography/full/photo26.jpg" data-imagelightbox="a"><img src="/images/photography/thumb/photo26.jpg" alt="" /></a>
+<a href="/images/photography/full/photo41.jpg" data-imagelightbox="a"><img src="/images/photography/thumb/photo41.jpg" alt="" /></a>
+<a href="/images/photography/full/photo53.jpg" data-imagelightbox="a"><img src="/images/photography/thumb/photo53.jpg" alt="" /></a>
+
 <a href="/images/photography/full/photo1.jpg" data-imagelightbox="a"><img src="/images/photography/thumb/photo1.jpg" alt="" /></a>
 <a href="/images/photography/full/photo2.jpg" data-imagelightbox="a"><img src="/images/photography/thumb/photo2.jpg" alt="" /></a>
 <a href="/images/photography/full/photo3.jpg" data-imagelightbox="a"><img src="/images/photography/thumb/photo3.jpg" alt="" /></a>
@@ -31,10 +37,10 @@ permalink: /photography
 <a href="/images/photography/full/photo20.jpg" data-imagelightbox="a"><img src="/images/photography/thumb/photo20.jpg" alt="" /></a>
 <a href="/images/photography/full/photo21.jpg" data-imagelightbox="a"><img src="/images/photography/thumb/photo21.jpg" alt="" /></a>
 <a href="/images/photography/full/photo22.jpg" data-imagelightbox="a"><img src="/images/photography/thumb/photo22.jpg" alt="" /></a>
-<a href="/images/photography/full/photo23.jpg" data-imagelightbox="a"><img src="/images/photography/thumb/photo23.jpg" alt="" /></a>
+
 <a href="/images/photography/full/photo24.jpg" data-imagelightbox="a"><img src="/images/photography/thumb/photo24.jpg" alt="" /></a>
 <a href="/images/photography/full/photo25.jpg" data-imagelightbox="a"><img src="/images/photography/thumb/photo25.jpg" alt="" /></a>
-<a href="/images/photography/full/photo26.jpg" data-imagelightbox="a"><img src="/images/photography/thumb/photo26.jpg" alt="" /></a>
+
 <a href="/images/photography/full/photo27.jpg" data-imagelightbox="a"><img src="/images/photography/thumb/photo27.jpg" alt="" /></a>
 <a href="/images/photography/full/photo28.jpg" data-imagelightbox="a"><img src="/images/photography/thumb/photo28.jpg" alt="" /></a>
 <a href="/images/photography/full/photo29.jpg" data-imagelightbox="a"><img src="/images/photography/thumb/photo29.jpg" alt="" /></a>
@@ -49,7 +55,7 @@ permalink: /photography
 <a href="/images/photography/full/photo38.jpg" data-imagelightbox="a"><img src="/images/photography/thumb/photo38.jpg" alt="" /></a>
 <a href="/images/photography/full/photo39.jpg" data-imagelightbox="a"><img src="/images/photography/thumb/photo39.jpg" alt="" /></a>
 <a href="/images/photography/full/photo40.jpg" data-imagelightbox="a"><img src="/images/photography/thumb/photo40.jpg" alt="" /></a>
-<a href="/images/photography/full/photo41.jpg" data-imagelightbox="a"><img src="/images/photography/thumb/photo41.jpg" alt="" /></a>
+
 <a href="/images/photography/full/photo42.jpg" data-imagelightbox="a"><img src="/images/photography/thumb/photo42.jpg" alt="" /></a>
 <a href="/images/photography/full/photo43.jpg" data-imagelightbox="a"><img src="/images/photography/thumb/photo43.jpg" alt="" /></a>
 <a href="/images/photography/full/photo44.jpg" data-imagelightbox="a"><img src="/images/photography/thumb/photo44.jpg" alt="" /></a>
@@ -61,10 +67,10 @@ permalink: /photography
 <a href="/images/photography/full/photo50.jpg" data-imagelightbox="a"><img src="/images/photography/thumb/photo50.jpg" alt="" /></a>
 <a href="/images/photography/full/photo51.jpg" data-imagelightbox="a"><img src="/images/photography/thumb/photo51.jpg" alt="" /></a>
 <a href="/images/photography/full/photo52.jpg" data-imagelightbox="a"><img src="/images/photography/thumb/photo52.jpg" alt="" /></a>
-<a href="/images/photography/full/photo53.jpg" data-imagelightbox="a"><img src="/images/photography/thumb/photo53.jpg" alt="" /></a>
+
 <a href="/images/photography/full/photo54.jpg" data-imagelightbox="a"><img src="/images/photography/thumb/photo54.jpg" alt="" /></a>
 <a href="/images/photography/full/photo55.jpg" data-imagelightbox="a"><img src="/images/photography/thumb/photo55.jpg" alt="" /></a>
-<a href="/images/photography/full/photo56.jpg" data-imagelightbox="a"><img src="/images/photography/thumb/photo56.jpg" alt="" /></a>
+
 <a href="/images/photography/full/photo57.jpg" data-imagelightbox="a"><img src="/images/photography/thumb/photo57.jpg" alt="" /></a>
 
 
