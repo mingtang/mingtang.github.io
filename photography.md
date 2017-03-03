@@ -1,7 +1,7 @@
 ---
 layout: photography
 title: Photography
-permalink: /photography
+permalink: /photography/
 ---
 
 <!-- panorama photos -->
