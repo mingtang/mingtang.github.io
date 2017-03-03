@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Earth's continents--their orgin and evolution
+title: Earth's continents–their orgin and evolution
 permalink: /research/
 ---
 <br>
