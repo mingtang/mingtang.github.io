@@ -32,10 +32,11 @@ harmony:
   social:
     github:
     twitter:
-    facebook: ming.tang.526
-    gplus: 104729184549251723279
+    facebook:
+    gplus:
     dribble:
     pinterest:
+    solidlogo: true
   # Toggle disclaimer in footer
   show_disclaimer: false
 
