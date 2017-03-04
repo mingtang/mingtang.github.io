@@ -1,6 +1,6 @@
 ---
 layout: photography
-title: Photography
+title: Ming Tang - Photography
 permalink: /photography/
 ---
 

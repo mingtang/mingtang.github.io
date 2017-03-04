@@ -1,7 +1,10 @@
 ---
 layout: page
-title: Contact Me
+title: Ming Tang - Contact Me
 permalink: /contact/
+---
+
+<h1>Contact</h1>
 ---
 
 <i class="fa fa-university" aria-hidden="true"></i> Department of Earth Science, Rice University
