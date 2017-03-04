@@ -36,7 +36,7 @@ harmony:
     gplus:
     dribble:
     pinterest:
-    solidlogo: true
+    solidlogo: false
   # Toggle disclaimer in footer
   show_disclaimer: false
 
