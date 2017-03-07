@@ -42,14 +42,23 @@ permalink: /cv/
 ---
 
 - China University of Geosciences, Wuhan <span class="date">2014</span>
+
 - Nanjing University <span class="date">2014</span>
+
 - Geological Society of Maryland <span class="date">2016</span>
+
 - Geological Society of Washington <span class="date">2016</span>
+
 - FESD meeting <span class="date">2016</span>
+
 - University of California, Santa Barbara <span class="date">2016</span>
+
 - Nanjing University <span class="date">2016</span>
+
 - China University of Geosciences, Wuhan <span class="date">2016</span>
+
 - University of Science and Technology of China <span class="date">2016</span>
+
 - Harvard University <span class="date">2016</span>
 
 
