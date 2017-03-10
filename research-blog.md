@@ -5,6 +5,7 @@ permalink: /research-blog/
 ---
 <div class="page-content wc-container">
   <h5>Research Blog</h5>  
+  ---
   {% for post in site.posts %}
   	{% capture currentyear %}{{post.date | date: "%Y"}}{% endcapture %}
   	{% if currentyear != year %}
