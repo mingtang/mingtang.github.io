@@ -3,30 +3,22 @@
 	<head>
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
-		<meta name = "format-detection" content = "telephone=no">
-		<title>{% if page.title %}{{ page.title }}{% else %}{{ site.harmony.name }}{% endif %}</title>
+		<meta name="format-detection" content="telephone=no">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<meta name="description" content="{% if page.meta_description %}{{ page.meta_description }}{% else %}{{ site.harmony.meta_description }}{% endif %}">
-		<link rel="canonical"
-		href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-
+		<title>{% if page.title %}{{ page.title }}{% else %}{{ site.harmony.name }}{% endif %}</title>
+		<link rel="shortcut icon" type="image/x-icon" href="{{ site.url }}/favicon.ico">
+		<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 		<!-- Harmony styles -->
 		<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/main.css?{{ site.time | date: '%s%N' }}">
-
 		<!-- image lightbox -->
 		<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/lightbox.css">
-
 		<!-- font awesome -->
 		<script src="https://use.fontawesome.com/36fcacbdc4.js"></script>
-
 		<!-- disqus -->
 		<script id="dsq-count-scr" src="//mingtang.disqus.com/count.js" async></script>
-
-		<link rel="shortcut icon" type="image/x-icon" href="{{ site.url }}/favicon.ico">
-
 		<!-- Modernizr js -->
 		<script async src="{{ site.baseurl }}/assets/js/modernizr.js"></script>
-
 		<!-- IE Fixes -->
 		<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
 		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
