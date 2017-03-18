@@ -44,12 +44,14 @@
 					{% include footer-links.html %}
 				</div>
 				<div class="column two">
-					{% include social.html %}
+					{% include contact.html %}
 				</div>
 			</div>
+			{% if site.harmony.show_disclaimer %}
 			<p class="wc-container disclaimer">
-				{% include footer.html %}
+				{% include footer-disclaimer.html %}
 			</p>
+			{% endif %}
 		</footer>
 
 		<!-- jQuery -->

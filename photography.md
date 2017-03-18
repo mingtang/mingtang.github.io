@@ -1,5 +1,5 @@
 ---
-layout: photography
+layout: page
 title: Ming Tang - Photography
 permalink: /photography/
 ---
