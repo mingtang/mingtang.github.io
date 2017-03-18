@@ -1,44 +1,59 @@
----
-title: Tangm1.Github.Io
-timezone: UTC
-collections:
-  posts:
-    title: Posts
-    output: true
-  uploads:
-    title: Uploads
-    output: true
-url: "//mingtang.me"
+# Harmony Jekyll theme general configurations
+
+# Base URL
+# baseurl: /harmony
+
+# Site live URL
+url: //mingtang.me
+
+# Harmony theme configuration. Please change accordingly.
 harmony:
   name: Ming Tang - Personal Website
+  # Little description about your site
   description: Understanding Earth Through Chemistry
-  meta_description: Ming Tang - Understanding Earth Through Chemistry | Rice University,
-    Department of Earth Science
-  basetheme: theme-base-01
+  # 'meta_description:' Write an awesome description for your new site here.
+  # It will appear in your document head meta (for Google search results) and
+  # in your feed.xml site description.
+  meta_description: Ming Tang - Understanding Earth Through Chemistry | Rice University, Department of Earth Science
+
+  basetheme: theme-base-01 # pre defined thmes are darken, blue-water, redish.
+
+  # Google Analytics key, leave blank to ignore
   google_analytics_key: UA-92899048-1
+
+  # Profile links, leave blank to ignore
   social:
-    github: 
-    twitter: 
-    facebook: 
-    gplus: 
-    dribble: 
-    pinterest: 
+    github:
+    twitter:
+    facebook:
+    gplus:
+    dribble:
+    pinterest:
     solidlogo: false
+  # Toggle disclaimer in footer
   show_disclaimer: false
+
+# Conversion / Build settings
 markdown: kramdown
+# This is how you put pygments config in jekyll 2.0 instead of pygments: true
 highlighter: rouge
+
+# Permalinks
 permalink: pretty
-gems:
-- jekyll-tidy
+
+gems: [jekyll-tidy]
+
 exclude:
-- CNAME
-- Gemfile
-- Rakefile
-- README.md
-- ".gitignore"
-- ".sass-cache"
-- Gemfile.lock
-- vendor
+  - CNAME
+  - Gemfile
+  - Rakefile
+  - README.md
+  - .gitignore
+  - .sass-cache
+  - Gemfile.lock
+  - vendor
+
+# Sass conversion configs
 sass:
-  sass_dir: assets/css/_sass
-  style: :compressed
+    sass_dir: assets/css/_sass
+    style: :compressed

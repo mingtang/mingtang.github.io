@@ -1,12 +1,10 @@
 ---
+layout: post
 title: Earth's continents–their orgin and evolution
-date: 2017-03-06 22:48:45 Z
+description: Earth is unique in many ways. It's the only planet in the solar system that has continents--the high standing crust that has a felsic bulk composition (rich in Si, low in Mg and Fe). When and how did the continental crust form on Earth?
+date: 2017-03-06 22:48:45
 categories:
 - research-blog
-layout: post
-description: Earth is unique in many ways. It's the only planet in the solar system
-  that has continents--the high standing crust that has a felsic bulk composition
-  (rich in Si, low in Mg and Fe). When and how did the continental crust form on Earth?
 ---
 
 {:.DropCap}
