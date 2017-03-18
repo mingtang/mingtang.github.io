@@ -9,3 +9,5 @@ gem 'rake'
 
 # gem 'pygments.rb'
 gem 'rouge'
+
+gem 'jekyll-tidy'
