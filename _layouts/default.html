@@ -69,16 +69,12 @@
 		<script>window.jQuery || document.write('<script src="{{ site.baseurl }}/assets/js/jquery.min.js"><\/script>')</script>
 		<!-- Site js -->
 		<script src="{{ site.baseurl }}/assets/js/all.js"></script>
-
-		<!-- image lightbox -->
-		<script src="{{ site.baseurl }}/assets/js/imagelightbox.min.js"></script>
-
-		<!-- Google analytics  -->
-		{% include google-analytics.html %}
-
 		<!-- image lightbox -->
 		{% if page.title == "Ming Tang - Photography" %}
-		{% include imagelightboxjs.html %}
+		<script src="{{ site.baseurl }}/assets/js/imagelightbox.min.js"></script>
+		<script src="{{ site.baseurl }}/assets/js/imagelightbox.js"></script>
 		{% endif %}
+		<!-- Google analytics  -->
+		{% include google-analytics.html %}
 	</body>
 </html>
