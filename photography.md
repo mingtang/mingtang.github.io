@@ -1,7 +1,7 @@
 ---
-title: Ming Tang - Photography
-permalink: "/photography/"
 layout: photography
+title: Ming Tang - Photography
+permalink: /photography/
 ---
 
 <!-- panorama photos -->
