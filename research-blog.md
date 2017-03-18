@@ -1,8 +1,9 @@
 ---
-layout: default
 title: Ming Tang - Research Blog
-permalink: /research-blog/
+permalink: "/research-blog/"
+layout: default
 ---
+
 <div class="page-content wc-container">
   <h5>Research Blog</h5>  
   <hr>
