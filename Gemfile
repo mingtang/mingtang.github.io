@@ -11,3 +11,6 @@ gem 'rake'
 gem 'rouge'
 
 gem 'jekyll-tidy'
+gem 'jekyll-seo-tag'
+gem 'jekyll-sitemap'
+gem 'jekyll-admin', group: :jekyll_plugins
