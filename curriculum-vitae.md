@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Ming Tang - Curriculum Vitae
-permalink: /curriculum-vitae/
+permalink: "/curriculum-vitae/"
+layout: page
 ---
 
 ##### <a name="education"></a>Education

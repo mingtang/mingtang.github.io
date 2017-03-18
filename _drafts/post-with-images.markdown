@@ -1,10 +1,10 @@
 ---
-layout: post
-title:  "Post with an images"
-date:   2014-08-30 23:56:45
+title: Post with an images
+date: 2014-08-30 23:56:45 Z
+permalink: sample-post-with-images
 categories:
 - blog
-permalink: sample-post-with-images
+layout: post
 description: A sample post to show how images are being rendered on harmony.
 ---
 
