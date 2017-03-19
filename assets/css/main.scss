@@ -248,10 +248,15 @@ header.main-header {
       width: 50%;
       padding-left: 18px;
       float: left;
-      h3, h5 {
+      h6 {
         text-align: left;
+        @include font-size(14px);
+        @include MQ(M) {
+          @include font-size(16px);
+        }
       }
-      h3 {
+      h4 {
+        text-align: left;
         line-height: 1;
         text-transform: uppercase;
         padding-bottom: 8px;
