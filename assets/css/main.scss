@@ -462,7 +462,11 @@ body.theme-base-01 {
   header.main-header {
     color: $base-01;
     ul li {
-      color: $base-08;
+      color: $base-02;
+      &#current {
+         //color: $base-04;
+         background: rgba($base-08, .1);
+      }
     }
   }
 

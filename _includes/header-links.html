@@ -1,14 +1,14 @@
 <ul>
-	<li>
+	<li {% if page.permalink == nil %} id="current" {% endif %}>
 		<a href="{{ '/' | prepend: site.baseurl | prepend: site.url }}">Home</a><span>/</span>
 	</li>
-	<li>
+	<li {% if page.permalink == "/curriculum-vitae/" %} id="current" {% endif %}>
 		<a href="{{ '/curriculum-vitae/' | prepend: site.baseurl | prepend: site.url }}">Curriculum Vitae</a><span>/</span>
 	</li>
-	<li>
+	<li {% if page.permalink == "/research-blog/" %} id="current" {% endif %}>
 		<a href="{{ '/research-blog/' | prepend: site.baseurl | prepend: site.url }}">Research Blog</a><span>/</span>
 	</li>
-	<li>
+	<li {% if page.permalink == "/photography/" %} id="current" {% endif %}>
 		<a href="{{ '/photography/' | prepend: site.baseurl | prepend: site.url }}">Photography</a><span>/</span>
 	</li>
 </ul>
