@@ -282,6 +282,7 @@ header.main-header {
     right: 0;
     z-index: 9999;
     background: rgba($color-white, 0.9);
+    background: linear-gradient($color-white, rgba($color-white, 0.68));
 }
 
 #content {
