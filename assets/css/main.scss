@@ -158,9 +158,7 @@ em, i { font-style: italic; }
 --------------------------------- */
 
 // default
-
 a.default-anchor {
-
   text-decoration: none;
   border-bottom: 1px solid transparent;
   color: $base-08;
@@ -168,7 +166,6 @@ a.default-anchor {
     @include transition(border-bottom-color .2s);
     border-bottom-color: $base-08;
   }
-
 }
 
 div.default-page-content {
@@ -206,9 +203,10 @@ header.main-header {
 
   ul {
     width: 100%;
-    text-align: center;
-    padding: 15px;
+    text-align: right;
+    padding: 0;
   }
+
   ul li {
     display: inline-block;
     position:relative;
@@ -219,6 +217,7 @@ header.main-header {
     float: left;
     display: inline-block;
     width: 15px;
+    text-align: center;
   }
 
   ul li a {
@@ -234,6 +233,38 @@ header.main-header {
       border-bottom-color: inherit;
     }
   }
+
+  .jg-header {
+      margin: 0 auto;
+      &::after { /* Clearfix */
+          content: '';
+          display: table;
+          clear: both;
+      }
+  }
+
+  .jg-header-headline {
+      width: 50%;
+      padding-left: 18px;
+      float: left;
+      h1, h3 {
+        text-align: left;
+      }
+      h1 {
+        line-height: 1;
+        text-transform: uppercase;
+      }
+      display: block;
+  }
+
+  .jg-header-nav {
+      width: 50%;
+      padding-right: 18px;
+      float: right;
+      text-align: right;
+      display: block;
+  }
+
 }
 
 footer.main-footer {
