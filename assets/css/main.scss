@@ -274,6 +274,20 @@ header.main-header {
 
 }
 
+#fixed-top {
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 9999;
+    background: rgba($color-white, 0.9);
+}
+
+#content {
+    padding-top: 120px;
+}
+
 footer.main-footer {
   background-color: $base-00;
   color: $base-07;
