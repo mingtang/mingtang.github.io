@@ -16,8 +16,6 @@
 		<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/lightbox.css">
 		<!-- font awesome -->
 		<script src="https://use.fontawesome.com/36fcacbdc4.js"></script>
-		<!-- disqus -->
-		<script id="dsq-count-scr" src="//mingtang.disqus.com/count.js" async></script>
 		<!-- Modernizr js -->
 		<script async src="{{ site.baseurl }}/assets/js/modernizr.js"></script>
 		<!-- IE Fixes -->
@@ -33,8 +31,8 @@
 		<header class="main-header" id="fixed-top">
 			<div class="jg-header">
 				<div class="jg-header-headline">
-					<h4><a href="{{ site.baseurl }}/">Ming Tang</a></h4>
-					<h6>{{ site.harmony.description }}</h6>
+					<h4 class="site-title"><a href="{{ site.baseurl }}/">Ming Tang</a></h4>
+					<h6 class="sub-title">{{ site.harmony.description }}</h6>
 				</div>
 				<div class="jg-header-nav">
 					{% include header-links.html %}
@@ -71,6 +69,8 @@
 		<script src="{{ site.baseurl }}/assets/js/imagelightbox.min.js"></script>
 		<script src="{{ site.baseurl }}/assets/js/imagelightbox.js"></script>
 		{% endif %}
+		<!-- disqus -->
+		<script id="dsq-count-scr" src="//mingtang.disqus.com/count.js" async></script>
 		<!-- Google analytics  -->
 		{% include google-analytics.html %}
 	</body>
