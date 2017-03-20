@@ -248,28 +248,36 @@ header.main-header {
       width: 50%;
       padding-left: 18px;
       float: left;
-      h6 {
+      .sub-title {
         text-align: left;
         @include font-size(14px);
         @include MQ(M) {
           @include font-size(16px);
         }
+        padding-top: 8px;
+        -webkit-transition: all .5s;
+        transition: all .5s;
       }
-      h4 {
+      .site-title {
         text-align: left;
         line-height: 1;
         text-transform: uppercase;
-        padding-bottom: 8px;
+        -webkit-transition: all .5s;
+        transition: all .5s;
       }
       display: block;
+
   }
 
   .jg-header-nav {
+      display: none;
       width: 50%;
       padding-right: 18px;
       float: right;
       text-align: right;
-      display: block;
+      @include MQ(M) {
+        display: block;
+      }
   }
 
 }
@@ -281,12 +289,40 @@ header.main-header {
     left: 0;
     right: 0;
     z-index: 9999;
-    background: rgba($color-white, 0.9);
-    background: linear-gradient($color-white, rgba($color-white, 0.68));
+    background: $color-white;
+    -webkit-transition: all .5s;
+    transition: all .5s;
+}
+
+.scrolled-nav {
+    height: 40px !important;
+    @include MQ(M) {
+        height: 60px !important;
+    }
+    padding: 0.5em 0 !important;
+    @include MQ(M) { padding: 1em 0 !important; }
+    box-shadow: 0 15px 35px rgba(50,50,93,.1), 0 5px 15px rgba(0,0,0,.07);
+    .jg-header-headline {
+        .sub-title {
+            display: none !important;
+        }
+        .site-title {
+            font-size: 120% !important;
+        }
+    }
 }
 
 #content {
     padding-top: 120px;
+}
+
+.img-parent {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    img {
+        width: 68%;
+    }
 }
 
 footer.main-footer {
