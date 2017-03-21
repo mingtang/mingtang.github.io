@@ -30,9 +30,9 @@ permalink: /research-blog/
 	<div class="post-box" style="margin-bottom:48px">
 		<img class="box-img" src="/images/posts/early-archean-vs-present-continents-thumb.png" alt="comparison between the proto-continents in the early Archean and present-day continentss">
 		<div class="box-text">
-			<a href="{{ site.url }}/research-blog/2017/03/06/earths-continents-their-orgin-and-evolution/">
-				<h6>2017-1. Earth's continents–their orgin and evolution</h6>
+			<a href="{{ site.url }}/research-blog/2017/03/06/when-did-earths-continental-crust-form/">
+				<h6>2017-1. When did Earth’s continental crust form?</h6>
 			</a>
-			<p>Earth is unique in many ways. It's the only planet in the solar system that has continents--the high standing crust that has a felsic bulk composition (rich in Si, low in Mg and Fe). When and how did the continental crust form on Earth?... <a href="{{ site.url }}/research-blog/2017/03/06/earths-continents-their-orgin-and-evolution/">Read More</a></p>
+			<p>Earth is unique in many ways. It's the only planet in the solar system that has continents--the high standing crust that has a felsic bulk composition (rich in Si, low in Mg and Fe). When and how did the continental crust form on Earth?... <a href="{{ site.url }}/research-blog/2017/03/06/when-did-earths-continental-crust-form/">Read More</a></p>
 		</div>
 	</div>
