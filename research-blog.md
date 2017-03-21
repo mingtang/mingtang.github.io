@@ -33,6 +33,6 @@ permalink: /research-blog/
 			<a href="{{ site.url }}/research-blog/2017/03/06/when-did-earths-continental-crust-form/">
 				<h6>2017-1. When did Earth’s continental crust form?</h6>
 			</a>
-			<p>Earth is unique in many ways. It's the only planet in the solar system that has continents--the high standing crust that has a felsic bulk composition (rich in Si, low in Mg and Fe). When and how did the continental crust form on Earth?... <a href="{{ site.url }}/research-blog/2017/03/06/when-did-earths-continental-crust-form/">Read More</a></p>
+			<p>This is another highly-debated question, and for decades, people have been studying it from various perspectives. I took the same approach used in the continental crust Eu anomaly project—finding clues and evidence from published data to support my idea... <a href="{{ site.url }}/research-blog/2017/03/06/when-did-earths-continental-crust-form/">Read More</a></p>
 		</div>
 	</div>
