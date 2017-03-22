@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Ming Tang - Curriculum Vitae
+title: Curriculum Vitae
+description: Education | Research Experience | Teaching Experience | Invited Talks | Research Award | Publications
 permalink: /curriculum-vitae/
 ---
 

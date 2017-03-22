@@ -6,7 +6,7 @@
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="format-detection" content="telephone=no">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<meta name="description" content="{% if page.meta_description %}{{ page.meta_description }}{% else %}{{ site.harmony.meta_description }}{% endif %}">
+		<meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.harmony.meta_description }}{% endif %}">
 		<title>{% if page.title %}{{ page.title }}{% else %}{{ site.harmony.name }}{% endif %}</title>
 		<link rel="shortcut icon" type="image/x-icon" href="{{ site.url }}/favicon.ico">
 		<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
@@ -47,7 +47,6 @@
 				});
 			});
 			function updateFooter() {
-				//var height_diff = ( $( window ).height() - $( 'header' ).outerHeight() - $( '#content' ).outerHeight());
 				var height_diff = ( $( window ).height() - $( '#content' ).outerHeight());
 				var footer_height = $( 'footer.main-footer' ).outerHeight();
 				var change = height_diff - footer_height;

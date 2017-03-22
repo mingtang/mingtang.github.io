@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Ming Tang - Research Blog
+title: Research Blog
+description: Looking from space, one could be fascinated by our planet in many ways— its vast blue oceans, its complicated and continuously changing cloud patterns, and another feature that can be hardly overlooked— the green and brown landmasses that patch on the blue background—the continents.
 permalink: /research-blog/
 ---
 

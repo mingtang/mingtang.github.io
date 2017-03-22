@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Ming Tang - Photography
+title: Photography
+description: Photography by Ming Tang
 permalink: /photography/
 ---
 
