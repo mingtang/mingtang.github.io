@@ -5,6 +5,7 @@ description: Earth is unique in many ways. It's the only planet in the solar sys
 date: 2017-03-06 22:48:45
 categories:
 - research-blog
+image: /images/posts/early-archean-vs-present-continents.png
 ---
 
 {:#DropCap}
