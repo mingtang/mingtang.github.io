@@ -36,3 +36,4 @@ permalink: /research-blog/
 			<p>This is another highly-debated question, and for decades, people have been studying it from various perspectives. I took the same approach used in the continental crust Eu anomaly project—finding clues and evidence from published data to support my idea... <a href="{{ site.url }}/research-blog/2017/03/06/when-did-earths-continental-crust-form/">Read More</a></p>
 		</div>
 	</div>
+</div>
