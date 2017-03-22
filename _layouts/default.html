@@ -8,7 +8,10 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.harmony.meta_description }}{% endif %}">
 		<title>{% if page.title %}{{ page.title }}{% else %}{{ site.harmony.name }}{% endif %}</title>
+		<meta name="apple-mobile-web-app-title" content="Ming Tang">
 		<link rel="icon" type="image/x-icon" href="{{ site.url }}/favicon.ico">
+		<link rel="apple-touch-icon" sizes="57x57" href="/images/icons/apple-touch-icon-57x57.png" />
+		<link rel="apple-touch-icon" sizes="180x180" href="/imags/icons/apple-touch-icon-180x180.png" />
 		<!-- Harmony styles -->
 		<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/main.css?{{ site.time | date: '%s%N' }}">
 		<!-- image lightbox -->
