@@ -814,3 +814,7 @@ sub {
     vertical-align: sub;
     font-size: smaller;
 }
+
+p::selection, p span::selection, p em::selection, p strong::selection, sub::selection, sup::selection {
+    background: rgba($base-08, .1);
+}
