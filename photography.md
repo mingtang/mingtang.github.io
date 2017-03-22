@@ -3,7 +3,7 @@ layout: page
 title: Photography
 description: Photography by Ming Tang
 permalink: /photography/
-image: /images/photography/full/photo35.jpg
+image: images/photography/full/photo35.jpg
 ---
 
 <!-- image lightbox -->

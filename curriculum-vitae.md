@@ -3,7 +3,7 @@ layout: page
 title: Curriculum Vitae
 description: Education | Research Experience | Teaching Experience | Invited Talks | Research Award | Publications
 permalink: /curriculum-vitae/
-image: /images/tang.jpg
+image: images/tang.jpg
 ---
 
 ##### <a name="education"></a>Education
