@@ -33,7 +33,7 @@ image: images/posts/early-archean-vs-present-continents.png
 		<img class="box-img" src="/images/posts/lower-crust-foundering-thumb.jpg" alt="lower crust foundering">
 		<div class="box-text">
 			<a href="{{ site.url }}/research-blog/2017/03/22/lower-crust-foundering/">
-				<h6>2017-1. Lower crust recycling — destruction from beneath</h6>
+				<h6>2017-1. Lower crust recycling — refining from beneath</h6>
 			</a>
 			<p>How did Earth’s continental crust form? A key feature of Earth’s continental crust is that it contains voluminous granites, and is thus felsic (rich in Si and Al). This crust is a distinctive product... <a href="{{ site.url }}/research-blog/2017/03/22/lower-crust-foundering/">Read More</a></p>
 		</div>
