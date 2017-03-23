@@ -12,7 +12,7 @@ categories:
 How did Earth’s continental crust form?
 
 
-
+{:#ParagraphSink}
 A key feature of Earth’s continental crust is that it contains voluminous granites, and is thus felsic (rich in Si and Al). This crust is a distinctive product of our planet. The mantle melts to produce crust, but felsic composition of Earth’s continental crust means that it cannot be derived directly by melting the mantle, which is ultramafic (strongly enriched in Mg and Fe). After decades of research on this “paradox”, it has become clear that crustal recycling, perhaps following intra-crustal differentiation, is required to solve this composition problem. Several hypotheses have been proposed for changing the original crustal composition, including lower crustal recycling (gravitational sinking of denser crust initiaited by internal or external forces), upper crustal weathering followed by subduction of altered oceanic crust back into the mantle, subduction erosion and crustal subduction followed by relamination (rise of buoyant crustal materials), etc. Most of these processes have been observed, but the relative importance of each process in shaping the composition of the continental crust is uncertain, as is the question of whether or how these processes have changed over Earth history.
 
 This project focused on data compilation, modeling, uncertainty evaluation and interpretation. For the first time, I realized that making significant contributions to science doesn’t always require collecting new data. It is worth going back to published data and re-evaluating them.
