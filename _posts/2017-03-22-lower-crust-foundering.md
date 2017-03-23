@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Eu anomaly in the continental crust and its constraint on lower crust recycling
+title: Lower crust recycling — destruction from beneath
 description: How did Earth’s continental crust form?
 date: 2017-03-21 22:48:45
 categories:
