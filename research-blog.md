@@ -30,10 +30,21 @@ image: images/posts/early-archean-vs-present-continents.png
 	<hr style="margin-bottom:48px">
 
 	<div class="post-box" style="margin-bottom:48px">
+		<img class="box-img" src="/images/posts/lower-crust-foundering-thumb.png" alt="lower crust foundering">
+		<div class="box-text">
+			<a href="{{ site.url }}/research-blog/2017/03/22/lower-crust-foundering/">
+				<h6>2017-1. Eu anomaly in the continental crust and its constraint on lower crust recycling</h6>
+			</a>
+			<p>How did Earth’s continental crust form?
+A key feature of Earth’s continental crust is that it contains voluminous granites, and is thus felsic (rich in Si and Al). This crust is a distinctive product of our planet... <a href="{{ site.url }}/research-blog/2017/03/22/lower-crust-foundering/">Read More</a></p>
+		</div>
+	</div>
+
+	<div class="post-box" style="margin-bottom:48px">
 		<img class="box-img" src="/images/posts/early-archean-vs-present-continents-thumb.png" alt="comparison between the proto-continents in the early Archean and present-day continentss">
 		<div class="box-text">
 			<a href="{{ site.url }}/research-blog/2017/03/06/when-did-earths-continental-crust-form/">
-				<h6>2017-1. When did Earth’s continental crust form?</h6>
+				<h6>2017-2. When did Earth’s continental crust form?</h6>
 			</a>
 			<p>This is another highly-debated question, and for decades, people have been studying it from various perspectives. I took the same approach used in the continental crust Eu anomaly project—finding clues and evidence from published data to support my idea... <a href="{{ site.url }}/research-blog/2017/03/06/when-did-earths-continental-crust-form/">Read More</a></p>
 		</div>
