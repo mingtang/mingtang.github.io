@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lower crust recycling — destruction from beneath
+title: Lower crust recycling — refining from beneath
 description: How did Earth’s continental crust form?
 date: 2017-03-22 22:48:45
 categories:
