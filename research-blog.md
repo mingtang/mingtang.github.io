@@ -30,7 +30,7 @@ image: images/posts/early-archean-vs-present-continents.png
 	<hr style="margin-bottom:48px">
 
 	<div class="post-box" style="margin-bottom:48px">
-		<img class="box-img" src="/images/posts/lower-crust-foundering-thumb.png" alt="lower crust foundering">
+		<img class="box-img" src="/images/posts/lower-crust-foundering-thumb.jpg" alt="lower crust foundering">
 		<div class="box-text">
 			<a href="{{ site.url }}/research-blog/2017/03/22/lower-crust-foundering/">
 				<h6>2017-1. Lower crust recycling — destruction from beneath</h6>
