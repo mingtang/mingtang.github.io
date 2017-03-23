@@ -36,7 +36,7 @@ image: images/posts/early-archean-vs-present-continents.png
 				<h6>2017-1. Eu anomaly in the continental crust and its constraint on lower crust recycling</h6>
 			</a>
 			<p>How did Earth’s continental crust form?
-A key feature of Earth’s continental crust is that it contains voluminous granites, and is thus felsic (rich in Si and Al). This crust is a distinctive product of our planet... <a href="{{ site.url }}/research-blog/2017/03/22/lower-crust-foundering/">Read More</a></p>
+A key feature of Earth’s continental crust is that it contains voluminous granites, and is thus felsic (rich in Si and Al). This crust is a distinctive product... <a href="{{ site.url }}/research-blog/2017/03/22/lower-crust-foundering/">Read More</a></p>
 		</div>
 	</div>
 
