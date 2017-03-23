@@ -18,6 +18,9 @@ The lower part of the continental crust may transform to eclogite (essentially m
 Europium anomaly is a term that describes the enrichment or depletion of Eu relative to the neighboring rare earth elements Sm and Gd. Europium is present in two valence states (+2 and +3) while Sm and Gd are only found in the +3 valence state. As magmas crystalize and differentiate in the crust, Eu is fractionated from Sm and Gd, as Eu2+ preferentially partitions into plagioclase (common white mineral in granites) while Sm and Gd (and Eu3+) tend to stay in the magmas. Plagioclase is a major rock-forming mineral in the crust.  Plagioclase crystallizes out from magmas and settles down in the deep crust, forming cumulates together with other early-crystallizing minerals. Removal of plagioclase from a melt fractionates Eu from Sm and Gd, causing Eu depletion in the magma that ultimately ascends to the upper crust and Eu enrichment in the cumulate-rich lower crust. Therefore, removal of parts of the lower crust generates Eu depletion in the remaining crust, and the size of this depletion can be used to calculate the mass of recycled lower continental crust.
 Following this method, I found the mass of the recycled lower continental crust was huge–about three times that of the remaining crust, that is, the continental crust we stand on today. In other words, nature produced four times by mass the modern continental crust and recycled 75% of it. This number has implications for a lot of geologic problems. For example, this large mass of recycled lower crust may form a significant geochemical region in the deep Earth, and may account for many of the elemental and isotopic imbalances observed in the crust-mantle system.
 
-![lower crust foundering]({{ site.url }}/images/posts/lower-crust-foundering.jpg)
+
+<div class="img-parent">
+<img src="/images/posts/lower-crust-foundering.jpg" alt="lower crust foundering" />
+</div>
 
 **Fig. 1**. A Rayleigh-Taylor type lower crust foundering beneath a thickened crust in orogenic belts.
