@@ -9,7 +9,7 @@ image: images/posts/early-archean-vs-present-continents.png
 <div class="page-content wc-container">
 	<h5>Earth’s unique continents</h5>  
 	<hr>
-	<p id="DropCap">Looking from space, one could be fascinated by our planet in many ways: its vast blue oceans, its complicated and continuously changing cloud patterns, and another feature that can be hardly overlooked— the green and brown landmasses that patch on the blue background—the continents.</p>
+	<p id="DropCap">Looking from space, one could be fascinated by our planet in many ways: its vast blue oceans, its complicated and continuously changing cloud patterns, and another feature that can be hardly missed—the green and brown landmasses that patch on the blue background—the continents.</p>
 	<p>
 	The continents are billions of years old, and yet, they are restless. In their history, the continents kept changing their shapes, moved around, sometimes collided into each other, and sometimes broke apart into smaller pieces. The continents preserve the memory of our planet.
 	</p>
