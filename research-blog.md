@@ -43,7 +43,7 @@ image: images/posts/early-archean-vs-present-continents.png
 		<img class="box-img" src="/images/posts/mid-ocean-ridge-thumb.jpg" alt="mid ocean ridge">
 		<div class="box-text">
 			<a href="{{ site.url }}/research-blog/2017/03/23/morb-eu/">
-				<h6>2017-2. Hunting for the ghost of the recycled lower continental crust</h6>
+				<h6>2017-2. Hunting for the ghost of the recycled lower crust</h6>
 			</a>
 			<p>Following the first project, I began to search for this missing lower continental crust in mantle samples with the Eu “probe”. The recycled lower continental crust carries a Eu excess, and any mantle melts that tap this crustal component should show a positive Eu anomaly... <a href="{{ site.url }}/research-blog/2017/03/22/morb-eu/">Read More</a></p>
 		</div>
