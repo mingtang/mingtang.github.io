@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Li isotopes in the Lesser Antilles arc system, "fishing expedition" and hypothesis-driven research strategies
+title: In search of crustal Li in arc lavas, "fishing expedition" and hypothesis-driven research strategies
 description: How did Earth’s continental crust form?
 date: 2017-03-24 12:48:45
 categories:
