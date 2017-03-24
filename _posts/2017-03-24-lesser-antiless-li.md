@@ -5,6 +5,7 @@ description: How did Earth’s continental crust form?
 date: 2017-03-24 12:48:45
 categories:
 - research-blog
+image: images/posts/mid-ocean-ridge.jpg
 ---
 
 {:#DropCap}
