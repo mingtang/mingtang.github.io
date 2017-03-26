@@ -50,7 +50,7 @@ image: images/posts/early-archean-vs-present-continents.png
 	</div>
 	
 	<div class="post-box" style="margin-bottom:48px">
-		<img class="box-img" src="/images/posts/island-arc.jpg" alt="island arc">
+		<img class="box-img" src="/images/posts/island-arc-2.jpg" alt="island arc">
 		<div class="box-text">
 			<a href="{{ site.url }}/research-blog/2017/03/24/lesser-antilles-li/">
 				<h6>2017-3. In search of crustal Li in arc lavas, "fishing expedition" and hypothesis-driven research strategies</h6>
