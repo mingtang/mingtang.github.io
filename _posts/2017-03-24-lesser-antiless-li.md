@@ -24,7 +24,7 @@ This “fishing expedition” turned out to be very fruitful. Although this rese
 
 
 <div class="img-parent">
-<img src="/images/posts/mid-ocean-ridge.jpg" alt="mid ocean ridge" />
+<img src="/images/posts/island-arc.jpg" alt="island arc" />
 </div>
 
-**Fig. 1**. Beneath mid ocean ridges, the mantle rises and melts, producing new oceanic crust.
+**Fig. 1**. One oceanic crust subducts beneath another one. Subduction brings down water and other crustal materials, causing mantle melting.
