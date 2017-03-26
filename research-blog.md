@@ -65,7 +65,7 @@ image: images/posts/early-archean-vs-present-continents.png
 			<a href="{{ site.url }}/research-blog/2017/03/26/zircon-li/">
 				<h6>2017-4. Li diffusion mechanism in zircon—the masterpiece of my Ph.D. research</h6>
 			</a>
-			<p>This is the project that I originally proposed for my Ph.D. dissertation, although I ended up doing multiple projects that interested me. To solve the problem, I teamed up with people from multiple institutions... <a href="{{ site.url }}/research-blog/2017/03/26/zircon-li/">Read More</a></p>
+			<p>This is the project that I originally proposed for my Ph.D. dissertation, although I ended up doing multiple projects that interested me. To solve the problem, I teamed up with people from multiple inst... <a href="{{ site.url }}/research-blog/2017/03/26/zircon-li/">Read More</a></p>
 		</div>
 	</div>	
 
