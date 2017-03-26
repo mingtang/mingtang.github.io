@@ -29,5 +29,5 @@ Following this method, I found the mass of the recycled lower continental crust 
 <img src="/images/posts/lower-crust-foundering.jpg" alt="lower crust foundering" />
 </div>
 
-{:#caption}
+{:#captionCentered}
 **Fig. 1**. A Rayleigh-Taylor type lower crust foundering beneath thickened crust in mountain belts.

@@ -825,5 +825,9 @@ p::selection, p span::selection, p em::selection, p strong::selection, sub::sele
 
 #caption {
     font-size: 86%;
+}
+
+#captionCentered {
+    @extend #caption;
     text-align: center;
 }
