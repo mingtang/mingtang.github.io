@@ -5,7 +5,7 @@ description: How did Earth’s continental crust form?
 date: 2017-03-24 12:48:45
 categories:
 - research-blog
-image: images/posts/island-arc-2.jpg
+image: images/posts/island-arc.jpg
 ---
 
 {:#DropCap}
@@ -24,7 +24,7 @@ This “fishing expedition” turned out to be very fruitful. Although this rese
 
 
 <div class="img-parent">
-<img src="/images/posts/island-arc-2.jpg" alt="island arc" />
+<img src="/images/posts/island-arc.jpg" alt="island arc" />
 </div>
 
 **Fig. 1**. One oceanic crust subducts beneath another one. Subduction brings down water and other crustal materials, causing mantle melting. As a consequence, a volcano chain that looks like an "arc" is formed.

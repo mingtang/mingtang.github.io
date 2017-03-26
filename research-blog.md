@@ -48,16 +48,16 @@ image: images/posts/early-archean-vs-present-continents.png
 			<p>Following the first project, I began to search for this missing lower continental crust in mantle samples with the Eu “probe”. The recycled lower continental crust carries a Eu excess, and any mantle melts that tap this crustal component should show a positive Eu anomaly... <a href="{{ site.url }}/research-blog/2017/03/23/morb-eu/">Read More</a></p>
 		</div>
 	</div>
-	
+
 	<div class="post-box" style="margin-bottom:48px">
-		<img class="box-img" src="/images/posts/island-arc-2.jpg" alt="island arc">
+		<img class="box-img" src="/images/posts/island-arc-thumb.jpg" alt="island arc">
 		<div class="box-text">
 			<a href="{{ site.url }}/research-blog/2017/03/24/lesser-antilles-li/">
 				<h6>2017-3. In search of crustal Li in arc lavas, "fishing expedition" and hypothesis-driven research strategies</h6>
 			</a>
 			<p>This project was suggested by one of my advisors, Roberta Rudnick, because I was being funded on a grant to investigate Li isotopes. This project started off as a “fishing expedition”, something my... <a href="{{ site.url }}/research-blog/2017/03/24/lesser-antilles-li/">Read More</a></p>
 		</div>
-	</div>	
+	</div>
 
 	<div class="post-box" style="margin-bottom:48px">
 		<img class="box-img" src="/images/posts/early-archean-vs-present-continents-thumb.png" alt="comparison between the proto-continents in the early Archean and present-day continentss">
