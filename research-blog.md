@@ -35,7 +35,7 @@ image: images/posts/early-archean-vs-present-continents.png
 			<a href="{{ site.url }}/research-blog/2017/03/22/lower-crust-foundering/">
 				<h6>2017-1. Lower crust recycling — refining from beneath</h6>
 			</a>
-			<p>How did Earth’s continental crust form? A key feature of Earth’s continental crust is that it contains voluminous granites, and is thus felsic (rich in Si and Al). This crust is a distinctive product... <a href="{{ site.url }}/research-blog/2017/03/22/lower-crust-foundering/">Read More</a></p>
+			<p>How did Earth’s continental crust form? A key feature of Earth’s continental crust is that it contains voluminous granites, and is thus felsic (rich in Si and Al). This crust is a distinctive product of our... <a href="{{ site.url }}/research-blog/2017/03/22/lower-crust-foundering/">Read More</a></p>
 		</div>
 	</div>
 
@@ -55,7 +55,7 @@ image: images/posts/early-archean-vs-present-continents.png
 			<a href="{{ site.url }}/research-blog/2017/03/24/lesser-antilles-li/">
 				<h6>2017-3. In search of crustal Li in arc lavas, "fishing expedition" and hypothesis-driven research strategies</h6>
 			</a>
-			<p>This project was suggested by one of my advisors, Roberta Rudnick, because I was being funded on a grant to investigate Li isotopes. This project started off as a “fishing expedition”... <a href="{{ site.url }}/research-blog/2017/03/24/lesser-antilles-li/">Read More</a></p>
+			<p>This project was suggested by one of my advisors, Roberta Rudnick, because I was being funded on a grant to investigate Li isotopes. This project started off as a “fishing expedition”, something my... <a href="{{ site.url }}/research-blog/2017/03/24/lesser-antilles-li/">Read More</a></p>
 		</div>
 	</div>	
 
@@ -65,7 +65,7 @@ image: images/posts/early-archean-vs-present-continents.png
 			<a href="{{ site.url }}/research-blog/2017/03/06/when-did-earths-continental-crust-form/">
 				<h6>2017-4. When did Earth’s continental crust form?</h6>
 			</a>
-			<p>This is another highly-debated question, and for decades, people have been studying it from various perspectives. I took the same approach used in the continental crust Eu anomaly project—finding clues and evidence from published data to support my idea... <a href="{{ site.url }}/research-blog/2017/03/06/when-did-earths-continental-crust-form/">Read More</a></p>
+			<p>This is another highly-debated question, and for decades, people have been studying it from various perspectives. I took the same approach used in the continental crust Eu anomaly project—finding clues and evidence from published data to support my idea. When... <a href="{{ site.url }}/research-blog/2017/03/06/when-did-earths-continental-crust-form/">Read More</a></p>
 		</div>
 	</div>
 </div>
