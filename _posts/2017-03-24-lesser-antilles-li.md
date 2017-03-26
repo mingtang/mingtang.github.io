@@ -27,4 +27,4 @@ This “fishing expedition” turned out to be very fruitful. Although this rese
 <img src="/images/posts/island-arc-2.jpg" alt="island arc" />
 </div>
 
-**Fig. 1**. One oceanic crust subducts beneath another one. Subduction brings down water and other crustal materials, causing mantle melting. As a consequence, a volcano array that looks like an "arc" is formed.
+**Fig. 1**. One oceanic crust subducts beneath another one. Subduction brings down water and other crustal materials, causing mantle melting. As a consequence, a volcano chain that looks like an "arc" is formed.
