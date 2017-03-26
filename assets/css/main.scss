@@ -822,3 +822,8 @@ sub {
 p::selection, p span::selection, p em::selection, p strong::selection, sub::selection, sup::selection {
     background: rgba($base-08, .1);
 }
+
+#caption {
+    font-size: 86%;
+    text-align: center;
+}
