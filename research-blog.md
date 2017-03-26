@@ -58,12 +58,22 @@ image: images/posts/early-archean-vs-present-continents.png
 			<p>This project was suggested by one of my advisors, Roberta Rudnick, because I was being funded on a grant to investigate Li isotopes. This project started off as a “fishing expedition”, something my... <a href="{{ site.url }}/research-blog/2017/03/24/lesser-antilles-li/">Read More</a></p>
 		</div>
 	</div>
+	
+	<div class="post-box" style="margin-bottom:48px">
+		<img class="box-img" src="/images/posts/ns-thumb.jpg" alt="ns">
+		<div class="box-text">
+			<a href="{{ site.url }}/research-blog/2017/03/26/zircon-li/">
+				<h6>2017-4. Li diffusion mechanism in zircon—the masterpiece of my Ph.D. research</h6>
+			</a>
+			<p>This is the project that I originally proposed for my Ph.D. dissertation, although I ended up doing multiple projects that interested me. To solve the problem, I teamed up with people from multiple... <a href="{{ site.url }}/research-blog/2017/03/26/zircon-li/">Read More</a></p>
+		</div>
+	</div>	
 
 	<div class="post-box" style="margin-bottom:48px">
 		<img class="box-img" src="/images/posts/early-archean-vs-present-continents-thumb.png" alt="comparison between the proto-continents in the early Archean and present-day continentss">
 		<div class="box-text">
 			<a href="{{ site.url }}/research-blog/2017/03/06/when-did-earths-continental-crust-form/">
-				<h6>2017-4. When did Earth’s continental crust form?</h6>
+				<h6>2017-5. When did Earth’s continental crust form?</h6>
 			</a>
 			<p>This is another highly-debated question, and for decades, people have been studying it from various perspectives. I took the same approach used in the continental crust Eu anomaly project—finding clues and evidence from published data to support my idea. When... <a href="{{ site.url }}/research-blog/2017/03/06/when-did-earths-continental-crust-form/">Read More</a></p>
 		</div>
