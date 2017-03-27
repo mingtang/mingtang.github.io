@@ -48,13 +48,20 @@
 						$('#fixed-top').removeClass('scrolled-nav');
 					}
 				});
+				$('video').click(function toggleControls() {
+					if (this.hasAttribute("controls")) {
+						this.removeAttribute("controls");
+					} else {
+						this.setAttribute("controls", "controls");
+					}
+				});
 			});
 			function updateFooter() {
 				var height_diff = ( $( window ).height() - $( '#content' ).outerHeight());
 				var footer_height = $( 'footer.main-footer' ).outerHeight();
 				var change = height_diff - footer_height;
 				if ( change > 0 ) { $( 'footer.main-footer' ).css( 'margin-top', change ); }
-			}
+			};
 		</script>
 	</head>
 
