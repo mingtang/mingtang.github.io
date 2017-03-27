@@ -32,50 +32,50 @@ image: images/posts/early-archean-vs-present-continents.png
 	<div class="post-box" style="margin-bottom:48px">
 		<img class="box-img" src="/images/posts/lower-crust-foundering-thumb.jpg" alt="lower crust foundering">
 		<div class="box-text">
-			<a href="{{ site.url }}/research-blog/2017/03/22/lower-crust-foundering/">
+			<a href="{{ site.url }}/research-blog/2017/02/22/lower-crust-foundering/">
 				<h6>2017-1. Lower crust recycling — refining from beneath</h6>
 			</a>
-			<p>How did Earth’s continental crust form? A key feature of Earth’s continental crust is that it contains voluminous granites, and is thus felsic (rich in Si and Al). This crust is a distinctive product of our... <a href="{{ site.url }}/research-blog/2017/03/22/lower-crust-foundering/">Read More</a></p>
+			<p>How did Earth’s continental crust form? A key feature of Earth’s continental crust is that it contains voluminous granites, and is thus felsic (rich in Si and Al). This crust is a distinctive product of our... <a href="{{ site.url }}/research-blog/2017/02/22/lower-crust-foundering/">Read More</a></p>
 		</div>
 	</div>
 
 	<div class="post-box" style="margin-bottom:48px">
 		<img class="box-img" src="/images/posts/mid-ocean-ridge-thumb.jpg" alt="mid ocean ridge">
 		<div class="box-text">
-			<a href="{{ site.url }}/research-blog/2017/03/23/morb-eu/">
+			<a href="{{ site.url }}/research-blog/2017/02/28/morb-eu/">
 				<h6>2017-2. Hunting for the ghost of the recycled lower crust</h6>
 			</a>
-			<p>Following the first project, I began to search for this missing lower continental crust in mantle samples with the Eu “probe”. The recycled lower continental crust carries a Eu excess, and any mantle melts that tap this crustal component should show a positive Eu anomaly... <a href="{{ site.url }}/research-blog/2017/03/23/morb-eu/">Read More</a></p>
+			<p>Following the first project, I began to search for this missing lower continental crust in mantle samples with the Eu “probe”. The recycled lower continental crust carries a Eu excess, and any mantle melts that tap this crustal component should show a positive Eu anomaly... <a href="{{ site.url }}/research-blog/2017/02/28/morb-eu/">Read More</a></p>
 		</div>
 	</div>
 
 	<div class="post-box" style="margin-bottom:48px">
 		<img class="box-img" src="/images/posts/island-arc-thumb.jpg" alt="island arc">
 		<div class="box-text">
-			<a href="{{ site.url }}/research-blog/2017/03/24/lesser-antilles-li/">
+			<a href="{{ site.url }}/research-blog/2017/03/06/lesser-antilles-li/">
 				<h6>2017-3. In search of crustal Li in arc lavas, "fishing expedition" and hypothesis-driven research strategies</h6>
 			</a>
-			<p>This project was suggested by one of my advisors, Roberta Rudnick, because I was being funded on a grant to investigate Li isotopes. This project started off as a “fishing expedition”, something my... <a href="{{ site.url }}/research-blog/2017/03/24/lesser-antilles-li/">Read More</a></p>
+			<p>This project was suggested by one of my advisors, Roberta Rudnick, because I was being funded on a grant to investigate Li isotopes. This project started off as a “fishing expedition”, something my... <a href="{{ site.url }}/research-blog/2017/03/06/lesser-antilles-li/">Read More</a></p>
 		</div>
 	</div>
 
 	<div class="post-box" style="margin-bottom:48px">
 		<img class="box-img" src="/images/posts/ns-thumb.jpg" alt="ns">
 		<div class="box-text">
-			<a href="{{ site.url }}/research-blog/2017/03/26/zircon-li/">
+			<a href="{{ site.url }}/research-blog/2017/03/12/zircon-li/">
 				<h6>2017-4. Li diffusion mechanism in zircon—the masterpiece of my Ph.D. research</h6>
 			</a>
-			<p>This is the project that I originally proposed for my Ph.D. dissertation, although I ended up doing multiple projects that interested me. To solve the problem, I teamed up with people from multiple inst... <a href="{{ site.url }}/research-blog/2017/03/26/zircon-li/">Read More</a></p>
+			<p>This is the project that I originally proposed for my Ph.D. dissertation, although I ended up doing multiple projects that interested me. To solve the problem, I teamed up with people from multiple inst... <a href="{{ site.url }}/research-blog/2017/03/12/zircon-li/">Read More</a></p>
 		</div>
 	</div>
 
 	<div class="post-box" style="margin-bottom:48px">
 		<img class="box-img" src="/images/posts/early-archean-vs-present-continents-thumb.png" alt="comparison between the proto-continents in the early Archean and present-day continentss">
 		<div class="box-text">
-			<a href="{{ site.url }}/research-blog/2017/03/06/when-did-earths-continental-crust-form/">
+			<a href="{{ site.url }}/research-blog/2017/03/26/when-did-earths-continental-crust-form/">
 				<h6>2017-5. When did Earth’s continental crust form?</h6>
 			</a>
-			<p>This is another highly-debated question, and for decades, people have been studying it from various perspectives. I took the same approach used in the continental crust Eu anomaly project—finding clues and evidence from published data to support my idea. When... <a href="{{ site.url }}/research-blog/2017/03/06/when-did-earths-continental-crust-form/">Read More</a></p>
+			<p>This is another highly-debated question, and for decades, people have been studying it from various perspectives. I took the same approach used in the continental crust Eu anomaly project—finding clues and evidence from published data to support my idea. When... <a href="{{ site.url }}/research-blog/2017/03/26/when-did-earths-continental-crust-form/">Read More</a></p>
 		</div>
 	</div>
 </div>

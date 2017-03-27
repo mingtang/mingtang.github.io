@@ -2,7 +2,7 @@
 layout: post
 title: In search of crustal Li in arc lavas, "fishing expedition" and hypothesis-driven research strategies
 description: How did Earth’s continental crust form?
-date: 2017-03-24 12:48:45
+date: 2017-03-06 12:48:45
 categories:
 - research-blog
 image: images/posts/island-arc.jpg
