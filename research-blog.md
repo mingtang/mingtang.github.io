@@ -85,7 +85,7 @@ image: images/posts/early-archean-vs-present-continents.png
 			<a href="{{ site.url }}/research-blog/2017/04/02/la/">
 				<h6>2017-6. The source of elemental fractionation during LA-ICP-MS analysis</h6>
 			</a>
-			<p>Some of my Ph.D. projects are analytically challenging, which require either high precision or extremely small sample sizes (~10<sup>-17</sup> g). These challenges drove me to study the instruments—how they work and how to optimize them for my research purposes. Generally... <a href="{{ site.url }}/research-blog/2017/04/02/la/">Read More</a></p>
+			<p>Some of my Ph.D. projects are analytically challenging, which require either high precision or extremely small sample sizes (e.g., ~10<sup>-17</sup> g). These challenges drove me to study the instruments—how they work and how to optimize them for my research purposes. Generally... <a href="{{ site.url }}/research-blog/2017/04/02/la/">Read More</a></p>
 		</div>
 	</div>
 </div>
