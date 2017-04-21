@@ -10,42 +10,43 @@ image: images/tang.jpg
 
 ---
 
-- B.A., Geochemistry, Nanjing University <span class="date">2007 - 2011</span>
-<br>supervised by Xiao-Lei Wang
-
 -  Ph.D., Geochemistry, University of Maryland, College Park <span class="date">2011 - 2016</span>
 <br>supervised by Williams F. McDonough and Roberta L. Rudnick
+
+- B.A., Geochemistry, Nanjing University <span class="date">2007 - 2011</span>
+<br>supervised by Xiao-Lei Wang
 
 
 ##### <a name="research-experience"></a>Research Experience
 
 ---
 
-- Undergraduate research assistance at Nanjing University, China <span class="date">2009 - 2011</span>
+- Post-doc at Rice University, USA <span class="date">2016 - 2017</span>
 
 - Graduate research assistance at the University of Maryland, USA <span class="date">2012 - 2016</span>
 
-- Post-doc at Rice University, USA <span class="date">2016 - 2017</span>
+- Undergraduate research assistance at Nanjing University, China <span class="date">2009 - 2011</span>
 
 
 ##### <a name="teaching-experience"></a>Teaching Experience
 
 ---
 
-- High temperature geochemistry, teaching assistant <span class="date">Sep - Dec, 2011</span>
+- Climate change, teaching assistant <span class="date">Feb - May 2015</span>
 
 - Physical geology, teaching assistant <span class="date">Feb - May 2012</span>
 
-- Climate change, teaching assistant <span class="date">Feb - May 2015</span>
+- High temperature geochemistry, teaching assistant <span class="date">Sep - Dec, 2011</span>
+
 
 
 ##### <a name="invited-talks"></a>Invited Talks
 
 ---
 
-- China University of Geosciences, Wuhan <span class="date">2014</span>
+- Harvard University <span class="date">2016</span>
 
-- Nanjing University <span class="date">2014</span>
+- University of California, Santa Barbara <span class="date">2016</span>
 
 - Geological Society of Maryland <span class="date">2016</span>
 
@@ -53,15 +54,15 @@ image: images/tang.jpg
 
 - FESD meeting <span class="date">2016</span>
 
-- University of California, Santa Barbara <span class="date">2016</span>
-
 - Nanjing University <span class="date">2016</span>
 
 - China University of Geosciences, Wuhan <span class="date">2016</span>
 
 - University of Science and Technology of China <span class="date">2016</span>
 
-- Harvard University <span class="date">2016</span>
+- China University of Geosciences, Wuhan <span class="date">2014</span>
+
+- Nanjing University <span class="date">2014</span>
 
 
 ##### <a name="research-award"></a>Research Award
