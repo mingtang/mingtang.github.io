@@ -71,6 +71,8 @@ image: images/tang.jpg
 
 - Charles A. Caramello Distinguished Dissertation Award, Class 2016 <span class="date">2017</span>
 
+- Best paper award, Geology Department, University of Maryland <span class="date">2016</span>
+
 - Goldschmidt student grant <span class="date">2015, 2016</span>
 
 - Ann G. Wylie Dissertation fellowship <span class="date">2015</span>
