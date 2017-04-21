@@ -68,15 +68,18 @@ image: images/tang.jpg
 
 ---
 
-- GSA graduate research grant <span class="date">2014</span>
+- Charles A. Caramello Distinguished Dissertation Award, Class 2016 <span class="date">2017</span>
 
-- Jena outstanding graduate paper cup award <span class="date">2014</span>
+- Goldschmidt student grant <span class="date">2015, 2016</span>
 
 - Ann G. Wylie Dissertation fellowship <span class="date">2015</span>
 
 - Graduate School Summer Research fellowship <span class="date">2015</span>
 
-- Goldschmidt student grant <span class="date">2015, 2016</span>
+- GSA graduate research grant <span class="date">2014</span>
+
+- Jena outstanding graduate paper cup award <span class="date">2014</span>
+
 
 
 ##### <a name="service"></a>Service
