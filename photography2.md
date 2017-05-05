@@ -18,14 +18,15 @@ image: images/photography/full/photo35.jpg
 I do photography as a hobby. Being a Earth scientist granted me lots of opportunities to travel around the world and see many places that are hardly accessible to the public.
 
 
-	<div class="post-box" style="margin-bottom:48px">
-		<img class="box-img" src="/images/posts/lower-crust-foundering-thumb.jpg" alt="lower crust foundering">
+		<div class="post-box" style="margin-bottom:48px">
+		<img class="box-img" src="/images/posts/crater-thumb.jpg" alt="laser craters">
 		<div class="box-text">
-			<a href="{{ site.url }}/research-blog/2017/02/22/lower-crust-foundering/">
-				<h6>2017-1. Lower crust recycling — refining from beneath</h6>
+			<a href="{{ site.url }}/research-blog/2017/04/02/la/">
+				<h6>2017-6. The source of elemental fractionation in LA-ICP-MS analysis</h6>
 			</a>
-			<p>How did Earth’s continental crust form? A key feature of Earth’s continental crust is that it contains voluminous granites, and is thus felsic (rich in Si and Al). This crust is a distinctive product of our... <a href="{{ site.url }}/research-blog/2017/02/22/lower-crust-foundering/">Read More</a></p>
+			<p>Some of my Ph.D. projects were analytically challenging, which required measurements of either high precision or extremely small sample sizes (e.g., ~10<sup>-17</sup> g). These challenges drove me to study the instruments—how they work and how to optimize them for my research... <a href="{{ site.url }}/research-blog/2017/04/02/la/">Read More</a></p>
 		</div>
 	</div>
+</div>
   
 
