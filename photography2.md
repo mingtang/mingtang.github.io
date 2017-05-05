@@ -28,4 +28,4 @@ I do photography as a hobby. Being a Earth scientist granted me lots of opportun
 		</div>
 	</div>
   
-  </div>
+
