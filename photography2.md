@@ -16,7 +16,7 @@ image: images/photography/full/photo35.jpg
 <a href="/images/photography/panorama/panorama2.jpg" data-imagelightbox="d"><img src="/images/photography/panorama/panorama2.jpg" alt="Lake Powell" /></a>
 <a href="/images/photography/panorama/panorama3.jpg" data-imagelightbox="d"><img src="/images/photography/panorama/panorama3.jpg" alt="Yosemite National Park, California" /></a>
 
-
+<div class="photobox">
 
 
 </div>
