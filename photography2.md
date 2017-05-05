@@ -2,7 +2,7 @@
 layout: page
 title: Photography
 description: Photography by Ming Tang
-permalink: /photography/
+permalink: /photography2/
 image: images/photography/full/photo35.jpg
 ---
 
@@ -28,5 +28,3 @@ I do photography as a hobby. Being a Earth scientist granted me lots of opportun
 		</div>
 	</div>
 </div>
-  
-
