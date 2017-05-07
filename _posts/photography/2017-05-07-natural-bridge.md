@@ -5,6 +5,7 @@ description: test
 date: 2017-05-07 12:48:45
 categories:
 - photography
+image: /images/photography/full/FullSizeRender 5.jpg
 ---
 
 The Natural Bridge Wildlife Ranch is a fun place in San Antonio, TX. About 2.5 hours drive from Houston. We spent an afternoon there, driving around in the park. The zebras were pretty friendly while the ostriches could do crazy things such as chasing your car...
