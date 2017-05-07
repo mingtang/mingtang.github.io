@@ -47,12 +47,7 @@ San Felipe del Morro Fortress.
 <div class="img-parent">
 <img src="/images/photography/full/DSC04863.jpg" alt="march" style="height:80%;width:80%;"/>
 </div>
-San Felipe del Morro Fortress.
-
-<div class="img-parent">
-<img src="/images/photography/full/RI030386-2.jpg" alt="march" style="height:80%;width:80%;"/>
-</div>
-San Felipe del Morro Fortress.
+Near San Felipe del Morro Fortress.
 
 <div class="img-parent">
 <img src="/images/photography/full/DSC02250.jpg" alt="march" style="height:60%;width:60%;"/>
@@ -60,7 +55,7 @@ San Felipe del Morro Fortress.
 Near San Felipe del Morro Fortress.
 
 <div class="img-parent">
-<img src="/images/photography/full/DSC02250.jpg" alt="march" style="height:60%;width:60%;"/>
+<img src="/images/photography/full/DSC02269.jpg" alt="march" style="height:60%;width:60%;"/>
 </div>
 Near San Felipe del Morro Fortress.
 
