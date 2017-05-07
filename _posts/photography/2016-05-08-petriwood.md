@@ -33,7 +33,7 @@ The Painted Desert.
 <div class="img-parent">
 <img src="/images/photography/full/DSC01486.jpg" alt="march" style="height:100%;width:100%;"/>
 </div>
-Car wreckage off the park drive.
+Car wreckage off the park driveway.
 
 <div class="img-parent">
 <img src="/images/photography/full/RI030144.jpg" alt="march" style="height:100%;width:100%;"/>
