@@ -16,7 +16,7 @@ Snorkeling was fun at first, but I couldn't last more than ten minutes. Swimming
 <div class="img-parent">
 <img src="/images/photography/full/DSC02176.jpg" alt="march" style="height:80%;width:80%;"/>
 </div>
-Walking on a street in San Huan, after dinner.
+Walking on a street in San Juan, after dinner.
 
 <div class="img-parent">
 <img src="/images/photography/full/DSC04784.jpg" alt="march" style="height:80%;width:80%;"/>
