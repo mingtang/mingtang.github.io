@@ -5,6 +5,7 @@ description: test
 date: 2016-05-08 12:48:45
 categories:
 - photography
+image: /images/photography/full/DSC01508.jpg
 ---
 
 Petrified Forest is full of magical elements. Things are whimsical, odd and yet in perfect harmony together. Car wreckage, a desert inn  from the early 20th century, pueblo built nearly a thousand years ago, silicified forest debries from hundreds of million years ago... This is a place where human history meets nature evolution. Walking in this desert, I felt the clock was turning back.
