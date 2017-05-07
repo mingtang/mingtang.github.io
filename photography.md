@@ -60,7 +60,7 @@ image: images/photography/full/photo35.jpg
 			<a href="{{ site.url }}/photography/2016/05/08/petriwood/">
 				<h6>Petrified Forest National Park</h6>
 			</a>
-			<p>Petrified Forest is full of magical elements. Things are whimsical, odd and yet in perfect harmony together. Car wreckage, a desert inn from the early 20th century... <a href="{{ site.url }}/photography/2016/05/08/fuji/">Read More</a></p>
+			<p>Petrified Forest is full of magical elements. Things are whimsical, odd and yet in perfect harmony together. Car wreckage, a desert inn from the early 20th century... <a href="{{ site.url }}/photography/2016/05/08/petriwood/">Read More</a></p>
 		</div>
 	</div>
 
