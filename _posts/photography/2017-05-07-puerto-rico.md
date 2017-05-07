@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A trip to Puerto Rico
-description: test
+description: A trip to Puerto Rico
 date: 2017-05-07 12:48:45
 categories:
 - photography
