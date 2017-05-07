@@ -86,7 +86,7 @@ Flamenco Beach, Culebra Island.
 <div class="img-parent">
 <img src="/images/photography/full/RI030474.jpg" alt="march" style="height:80%;width:80%;"/>
 </div>
-Swinging and water jumping in the forest, Fajodo.
+Swinging and water jumping in the forest, Fajado.
 
 <div class="img-parent">
 <img src="/images/photography/full/DSC02322.jpg" alt="march" style="height:80%;width:80%;"/>
