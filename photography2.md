@@ -50,7 +50,18 @@ image: images/photography/full/photo35.jpg
 			<a href="{{ site.url }}/photography/2016/07/02/fuji/">
 				<h6>A field trip in Hakone-Fuji area, Japan</h6>
 			</a>
-			<p>Last summer, I joined the Goldschmidt field trip after the conference, hiking in the Hakone-Fuji area for three days. These places were simply as beautiful... <a href="{{ site.url }}/photography/2016/07/02/fuji/">Read More</a></p>
+			<p>I joined the Goldschmidt field trip after the conference, hiking in the Hakone-Fuji area for three days. These places were simply as beautiful as Hayao Miyazaki’s films... <a href="{{ site.url }}/photography/2016/07/02/fuji/">Read More</a></p>
 		</div>
 	</div>
+	
+	<div class="post-box" style="margin-bottom:48px">
+		<img class="box-img" src="/images/photography/full/DSC01520.jpg" alt="">
+		<div class="box-text">
+			<a href="{{ site.url }}/photography/2016/05/08/petriwood/">
+				<h6>Petrified Forest National Park</h6>
+			</a>
+			<p>Petrified Forest is full of magical elements. Things are whimsical, odd and yet in perfect harmony together. Car wreckage, a desert inn from the early 20th century... <a href="{{ site.url }}/photography/2016/05/08/fuji/">Read More</a></p>
+		</div>
+	</div>	
+	
 </div>
