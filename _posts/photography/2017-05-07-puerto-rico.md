@@ -94,6 +94,16 @@ Swinging and water jumping in the forest, Fajodo.
 Arecibo.
 
 <div class="img-parent">
+<img src="/images/photography/full/DSC02333.jpg" alt="march" style="height:80%;width:80%;"/>
+</div>
+A white sea urchin，or west Indian sea egg.
+
+<div class="img-parent">
+<img src="/images/photography/full/DSC02342.jpg" alt="march" style="height:80%;width:80%;"/>
+</div>
+A hermit crab.
+
+<div class="img-parent">
 <img src="/images/photography/full/DSC02314.jpg" alt="march" style="height:60%;width:60%;"/>
 </div>
 Arecibo.
