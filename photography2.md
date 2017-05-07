@@ -2,7 +2,7 @@
 layout: page
 title: Photography
 description: Photography by Ming Tang
-permalink: /photography/
+permalink: /photography2/
 image: images/photography/full/photo35.jpg
 ---
 
