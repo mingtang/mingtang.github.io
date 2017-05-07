@@ -42,6 +42,16 @@ image: images/photography/full/photo35.jpg
 			<p>Puerto Rico was very different from the continental US. It was colorful, hot and active. Lots of history... <a href="{{ site.url }}/photography/2016/12/31/puerto-rico/">Read More</a></p>
 		</div>
 	</div>
+	
+	<div class="post-box" style="margin-bottom:48px">
+		<img class="box-img" src="/images/photography/full/102.jpg" alt="">
+		<div class="box-text">
+			<a href="{{ site.url }}/photography/2016/8/22/maryland/">
+				<h6>A Maryland collection</h6>
+			</a>
+			<p>On Aug.22, 2016, I left Maryland. Five years, from 8/2011 to 8/2016, was short indeed, but full of memories. Here, I learnt, worked, played... <a href="{{ site.url }}/photography/2016/8/22/maryland/">Read More</a></p>
+		</div>
+	</div>
 
 
 	<div class="post-box" style="margin-bottom:48px">
