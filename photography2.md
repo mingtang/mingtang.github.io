@@ -7,7 +7,7 @@ image: images/photography/full/photo35.jpg
 ---
 
 <!-- panorama photos -->
-<a href="/images/photography/panorama/panorama1.jpg" data-imagelightbox="d"><img src="/images/photography/panorama/panorama1.jpg" alt="Shenandoah National Park, Virginia" /></a>
+<a href="/images/me.jpg" data-imagelightbox="d"><img src="/images/me.jpg" alt="Me in the Grand Canyon" /></a>
 
 <div class="page-content wc-container">
 	<p>I do photography as a hobby. Being a Earth scientist granted me lots of opportunities to travel around the world and see many places that are hardly accessible to the public.</p>
