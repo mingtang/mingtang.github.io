@@ -24,16 +24,6 @@ image: images/photography/full/photo35.jpg
 	</div>
 
 	<div class="post-box" style="margin-bottom:48px">
-		<img class="box-img" src="/images/photography/full/RI030350-2.jpg" alt="">
-		<div class="box-text">
-			<a href="{{ site.url }}/photography/2017/05/07/puerto-rico/">
-				<h6>A trip to Puerto Rico</h6>
-			</a>
-			<p>Puerto Rico was very different from the continental US. It was colorful, hot and active. Lots of history... <a href="{{ site.url }}/photography/2017/05/07/puerto-rico/">Read More</a></p>
-		</div>
-	</div>
-
-	<div class="post-box" style="margin-bottom:48px">
 		<img class="box-img" src="/images/photography/full/FullSizeRender 5.jpg" alt="">
 		<div class="box-text">
 			<a href="{{ site.url }}/photography/2017/05/07/natural-bridge/">
@@ -44,12 +34,23 @@ image: images/photography/full/photo35.jpg
 	</div>
 
 	<div class="post-box" style="margin-bottom:48px">
+		<img class="box-img" src="/images/photography/full/RI030350-2.jpg" alt="">
+		<div class="box-text">
+			<a href="{{ site.url }}/photography/2017/05/07/puerto-rico/">
+				<h6>A trip to Puerto Rico</h6>
+			</a>
+			<p>Puerto Rico was very different from the continental US. It was colorful, hot and active. Lots of history... <a href="{{ site.url }}/photography/2017/05/07/puerto-rico/">Read More</a></p>
+		</div>
+	</div>
+
+
+	<div class="post-box" style="margin-bottom:48px">
 		<img class="box-img" src="/images/photography/full/DSC01625.jpg" alt="">
 		<div class="box-text">
 			<a href="{{ site.url }}/photography/2016/07/02/fuji/">
 				<h6>A field trip in Hakone-Fuji area, Japan</h6>
 			</a>
-			<p>Last summer, I joined the Goldschmidt field trip after the conference, hiking in the Hakone-Fuji area for three days. These places were simply as beautiful as Hayao Miyazaki's films... <a href="{{ site.url }}/photography/2016/07/02/fuji/">Read More</a></p>
+			<p>Last summer, I joined the Goldschmidt field trip after the conference, hiking in the Hakone-Fuji area for three days. These places were simply as beautiful... <a href="{{ site.url }}/photography/2016/07/02/fuji/">Read More</a></p>
 		</div>
 	</div>
 </div>
