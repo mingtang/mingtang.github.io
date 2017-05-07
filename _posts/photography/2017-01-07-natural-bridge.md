@@ -2,7 +2,7 @@
 layout: post
 title: Natural Bridge Wildlife Ranch
 description: test
-date: 2017-01 12:48:45
+date: 2017-01-07 12:48:45
 categories:
 - photography
 image: /images/photography/full/FullSizeRender 5.jpg
