@@ -7,7 +7,7 @@ categories:
 - photography
 ---
 
-We went to Puerto Rico to spend the Christmas holidays last year. Puerto Rico was very different from the continental US. It was colorful, hot and active. Lots of history. All the road signs were written in Spanish, but we didn't have any problems driving around with google maps. We spent 4 days on the main island and two days on Culebra, a small island to the east of Puerto Rico main island. The 6-day trip was packed and we missed some interesting places. 
+We spent our Christmas holidays in Puerto Rico last year. Puerto Rico was very different from the continental US. It was colorful, hot and active. Lots of history. All the road signs were written in Spanish, but we didn't have any problems driving around with google maps. We spent 4 days on the main island and two days on Culebra, a small island to the east of Puerto Rico main island. The 6-day trip was packed and we missed some interesting places. 
 
 <div class="img-parent">
 <img src="/images/photography/full/DSC02176.jpg" alt="march" style="height:80%;width:80%;"/>
