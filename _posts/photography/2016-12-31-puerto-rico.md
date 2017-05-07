@@ -15,7 +15,7 @@ I couldn't take pictures when kayaking in the biobay, but it was fantastic, magi
 Snorkeling was fun at first, but I couldn't last more than ten minutes. Swimming in the current was too difficult for me who couldn't even swim well in a pool...
 
 <div class="img-parent">
-<img src="/images/photography/full/DSC02176.jpg" alt="Walking on a street in San Juan, after dinner." style="height:80%;width:80%;"/>
+<img src="/images/photography/full/DSC02176.jpg" alt="Walking on a street in San Juan, after dinner." style="height:90%;width:90%;"/>
 </div>
 Walking on a street in San Juan, after dinner.
 
