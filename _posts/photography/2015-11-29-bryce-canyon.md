@@ -40,3 +40,7 @@ Most of the trails were closed in winter, and the ranger warned us not to hike d
 <div class="img-parent">
 <img src="/images/photography/full/116.jpg" alt="San Felipe del Morro Fortress." style="height:100%;width:100%;"/>
 </div>
+
+<div class="img-parent">
+<img src="/images/photography/full/112.jpg" alt="San Felipe del Morro Fortress." style="height:100%;width:100%;"/>
+</div>
