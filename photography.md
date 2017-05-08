@@ -109,7 +109,7 @@ image: images/photography/full/photo35.jpg
 			<a href="{{ site.url }}/photography/2015/10/31/west-new-york/">
 				<h6>State parks in west New York</h6>
 			</a>
-			<p> visited Rochester University multiple times to do experiments, and at the same time, I was exploring west New York state. There are no national parks there... <a href="{{ site.url }}/photography/2015/10/31/west-new-york/">Read More</a></p>
+			<p>I visited Rochester University multiple times to do experiments, and at the same time, I was exploring west New York state. There are no national parks there... <a href="{{ site.url }}/photography/2015/10/31/west-new-york/">Read More</a></p>
 		</div>
 	</div>		
 	
