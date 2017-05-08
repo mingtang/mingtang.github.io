@@ -53,6 +53,6 @@ Lake Ontario is all about blue. It's immense, like an ocean, but much more quiet
 Lake Ontario.
 
 <div class="img-parent">
-<img src="/images/photography/full/RI020135.jpg" alt="Near San Felipe del Morro Fortress." style="height:90%;width:90%;"/>
+<img src="/images/photography/full/RI020135.jpg" alt="Near San Felipe del Morro Fortress." style="height:100%;width:100%;"/>
 </div>
 Sodus point after sunset.
