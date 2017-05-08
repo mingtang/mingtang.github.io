@@ -121,6 +121,16 @@ image: images/photography/full/photo35.jpg
 			</a>
 			<p>Goldschmidt 2015 was in Prague. Prague is a city full of history. I sat in a coffee shop and found the ceiling was from the 13th century... <a href="{{ site.url }}/photography/2015/08/22/prague/">Read More</a></p>
 		</div>
+	</div>	
+	
+	<div class="post-box" style="margin-bottom:48px">
+		<img class="box-img" src="/images/photography/full/DSC03715.jpg" alt="">
+		<div class="box-text">
+			<a href="{{ site.url }}/photography/2015/08/14/germany/">
+				<h6>Füssen-Munich, Germany</h6>
+			</a>
+			<p>We only spent two days in Germany as we traveled from Switzerland to Czech Republic. We stopped for two places in Germany, Füssen and Munich... <a href="{{ site.url }}/photography/2015/08/14/germany/">Read More</a></p>
+		</div>
 	</div>		
 	
 </div>
