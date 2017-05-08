@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A trip to Puerto Rico
+title: Monument Valley, Arizona
 description: Monument Valley, Arizona
 date: 2016-02-22 12:48:45
 categories:
