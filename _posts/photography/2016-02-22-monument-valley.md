@@ -8,7 +8,7 @@ categories:
 image: /images/photography/full/DSC01259.jpg
 ---
 
-The Monument Valley, at the AZ-UT border, has all the characteristics of the historical western US. Desert, wind, crows, Indian tribes...These are the keywords.
+The Monument Valley, at the AZ-UT border, has all the characteristics of the historical western US. Desert, wind, crows, Indian tribes...these are the keywords.
 
 <div class="img-parent">
 <img src="/images/photography/full/DSC01194.jpg" alt="Walking on a street in San Juan, after dinner." style="height:90%;width:90%;"/>
