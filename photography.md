@@ -82,5 +82,15 @@ image: images/photography/full/photo35.jpg
 			<p>The Monument Valley, at the AZ-UT border, has all the characteristics of the historical western US. Desert, wind, crows, Indian tribes...These are the keywords... <a href="{{ site.url }}/photography/2016/02/22/monument-valley/">Read More</a></p>
 		</div>
 	</div>	
+	
+	<div class="post-box" style="margin-bottom:48px">
+		<img class="box-img" src="/images/photography/full/117.jpg" alt="">
+		<div class="box-text">
+			<a href="{{ site.url }}/photography/2015/11/29/bryce-canyon/">
+				<h6>Bryce Canyon National Park</h6>
+			</a>
+			<p>he views of Bryce Canyon in winter are breathtaking. This national park is not really a canyon, but is famous for its numerous giant amphitheaters... <a href="{{ site.url }}/photography/2015/11/29/bryce-canyon/">Read More</a></p>
+		</div>
+	</div>	
 
 </div>
