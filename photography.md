@@ -117,7 +117,7 @@ image: images/photography/full/photo35.jpg
 		<img class="box-img" src="/images/photography/full/RI020863.jpg" alt="">
 		<div class="box-text">
 			<a href="{{ site.url }}/photography/2015/08/22/prague/">
-				<h6>State parks in west New York</h6>
+				<h6>Prague, Czech Republic</h6>
 			</a>
 			<p>Goldschmidt 2015 was in Prague. Prague is a city full of history. I sat in a coffee shop and found the ceiling was from the 13th century... <a href="{{ site.url }}/photography/2015/08/22/prague/">Read More</a></p>
 		</div>
