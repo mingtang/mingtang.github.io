@@ -77,7 +77,7 @@ image: images/photography/full/photo35.jpg
 		<img class="box-img" src="/images/photography/full/DSC01259.jpg" alt="">
 		<div class="box-text">
 			<a href="{{ site.url }}/photography/2016/02/22/monument-valley/">
-				<h6>Petrified Forest National Park</h6>
+				<h6>Monument Valley, Arizona</h6>
 			</a>
 			<p>The Monument Valley, at the AZ-UT border, has all the characteristics of the historical western US. Desert, wind, crows, Indian tribes...These are the keywords... <a href="{{ site.url }}/photography/2016/02/22/monument-valley/">Read More</a></p>
 		</div>
