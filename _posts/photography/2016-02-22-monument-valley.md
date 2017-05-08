@@ -51,6 +51,6 @@ More rock pinnacles.
 Inside the visitor center.
 
 <div class="img-parent">
-<img src="/images/photography/full/DSC01328.jpg" alt="Near San Felipe del Morro Fortress." style="height:60%;width:60%;"/>
+<img src="/images/photography/full/DSC01328.jpg" alt="Near San Felipe del Morro Fortress." style="height:90%;width:90%;"/>
 </div>
 A dead tree in the desert.
