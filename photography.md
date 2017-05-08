@@ -89,7 +89,7 @@ image: images/photography/full/photo35.jpg
 			<a href="{{ site.url }}/photography/2015/11/29/bryce-canyon/">
 				<h6>Bryce Canyon National Park</h6>
 			</a>
-			<p>he views of Bryce Canyon in winter are breathtaking. This national park is not really a canyon, but is famous for its numerous giant amphitheaters... <a href="{{ site.url }}/photography/2015/11/29/bryce-canyon/">Read More</a></p>
+			<p>The views of Bryce Canyon in winter are breathtaking. This national park is not really a canyon, but is famous for its numerous giant amphitheaters... <a href="{{ site.url }}/photography/2015/11/29/bryce-canyon/">Read More</a></p>
 		</div>
 	</div>	
 
@@ -97,9 +97,9 @@ image: images/photography/full/photo35.jpg
 		<img class="box-img" src="/images/photography/full/120.jpg" alt="">
 		<div class="box-text">
 			<a href="{{ site.url }}/photography/2015/11/22/canyons/">
-				<h6>Bryce Canyon National Park</h6>
+				<h6>Canyons in Arizona and Utah</h6>
 			</a>
-			<p>he views of Bryce Canyon in winter are breathtaking. This national park is not really a canyon, but is famous for its numerous giant amphitheaters... <a href="{{ site.url }}/photography/2015/11/22/canyons/">Read More</a></p>
+			<p>There are many canyon type national and state parks in the US mountain zone. I got chances to visit them during my multiple trips to Arizona State University... <a href="{{ site.url }}/photography/2015/11/22/canyons/">Read More</a></p>
 		</div>
 	</div>	
 	
