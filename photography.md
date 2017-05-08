@@ -96,10 +96,10 @@ image: images/photography/full/photo35.jpg
 	<div class="post-box" style="margin-bottom:48px">
 		<img class="box-img" src="/images/photography/full/120.jpg" alt="">
 		<div class="box-text">
-			<a href="{{ site.url }}/photography/2015/11/22/canyons/">
+			<a href="{{ site.url }}/photography/2015/11/20/canyons/">
 				<h6>Canyons in Arizona and Utah</h6>
 			</a>
-			<p>There are many canyon type national and state parks in the US mountain zone. I got chances to visit them during my multiple trips to Arizona State University... <a href="{{ site.url }}/photography/2015/11/22/canyons/">Read More</a></p>
+			<p>There are many canyon type national and state parks in the US mountain zone. I got chances to visit them during my multiple trips to Arizona State University... <a href="{{ site.url }}/photography/2015/11/20/canyons/">Read More</a></p>
 		</div>
 	</div>	
 	
