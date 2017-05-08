@@ -111,6 +111,16 @@ image: images/photography/full/photo35.jpg
 			</a>
 			<p>I visited Rochester University multiple times to do experiments, and at the same time, I was exploring west New York state. There are no national parks there... <a href="{{ site.url }}/photography/2015/10/31/west-new-york/">Read More</a></p>
 		</div>
+	</div>	
+	
+	<div class="post-box" style="margin-bottom:48px">
+		<img class="box-img" src="/images/photography/full/RI020863.jpg" alt="">
+		<div class="box-text">
+			<a href="{{ site.url }}/photography/2015/08/22/prague/">
+				<h6>State parks in west New York</h6>
+			</a>
+			<p>Goldschmidt 2015 was in Prague. Prague is a city full of history. I sat in a coffee shop and found the ceiling was from the 13th century... <a href="{{ site.url }}/photography/2015/08/22/prague/">Read More</a></p>
+		</div>
 	</div>		
 	
 </div>
