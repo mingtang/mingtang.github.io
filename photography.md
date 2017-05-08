@@ -72,5 +72,15 @@ image: images/photography/full/photo35.jpg
 			<p>Petrified Forest is full of magical elements. Things are whimsical, odd and yet in perfect harmony together. Car wreckage, a desert inn from the early 20th century... <a href="{{ site.url }}/photography/2016/05/08/petriwood/">Read More</a></p>
 		</div>
 	</div>
+	
+	<div class="post-box" style="margin-bottom:48px">
+		<img class="box-img" src="/images/photography/full/DSC01259.jpg" alt="">
+		<div class="box-text">
+			<a href="{{ site.url }}/photography/2016/02/22/monument-valley/">
+				<h6>Petrified Forest National Park</h6>
+			</a>
+			<p>The Monument Valley, at the AZ-UT border, has all the characteristics of the historical western US. Desert, wind, crows, Indian tribes...These are the keywords... <a href="{{ site.url }}/photography/2016/02/22/monument-valley/">Read More</a></p>
+		</div>
+	</div>	
 
 </div>
