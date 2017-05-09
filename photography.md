@@ -137,7 +137,7 @@ image: images/photography/full/photo35.jpg
 		<img class="box-img" src="/images/photography/full/RI020417.jpg" alt="">
 		<div class="box-text">
 			<a href="{{ site.url }}/photography/2015/08/11/switzerland/">
-				<h6>Backpacking in Alps, Switzerland</h6>
+				<h6>Backpacking in the Alps, Switzerland</h6>
 			</a>
 			<p>We spent five days backpacking in the Alps in Switzerland. Although there were no technical challenges, it was quite exhausting, especially the first day... <a href="{{ site.url }}/photography/2015/08/11/switzerland/">Read More</a></p>
 		</div>
