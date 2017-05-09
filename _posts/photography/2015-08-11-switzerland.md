@@ -8,7 +8,7 @@ categories:
 image: /images/photography/full/RI020417.jpg
 ---
 
-We spent five days backpacking in the Alps in Switzerland. Although there were no technical challenges, it was quite exhausting, especially the first day when we hiked 20 miles in the mountains. We came back to lodge almost at midnight.
+We spent five days backpacking in the Alps in Switzerland. Although there were no technical challenges, it was quite exhausting, especially the first day when we hiked 20 miles in the mountains. We came back to lodge almost at midnight, but it was totally worth it.
 
 <div class="img-parent">
 <img src="/images/photography/full/RI020293.jpg" alt="Walking on a street in San Juan, after dinner." style="height:90%;width:90%;"/>
