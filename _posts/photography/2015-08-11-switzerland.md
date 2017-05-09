@@ -33,7 +33,7 @@ Marching towards Mt. Matterhorn.
 <div class="img-parent">
 <img src="/images/photography/full/DSC03548.jpg" alt="San Juan." style="height:60%;width:60%;"/>
 </div>
-Mt. Matterhorn in the cloud. Matterhorn is a symbol of Alps. It's only 4478m high, not much different from Mt. Whitney, but is the sixth most dangerous mountain in the world.
+Mt. Matterhorn in the cloud. Matterhorn is a symbol of Alps. It's only 4478m high, not much different from Mt. Whitney which summited in 2014, but is the sixth most dangerous mountain in the world.
 
 <div class="img-parent">
 <img src="/images/photography/full/RI020485.jpg" alt="San Juan." style="height:90%;width:90%;"/>
