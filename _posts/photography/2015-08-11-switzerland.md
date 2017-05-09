@@ -23,7 +23,7 @@ Climbing.
 <div class="img-parent">
 <img src="/images/photography/full/RI020417.jpg" alt="On the beach at night." style="height:90%;width:90%;"/>
 </div>
-View of glaciers at Gornergrat. The amount of glacier is declining.
+View of glaciers at Gornergrat. The amount of glacier was declining.
 
 <div class="img-parent">
 <img src="/images/photography/full/RI020364.jpg" alt="San Juan." style="height:90%;width:90%;"/>
