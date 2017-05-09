@@ -133,4 +133,14 @@ image: images/photography/full/photo35.jpg
 		</div>
 	</div>		
 	
+	<div class="post-box" style="margin-bottom:48px">
+		<img class="box-img" src="/images/photography/full/RI020417.jpg" alt="">
+		<div class="box-text">
+			<a href="{{ site.url }}/photography/2015/08/11/switzerland/">
+				<h6>Füssen-Munich, Germany</h6>
+			</a>
+			<p>We spent five days backpacking in the Alps in Switzerland. Although there were no technical challenges, it was quite exhausting, especially the first day... <a href="{{ site.url }}/photography/2015/08/11/switzerland/">Read More</a></p>
+		</div>
+	</div>		
+	
 </div>
