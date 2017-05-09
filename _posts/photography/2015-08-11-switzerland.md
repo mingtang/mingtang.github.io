@@ -93,7 +93,7 @@ An old couple sitting by Bachalpsee.
 <div class="img-parent">
 <img src="/images/photography/full/DSC00278.jpg" alt="Swinging and water jumping in the forest, Fajado." style="height:90%;width:90%;"/>
 </div>
-A blue flower.
+Blue flowers!
 
 <div class="img-parent">
 <img src="/images/photography/full/DSC03641.jpg" alt="Flamenco Beach, Culebra Island." style="height:90%;width:90%;"/>
