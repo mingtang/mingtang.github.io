@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Backpacking in Alps, Switzerland
+title: Backpacking in the Alps, Switzerland
 description: Switzerland
 date: 2015-08-11 12:48:45
 categories:
