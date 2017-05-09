@@ -58,10 +58,10 @@ Matterhorn in dusk. It was 9 pm, and we were still 7 miles away from lodge. We u
 <div class="img-parent">
 <img src="/images/photography/full/RI020538.jpg" alt="Near San Felipe del Morro Fortress." style="height:90%;width:90%;"/>
 </div>
-Lake Brienz. Had a break in Interlaken, a nice small city between two lakes. The water was crystal clear, sourced from glacier ice. Actually the water was so clean that not many fish could survive.
+Lake Brienz. Had a break in Interlaken, a nice small city between two lakes. The water was crystal clear, sourced from glacier ice. Actually the water was so clean that not many fishes could survive.
 
 <div class="img-parent">
-<img src="/images/photography/full/RI020550.jpg" alt="Near San Felipe del Morro Fortress." style="height:60%;width:60%;"/>
+<img src="/images/photography/full/RI020550.jpg" alt="Near San Felipe del Morro Fortress." style="height:90%;width:90%;"/>
 </div>
 Lake Brienz.
 
