@@ -113,6 +113,16 @@ image: images/photography/full/photo35.jpg
 		</div>
 	</div>
 
+<div class="post-box" style="margin-bottom:48px">
+		<img class="box-img" src="/images/photography/thumb/DSC00424.jpg" alt="">
+		<div class="box-text">
+			<a href="{{ site.url }}/photography/2015/10/25/sg/">
+				<h6>Shenandoah and Great Smoky Mountains National Parks</h6>
+			</a>
+			<p>Shenandoah and Great Smoky Mountains are sister national parks in the eastern US. Shenandoah is the first US national park I visited, and I visited it... <a href="{{ site.url }}/photography/2015/10/25/sg/">Read More</a></p>
+		</div>
+	</div>
+	
 	<div class="post-box" style="margin-bottom:48px">
 		<img class="box-img" src="/images/photography/thumb/RI020863.jpg" alt="">
 		<div class="box-text">
