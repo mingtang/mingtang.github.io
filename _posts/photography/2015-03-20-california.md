@@ -38,7 +38,7 @@ Me washing feet in the creek after hiking for 3 hours. The water was ice cold...
 <div class="img-parent">
 <img src="/images/photography/full/DSCF5352.jpg" alt="San Juan." style="height:90%;width:90%;"/>
 </div>
-Walking in Coyote Hills Regional Park was very relaxing. Small hills and lakes, view of the bay area, etc. And it was not crowded at all.
+Walking in Coyote Hills Regional Park was very relaxing. Small hills and lakes, view of the bay area, etc. And it was very quiet.
 
 <div class="img-parent">
 <img src="/images/photography/full/DSCF5354.jpg" alt="San Juan." style="height:90%;width:90%;"/>
