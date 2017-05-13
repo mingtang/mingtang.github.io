@@ -8,12 +8,12 @@ categories:
 image: /images/photography/thumb/DSCF5396.jpg
 ---
 
-I visited California multiple times to see friends and Roberta, attend AGU conferences, and enjoy the beach and parks. California is dry, though it's a coastal state. It is indeed suffering from drought. When I was visiting Roberta in Santa Barbara, she showed me how to save water in her life...California is a fun state, with spectacular scenaries and all kinds of activities. There are multiple light hourses along the coast, which are huge attactions to me.
+I visited California multiple times to see friends and Roberta, attend AGU conferences, and enjoy the beach and parks. California is dry, though it's a coastal state. It is indeed suffering from drought. When I was visiting Roberta in Santa Barbara, she showed me how to save water in her life...California is a fun state, with spectacular scenaries and all kinds of activities. There are multiple light houses along the coast, which are huge attactions to me.
 
 <div class="img-parent">
 <img src="/images/photography/full/Yosemite Valley.jpg" alt="Walking on a street in San Juan, after dinner." style="height:90%;width:90%;"/>
 </div>
-The symbolic panarama of Yosemite National Park. It was taken in dusk. We visited Yosemite in March, 2015 for two days, which was too short, and we missed lots of places. We hiked half of the Half Dome Trail since the Half Dome part was closed due to snow. Yosemite was very popular, and the traffic could be terrible, but not as bad as in the Great Smoky...
+The symbolic panarama view of Yosemite National Park. It was taken in dusk. We visited Yosemite in March, 2015 for two days, which was too short, and we missed lots of places. We hiked half of the Half Dome Trail since the Half Dome part was closed due to snow. Yosemite was very popular, and the traffic could be terrible, but not as bad as in the Great Smoky...
 
 <div class="img-parent">
 <img src="/images/photography/full/DSCF5289.jpg" alt="Walking on a street in San Juan, after dinner." style="height:90%;width:90%;"/>
@@ -68,4 +68,4 @@ Sunset over Malibu beach.
 <div class="img-parent">
 <img src="/images/photography/full/DSCF4845.jpg" alt="Near San Felipe del Morro Fortress." style="height:90%;width:90%;"/>
 </div>
-View of San Fransisco from my hotel room at 22nd floor. Among my three AGU conferences, only the first one saw a sunny week.
+View of San Fransisco from my hotel room at 22nd floor. Among my three AGU conference trips, only the first one saw a sunny week.
