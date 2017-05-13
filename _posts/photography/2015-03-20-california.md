@@ -8,7 +8,7 @@ categories:
 image: /images/photography/thumb/DSCF5396.jpg
 ---
 
-I visited California multiple times to see friends and Roberta, attend AGU conferences, and enjoy the beach and parks. California is dry, though it's a coastal state. There are multiple light hourses along the coast.
+I visited California multiple times to see friends and Roberta, attend AGU conferences, and enjoy the beach and parks. California is dry, though it's a coastal state. It is indeed suffering from drought. When I was visiting Roberta in Santa Barbara, she showed me how to save water in her life...California is a fun state, with spectacular scenaries and a great diversity of human activities. There are multiple light hourses along the coast, which are huge attactions to me.
 
 <div class="img-parent">
 <img src="/images/photography/full/Yosemite Valley.jpg" alt="Walking on a street in San Juan, after dinner." style="height:90%;width:90%;"/>
