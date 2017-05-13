@@ -162,4 +162,15 @@ image: images/photography/full/photo35.jpg
 			<p>I visited California multiple times to see friends and Roberta, attend AGU conferences, and enjoy the beach and parks. California is dry, though it's a coastal state... <a href="{{ site.url }}/photography/2015/03/20/california/">Read More</a></p>
 		</div>
 	</div>
+	
+	<div class="post-box" style="margin-bottom:48px">
+		<img class="box-img" src="/images/photography/thumb/DSC01476.jpg" alt="">
+		<div class="box-text">
+			<a href="{{ site.url }}/photography/2015/01/16/ccd/">
+				<h6>Cross country drive</h6>
+			</a>
+			<p>In January, 2015, we drove across the country, from College Park, MD to Point Reyes, CA.
+11 states, 4 national parks, totaling 3456 miles in 8 days... <a href="{{ site.url }}/photography/2015/01/16/ccd/">Read More</a></p>
+		</div>
+	</div>	
 </div>
