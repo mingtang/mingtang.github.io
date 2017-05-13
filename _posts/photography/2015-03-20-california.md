@@ -31,7 +31,7 @@ Vernal Fall. Note a man was standing very close to the fall.
 View from above Vernal Fall.
 
 <div class="img-parent">
-<img src="/images/photography/full/DSC02170.jpg" alt="San Juan." style="height:60%;width:60%;"/>
+<img src="/images/photography/full/DSC02170.jpg" alt="San Juan." style="height:90%;width:90%;"/>
 </div>
 Me washing feet in the creek after hiking for 3 hours. The water was ice cold...
 
