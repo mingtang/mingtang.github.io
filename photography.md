@@ -153,4 +153,13 @@ image: images/photography/full/photo35.jpg
 		</div>
 	</div>
 
+	<div class="post-box" style="margin-bottom:48px">
+		<img class="box-img" src="/images/photography/thumb/DSCF5396.jpg" alt="">
+		<div class="box-text">
+			<a href="{{ site.url }}/photography/2015/03/20/california/">
+				<h6>Trips to California</h6>
+			</a>
+			<p>I visited California multiple times to see friends and Roberta, attend AGU conferences, and enjoy the beach and parks. California is dry, though it's a coastal state... <a href="{{ site.url }}/photography/2015/03/20/california/">Read More</a></p>
+		</div>
+	</div>
 </div>
