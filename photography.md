@@ -173,4 +173,14 @@ image: images/photography/full/photo35.jpg
 11 states, 4 national parks, totaling 3456 miles in 8 days... <a href="{{ site.url }}/photography/2015/01/16/ccd/">Read More</a></p>
 		</div>
 	</div>	
+	
+	<div class="post-box" style="margin-bottom:48px">
+		<img class="box-img" src="/images/photography/thumb/DSCF3255.jpg" alt="">
+		<div class="box-text">
+			<a href="{{ site.url }}/photography/2014/06/03/whitney/">
+				<h6>Climbing Mt. Whitney</h6>
+			</a>
+			<p>On June 1st, 2014, we summited Mt. Whitney, the highest mountain in the contiguous US. Mt. Whitney, with an elevation of 4,421 m, is located on the border of California... <a href="{{ site.url }}/photography/2014/06/03/whitney/">Read More</a></p>
+		</div>
+	</div>	
 </div>
