@@ -21,7 +21,7 @@ image: images/tang.jpg
 
 ---
 
-- Post-doc at Rice University, USA <span class="date">2016 - 2017</span>
+- Post-doc at Rice University, USA <span class="date">2016 - present</span>
 
 - Graduate research assistance at the University of Maryland, USA <span class="date">2012 - 2016</span>
 
