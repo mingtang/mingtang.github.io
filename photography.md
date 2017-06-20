@@ -17,7 +17,7 @@ image: images/photography/full/photo35.jpg
 		<img class="box-img" src="/images/photography/thumb/P1090772.JPG" alt="">
 		<div class="box-text">
 			<a href="{{ site.url }}/photography/2017/06/20/yd/">
-				<h6>March for science</h6>
+				<h6>A trip to Yendang Mountain Geologic Park, China</h6>
 			</a>
 			<p>While I was visiting my parents in China, I took my mom to Yendang Mountain Geologic Park for vacation. Yendang is located in Zhejiang Province, China... <a href="{{ site.url }}/photography/2017/06/20/yd/">Read More</a></p>
 		</div>
