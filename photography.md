@@ -14,7 +14,7 @@ image: images/photography/full/photo35.jpg
 	<hr style="margin-bottom:48px">
 
 	<div class="post-box" style="margin-bottom:48px">
-		<img class="box-img" src="/images/photography/thumb/P1090772.JPG" alt="">
+		<img class="box-img" src="/images/photography/thumb/P1090772.jpg" alt="">
 		<div class="box-text">
 			<a href="{{ site.url }}/photography/2017/06/20/yd/">
 				<h6>A trip to Yendang Mountain Geologic Park, China</h6>
