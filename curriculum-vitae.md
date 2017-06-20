@@ -23,9 +23,9 @@ image: images/tang.jpg
 
 - Post-doc at Rice University, USA <span class="date">2016 - present</span>
 
-- Graduate research assistance at the University of Maryland, USA <span class="date">2012 - 2016</span>
+- Graduate research assistant at the University of Maryland, USA <span class="date">2012 - 2016</span>
 
-- Undergraduate research assistance at Nanjing University, China <span class="date">2009 - 2011</span>
+- Undergraduate research assistant at Nanjing University, China <span class="date">2009 - 2011</span>
 
 
 ##### <a name="teaching-experience"></a>Teaching Experience
