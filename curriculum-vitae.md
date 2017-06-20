@@ -100,9 +100,10 @@ image: images/tang.jpg
 
 ###### <a name="publications-2017"></a>2017
 
-**Tang, M.**, Rudnick, L.R., McDonough, F.W., Bose, M., Goreva, Y. (201X). Multi-mode Li diffusion in natural zircons. In review.
 
 **Tang, M.**, Rudnick, L.R., Lee, C-T., Condie, K. (201X). Archean ultra-thick crust reflects mantle overturn in early Earth. In review.
+
+**Tang, M.**, Rudnick, L.R., McDonough, F.W., Bose, M., Goreva, Y. (2017). Multi-mode Li diffusion in natural zircons: evidence for diffusion in the presence of step-function concentration boundaries. *Earth and Planetary Science Letters*. In press.
 
 **Tang, M.**, McDonough, F.W., Ash, R. (2017). Europium and strontium anomalies in the MORB source mantle. *Geochimica et Cosmochimica Acta*, 197, 132-141. <a class="paperdl" target="_blank" href="/publications/Tang%20et%20al_GCA2017.pdf"><i class="fa fa-cloud-download" aria-hidden="true"></i></a>
 
