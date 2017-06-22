@@ -101,7 +101,7 @@ image: images/tang.jpg
 ###### <a name="publications-2017"></a>2017
 
 
-**Tang, M.**, Rudnick, L.R., Lee, C-T., Condie, K. (201X). Archean ultra-thick crust reflects mantle overturn in early Earth. In review.
+**Tang, M.**, Rudnick, L.R., Lee, C-T., Condie, K. (201X). Rapid mantle convection drove massive crustal thickening in the late Archean. In revision.
 
 **Tang, M.**, Rudnick, L.R., McDonough, F.W., Bose, M., Goreva, Y. (2017). Multi-mode Li diffusion in natural zircons: evidence for diffusion in the presence of step-function concentration boundaries. *Earth and Planetary Science Letters*. In press.
 
