@@ -91,7 +91,7 @@ image: images/tang.jpg
 
 - "Maryland Day" volunteer
 
-- Reviewer of Elements, Geochimica et Cosmochimica Acta, American Mineralogist, Chemical Geology, Science Advances, International Geology Review, Nature Geoscience, Geophysical Research Letters.
+- Reviewer of Elements, Geochimica et Cosmochimica Acta, American Mineralogist, Chemical Geology, Science Advances, International Geology Review, Nature Geoscience, Geophysical Research Letters, Proceedings of the National Academy of Sciences.
 
 
 ##### <a name="publications"></a>Publications
