@@ -39,7 +39,7 @@ Wizard Island in Crater Lake, formed by later lava eruptions.
 <div class="img-parent">
 <img src="/images/photography/full/DSC01097.jpg" alt="San Juan." style="height:100%;width:100%;"/>
 </div>
-Xiao and Xin ready for board games (Catan) after dinner. The rim drive was extremely busy and crowded in the daytime. We decided to go out for dinner and then drive back and revisit the park at sunset. It turned out to be a great idea.
+Sean and Xin ready for board games (Catan) after dinner. The rim drive was extremely busy and crowded in the daytime. We decided to go out for dinner and then drive back and revisit the park at sunset. It turned out to be a great idea.
 
 <div class="img-parent">
 <img src="/images/photography/full/DSC01117.jpg" alt="San Juan." style="height:100%;width:100%;"/>
