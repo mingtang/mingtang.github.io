@@ -54,7 +54,7 @@ Crater lake in dusk.
 <div class="img-parent">
 <img src="/images/photography/full/P1100097.jpg" alt="San Felipe del Morro Fortress, a 16th-century citadel." style="height:70%;width:70%;"/>
 </div>
-Sunset. We were playing card games in the car, waiting for the starry night.
+Sunset. We were playing card games in the car, waiting for a starry night.
 
 <div class="img-parent">
 <img src="/images/photography/full/DSC01142.jpg" alt="On the beach at night." style="height:70%;width:70%;"/>
