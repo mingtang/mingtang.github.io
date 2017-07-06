@@ -14,6 +14,16 @@ image: images/photography/full/photo35.jpg
 	<hr style="margin-bottom:48px">
 
 	<div class="post-box" style="margin-bottom:48px">
+		<img class="box-img" src="/images/photography/thumb/P1090888.jpg" alt="">
+		<div class="box-text">
+			<a href="{{ site.url }}/photography/2017/06/30/stc/">
+				<h6>One day in Santa Cruz, CA</h6>
+			</a>
+			<p>Before setting out to Oregon for the independence Day vacation, we visited Santa Cruz to check out the steam train, redwood State Park and Walton Lighthouse there... <a href="{{ site.url }}/photography/2017/06/30/stc/">Read More</a></p>
+		</div>
+	</div>
+	
+	<div class="post-box" style="margin-bottom:48px">
 		<img class="box-img" src="/images/photography/thumb/P1090772.jpg" alt="">
 		<div class="box-text">
 			<a href="{{ site.url }}/photography/2017/06/20/yd/">
