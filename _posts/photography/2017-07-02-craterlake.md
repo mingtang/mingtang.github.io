@@ -59,7 +59,7 @@ Sunset. We were playing card games in the car, waiting for a starry night.
 <div class="img-parent">
 <img src="/images/photography/full/DSC01142.jpg" alt="On the beach at night." style="height:70%;width:70%;"/>
 </div>
-Milky way over Crater Lake. The sky was a bit too bright because of the moon.
+Milky Way over Crater Lake. The sky was a bit too bright because of the moon.
 
 <div class="img-parent">
 <img src="/images/photography/full/P1100120.jpg" alt="San Felipe del Morro Fortress." style="height:100%;width:100%;"/>
@@ -69,7 +69,7 @@ Ready for departure in an airbnb farm ranch.
 <div class="img-parent">
 <img src="/images/photography/full/P1100144.jpg" alt="San Felipe del Morro Fortress." style="height:100%;width:100%;"/>
 </div>
-Driving towards Mt.Shasta. Mt.Shasta, with an elevation of 4.322 m, is an active volcano in northern California, and is almost certain to erupt again. Mt.Shasta is rated highly hazardous by USGS. That said, major eruption is unlikely in the near future.
+Driving towards Mt.Shasta. Mt.Shasta, with an elevation of 4.322 m, is an active volcano in northern California, and is almost certain to erupt again. Mt.Shasta is rated highly hazardous by USGS. That said, major eruptions are unlikely in the near future.
 
 <div class="img-parent">
 <img src="/images/photography/full/P1100149.jpg" alt="Near San Felipe del Morro Fortress." style="height:100%;width:100%;"/>
