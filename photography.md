@@ -17,7 +17,7 @@ image: images/photography/full/photo35.jpg
 		<img class="box-img" src="/images/photography/thumb/DSC01098.jpg" alt="">
 		<div class="box-text">
 			<a href="{{ site.url }}/photography/2017/07/02/craterlake/">
-				<h6>One day in Santa Cruz, CA</h6>
+				<h6>Crater Lake National Park and Mt.Shasta</h6>
 			</a>
 			<p>Crater Lake National Park, established in 1902, is one of the earliest US national parks. Crater lake is not an impact crater, but a caldera lake formed somewhat seven thousand... <a href="{{ site.url }}/photography/2017/07/02/craterlake/">Read More</a></p>
 		</div>
