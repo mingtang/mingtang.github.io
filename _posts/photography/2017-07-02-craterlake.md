@@ -69,9 +69,9 @@ Ready for departure in an airbnb farm ranch.
 <div class="img-parent">
 <img src="/images/photography/full/P1100144.jpg" alt="San Felipe del Morro Fortress." style="height:100%;width:100%;"/>
 </div>
-Driving towards Mt.Shasta. Mt.Shasta, with an elevation of 4.322 m, is an active volcano in northern California, and is almost certain to erupt again. Mt.Shasta is rated highly hazardous by USGS. That said, major eruptions are unlikely in the near future.
+Driving towards Mt. Shasta. Mt. Shasta, with an elevation of 4.322 m, is an active volcano in northern California, and is almost certain to erupt again. Mt. Shasta is rated highly hazardous by USGS. That said, major eruptions are unlikely in the near future.
 
 <div class="img-parent">
 <img src="/images/photography/full/P1100149.jpg" alt="Near San Felipe del Morro Fortress." style="height:100%;width:100%;"/>
 </div>
-View of Mt.Shasta from Sisikiyou Lake
+View of Mt. Shasta from Lake Siskiyou.
