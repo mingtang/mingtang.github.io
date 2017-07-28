@@ -103,7 +103,7 @@ image: images/tang.jpg
 
 **Tang, M.**, Rudnick, L.R., Lee, C-T., Condie, K. (201X). Rapid mantle convection drove massive crustal thickening in the late Archean. In revision.
 
-**Tang, M.**, Rudnick, L.R., McDonough, F.W., Bose, M., Goreva, Y. (2017). Multi-mode Li diffusion in natural zircons: evidence for diffusion in the presence of step-function concentration boundaries. *Earth and Planetary Science Letters*. In press.
+**Tang, M.**, Rudnick, L.R., McDonough, F.W., Bose, M., Goreva, Y. (2017). Multi-mode Li diffusion in natural zircons: evidence for diffusion in the presence of step-function concentration boundaries. *Earth and Planetary Science Letters*, 474, 110-119. <a class="paperdl" target="_blank" href="/publications/Tang%20et%20al_EPSL2017.pdf"><i class="fa fa-cloud-download" aria-hidden="true"></i></a>
 
 **Tang, M.**, McDonough, F.W., Ash, R. (2017). Europium and strontium anomalies in the MORB source mantle. *Geochimica et Cosmochimica Acta*, 197, 132-141. <a class="paperdl" target="_blank" href="/publications/Tang%20et%20al_GCA2017.pdf"><i class="fa fa-cloud-download" aria-hidden="true"></i></a>
 
