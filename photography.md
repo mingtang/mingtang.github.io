@@ -14,6 +14,16 @@ image: images/photography/full/photo35.jpg
 	<hr style="margin-bottom:48px">
 
 	<div class="post-box" style="margin-bottom:48px">
+		<img class="box-img" src="/images/photography/thumb/DSC01202.jpg" alt="">
+		<div class="box-text">
+			<a href="{{ site.url }}/photography/2017/07/30/sierra/">
+				<h6>A field trip to Sierra Nevada</h6>
+			</a>
+			<p>The Sierra Nevada,located in central California, is a mountain range that primarily formed in the last two hundred million years when the Pacific ocean floor... <a href="{{ site.url }}/photography/2017/07/30/sierra/">Read More</a></p>
+		</div>
+	</div>
+	
+	<div class="post-box" style="margin-bottom:48px">
 		<img class="box-img" src="/images/photography/thumb/DSC01098.jpg" alt="">
 		<div class="box-text">
 			<a href="{{ site.url }}/photography/2017/07/02/craterlake/">
