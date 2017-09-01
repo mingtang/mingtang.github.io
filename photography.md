@@ -13,6 +13,17 @@ image: images/photography/full/photo35.jpg
 	<p>I do photography as a hobby. Being a Earth scientist granted me lots of opportunities to travel around the world and see many places that are hardly accessible to the public.</p>
 	<hr style="margin-bottom:48px">
 
+<div class="post-box" style="margin-bottom:48px">
+		<img class="box-img" src="/images/photography/thumb/P1100320.jpg" alt="">
+		<div class="box-text">
+			<a href="{{ site.url }}/photography/2017/08/31/france/">
+				<h6>Cross-country drive in France, 2017</h6>
+			</a>
+			<p>After I finished with the Goldschmidt conference in Paris, Xin flew in, and we started our journey in France.
+This was our first time to travel in France... <a href="{{ site.url }}/photography/2017/08/31/france/">Read More</a></p>
+		</div>
+	</div>	
+	
 	<div class="post-box" style="margin-bottom:48px">
 		<img class="box-img" src="/images/photography/thumb/DSC01202.jpg" alt="">
 		<div class="box-text">
