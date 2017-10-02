@@ -12,8 +12,18 @@ image: images/photography/full/photo35.jpg
 <div class="page-content wc-container">
 	<p>I do photography as a hobby. Being a Earth scientist granted me lots of opportunities to travel around the world and see many places that are hardly accessible to the public.</p>
 	<hr style="margin-bottom:48px">
+	
+	<div class="post-box" style="margin-bottom:48px">
+		<img class="box-img" src="/images/photography/thumb/DSC01867.jpg" alt="">
+		<div class="box-text">
+			<a href="{{ site.url }}/photography/2017/10/02/nyrevisit/">
+				<h6>West New York State revisited</h6>
+			</a>
+			<p>Visited the Corning Museum of Glass and the Niagara falls after my Cornell trip. Drs. Sue Kay and Robert Kay provided me a set of wonderful samples from the Andes... <a href="{{ site.url }}/photography/2017/10/02/nyrevisit/">Read More</a></p>
+		</div>
+	</div>
 
-<div class="post-box" style="margin-bottom:48px">
+        <div class="post-box" style="margin-bottom:48px">
 		<img class="box-img" src="/images/photography/thumb/P1100320.jpg" alt="">
 		<div class="box-text">
 			<a href="{{ site.url }}/photography/2017/08/31/france/">
