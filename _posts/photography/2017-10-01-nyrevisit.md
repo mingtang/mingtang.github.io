@@ -8,12 +8,13 @@ categories:
 image: /images/photography/thumb/DSC01098.jpg
 ---
 
-Visited the Corning Glass Museum and the Niagra falls.
+Visited the Corning Glass Museum and the Niagara falls after my Cornell trip. Drs. Sue Kay and Robert Kay provided me a set of wonderful samples from the Andes.
 
 <div class="img-parent">
 <img src="/images/photography/full/DSC01867.jpg" alt="On the beach at night." style="height:100%;width:100%;"/>
 </div>
-Because the elevation is high (>2000 m), there was a lot of unmelted snow around the lake even in summer.
+Because the elevation is high (>2000 m), there was a lot of unmelted snow around the lake even in summer
+
 
 <div class="img-parent">
 <img src="/images/photography/full/DSC01860.jpg" alt="Walking on a street in San Juan, after dinner." style="height:100%;width:100%;"/>
