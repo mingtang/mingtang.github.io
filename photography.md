@@ -12,6 +12,16 @@ image: images/photography/full/photo35.jpg
 <div class="page-content wc-container">
 	<p>I do photography as a hobby. Being a Earth scientist granted me lots of opportunities to travel around the world and see many places that are hardly accessible to the public.</p>
 	<hr style="margin-bottom:48px">
+
+	<div class="post-box" style="margin-bottom:48px">
+		<img class="box-img" src="/images/photography/thumb/DSC02053.jpg" alt="">
+		<div class="box-text">
+			<a href="{{ site.url }}/photography/2017/10/12/scnv/">
+				<h6>South California-Nevada field trip</h6>
+			</a>
+			<p>My post-doc advisor, Cin-Ty Lee, took me on a field trip that was originally designed for the undergrads to give me more experiences in the field... <a href="{{ site.url }}/photography/2017/10/12/scnv/">Read More</a></p>
+		</div>
+	</div>
 	
 	<div class="post-box" style="margin-bottom:48px">
 		<img class="box-img" src="/images/photography/thumb/DSC01867.jpg" alt="">
