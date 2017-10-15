@@ -11,7 +11,7 @@ image: /images/photography/thumb/DSC01867.jpg
 My post-doc advisor, Cin-Ty Lee, took me on a field trip that was originally designed for the undergrads to give me more experiences in the field. This four-day field trip started from San Diego and finished in Las Vegas, and covered from forearc sedimentary sequence to backarc rifting settings.
 
 <div class="img-parent">
-<img src="/images/photography/full/DSC01914.jpg" alt="On the beach at night." style="height:100%;width:100%;"/>
+<img src="/images/photography/full/DSC01913.jpg" alt="On the beach at night." style="height:100%;width:100%;"/>
 </div>
 Lunch at a camping site.
 
