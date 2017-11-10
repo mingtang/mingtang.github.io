@@ -6,23 +6,10 @@ permalink: /media/
 image: images/tang.jpg
 ---
 
-##### <a name="education"></a>Education
 
----
-
--  Ph.D., Geochemistry, University of Maryland, College Park <span class="date">2011 - 2016</span>
-<br>supervised by William F. McDonough and Roberta L. Rudnick
-
-- B.A., Geochemistry, Nanjing University <span class="date">2007 - 2011</span>
-<br>supervised by Xiao-Lei Wang
+-  Graduate student highlight of me published on GeoGram, 2015, the annual department newsletter of UMD Geology. It was written by my Ph.D. advisors Roberta and Bill. Roberta interviewed me for an hour before writing this highlight. See [here](https://www.geol.umd.edu/department/GeoGram/geogram2015.pdf#page=2) on page 2.
 
 
-##### <a name="research-experience"></a>Research Experience
+- Press release for my 2016 Sicence paper on crustal evolution and plate tectonics. There are other versions out there but this one is the best. The scientific writer, Matt Early Wright, interviewed Roberta and me before writing the story. See [here](https://phys.org/news/2016-01-zeros-plate-tectonics-date.html)
 
----
-
-- Post-doc at Rice University, USA <span class="date">2016 - present</span>
-
-- Graduate research assistant at the University of Maryland, USA <span class="date">2012 - 2016</span>
-
-- Undergraduate research assistant at Nanjing University, China <span class="date">2009 - 2011</span>
+- Press release for O'Neil and Carlson's 2017 Science paper on Archean crustal evolution. Their findings support our 2016 Science paper model. I was invited to comment and quoted in the press release. See [here](https://gizmodo.com/scientists-found-a-new-window-into-the-hellish-ancient-1793314650)
