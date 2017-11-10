@@ -9,7 +9,7 @@ image: images/ming_tang_grand_canyon.jpg
 <img src="/images/ming_tang_grand_canyon.jpg" alt="Ming Tang at Grand Canyon" />
 
 2015
--  Graduate student highlight of me published on GeoGram, 2015, the annual department newsletter of UMD Geology. It was written by my Ph.D. advisors Roberta and Bill. Roberta interviewed me for an hour before writing this highlight. See [here](https://www.geol.umd.edu/department/GeoGram/geogram2015.pdf#page=2) on page 2.
+- Graduate student highlight of me published on GeoGram, 2015, the annual department newsletter of UMD Geology. It was written by my Ph.D. advisors Roberta and Bill. Roberta interviewed me for an hour before writing this highlight. See [here](https://www.geol.umd.edu/department/GeoGram/geogram2015.pdf#page=2) on page 2.
 
 2016
 - Press release for my 2016 Sicence paper on crustal evolution and plate tectonics. There are other versions out there but this one is the best. The scientific writer, Matt Early Wright, interviewed Roberta and me before writing the story. See [here](https://phys.org/news/2016-01-zeros-plate-tectonics-date.html).
