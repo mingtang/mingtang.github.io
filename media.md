@@ -3,10 +3,10 @@ layout: page
 title: Media
 description: Media
 permalink: /media/
-image: images/ming_tang_grand_canyon.jpg
+image: images/ming-tang-at-grand-canyon.jpg
 ---
 
-<img src="/images/ming_tang_grand_canyon.jpg" alt="Ming Tang at Grand Canyon" />
+<img src="/images/ming-tang-at-grand-canyon.jpg" alt="Ming Tang at Grand Canyon" />
 
 <hr style="margin-bottom:48px">
 
