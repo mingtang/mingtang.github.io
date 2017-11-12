@@ -33,14 +33,13 @@ image: images/photography/full/photo35.jpg
 		</div>
 	</div>
 
-        <div class="post-box" style="margin-bottom:48px">
+	<div class="post-box" style="margin-bottom:48px">
 		<img class="box-img" src="/images/photography/thumb/P1100320.jpg" alt="">
 		<div class="box-text">
 			<a href="{{ site.url }}/photography/2017/08/31/france/">
 				<h6>Cross-country drive in France, 2017</h6>
 			</a>
-			<p>After I finished with the Goldschmidt conference in Paris, Xin flew in, and we started our journey in France.
-This was our first time to travel in France... <a href="{{ site.url }}/photography/2017/08/31/france/">Read More</a></p>
+			<p>After I finished with the Goldschmidt conference in Paris, Xin flew in, and we started our journey in France. This was our first time to travel in France... <a href="{{ site.url }}/photography/2017/08/31/france/">Read More</a></p>
 		</div>
 	</div>
 
@@ -240,8 +239,7 @@ This was our first time to travel in France... <a href="{{ site.url }}/photograp
 			<a href="{{ site.url }}/photography/2015/01/16/ccd/">
 				<h6>Cross country drive</h6>
 			</a>
-			<p>In January, 2015, we drove across the country, from College Park, MD to Point Reyes, CA.
-11 states, 4 national parks, totaling 3456 miles in 8 days... <a href="{{ site.url }}/photography/2015/01/16/ccd/">Read More</a></p>
+			<p>In January, 2015, we drove across the country, from College Park, MD to Point Reyes, CA. 11 states, 4 national parks, totaling 3456 miles in 8 days... <a href="{{ site.url }}/photography/2015/01/16/ccd/">Read More</a></p>
 		</div>
 	</div>
 
