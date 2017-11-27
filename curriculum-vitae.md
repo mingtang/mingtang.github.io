@@ -89,7 +89,7 @@ image: images/tang.jpg
 ---
 
 - GSA and MSA graduate research grant, Li diffusion in zircon, PI, $3,500 <span class="date">2014</span>
-- Nanjing University, 2017-LAMD-K02, Mg isotopic fractionation during igneous differentiation in continental arc, PI, $33,300 <span class="date">2017-2018</span>
+- Nanjing University, 2017-LAMD-K02, Mg isotopic fractionation during igneous differentiation in continental arc, PI, $30,800 <span class="date">2017-2018</span>
 - China Academy of Sciences, Z201706, Carbon Flux of the Gangdese Arc, southern Tibet: Constraints from Petrology, Structure Geology and Numerical Simulations, co-PI, $221,200 <span class="date">2017-2019</span>
 
 
