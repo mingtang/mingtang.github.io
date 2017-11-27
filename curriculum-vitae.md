@@ -66,7 +66,7 @@ image: images/tang.jpg
 - Nanjing University <span class="date">2014</span>
 
 
-##### <a name="research-award"></a>Research Award
+##### <a name="research-awards"></a>Research Awards
 
 ---
 
@@ -80,10 +80,17 @@ image: images/tang.jpg
 
 - Graduate School Summer Research fellowship <span class="date">2015</span>
 
-- GSA graduate research grant <span class="date">2014</span>
 
 - Jena outstanding graduate paper cup award <span class="date">2014</span>
 
+
+##### <a name="grants"></a>Grants
+
+---
+
+- GSA and MSA graduate research grant, Li diffusion in zircon, PI, $3,500 <span class="date">2014</span>
+- Nanjing University, 2017-LAMD-K02, Mg isotopic fractionation during igneous differentiation in continental arc, PI, $33,300 <span class="date">2017-2018</span>
+- China Academy of Science, Z201706, Carbon Flux of the Gangdese Arc, southern Tibet: Constraints from Petrology, Structure Geology and Numerical Simulations, co-PI, $221,200 <span class="date">2017-2019</span>
 
 
 ##### <a name="service"></a>Service
