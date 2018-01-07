@@ -99,19 +99,20 @@ image: images/tang.jpg
 
 - "Maryland Day" volunteer
 
-- Reviewer of Elements, Geochimica et Cosmochimica Acta, American Mineralogist, Chemical Geology, Science Advances, International Geology Review, Nature Geoscience, Geophysical Research Letters, Proceedings of the National Academy of Sciences, Geology, Nature Communications, Science, Lithos, Scientific Reports, Geochemical Perspective Letters.
+- Reviewer of Elements, Geochimica et Cosmochimica Acta, American Mineralogist, Chemical Geology, Science Advances, International Geology Review, Nature Geoscience, Geophysical Research Letters, Proceedings of the National Academy of Sciences, Geology, Nature Communications, Science, Lithos, Scientific Reports, Geochemical Perspective Letters, Earth and Planetary Science Letters.
 
 
 ##### <a name="publications"></a>Publications
 
 ---
 
-###### <a name="publications-2017"></a>2017
+###### <a name="publications-2018"></a>2018
 
-
-**Tang, M.**, Erdman, M., Eldridge, G., Lee, C-T. (201X). Redox, crustal thickness and the origin of continental crust from Eu systematics in deep arc cumulates. In review.
+**Tang, M.**, Erdman, M., Eldridge, G., Lee, C-T. (201X). The redox "filter" beneath continental orogens. In revision.
 
 **Tang, M.**, Lee, C-T., Rudnick, L.R., Condie, K. (201X). Rapid mantle convection drove massive crustal thickening in the late Archean. In revision.
+
+###### <a name="publications-2017"></a>2017
 
 **Tang, M.**, Rudnick, L.R., McDonough, F.W., Bose, M., Goreva, Y. (2017). Multi-mode Li diffusion in natural zircons: evidence for diffusion in the presence of step-function concentration boundaries. *Earth and Planetary Science Letters*, 474, 110-119. <a class="paperdl" target="_blank" href="/publications/Tang%20et%20al_EPSL2017.pdf"><i class="fa fa-cloud-download" aria-hidden="true"></i></a>
 
