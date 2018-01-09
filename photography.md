@@ -14,6 +14,16 @@ image: images/photography/full/photo35.jpg
 	<hr style="margin-bottom:48px">
 
 	<div class="post-box" style="margin-bottom:48px">
+		<img class="box-img" src="/images/photography/thumb/L1460131.jpg" alt="">
+		<div class="box-text">
+			<a href="{{ site.url }}/photography/2018/01/09/lassen/">
+				<h6>2017-2018 Christmas-New Year trip in California</h6>
+			</a>
+			<p>Just spent the Christmas-New Year holiday in California. The five of us, Sean, Yilun, Jerry, Xin and me, teamed up and explored Lassen Volcanic National Park and... <a href="{{ site.url }}/photography/2018/01/09/lassen/">Read More</a></p>
+		</div>
+	</div>
+	
+	<div class="post-box" style="margin-bottom:48px">
 		<img class="box-img" src="/images/photography/thumb/DSC02053 copy.jpg" alt="">
 		<div class="box-text">
 			<a href="{{ site.url }}/photography/2017/10/12/scnv/">
