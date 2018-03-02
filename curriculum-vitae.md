@@ -43,6 +43,13 @@ image: images/tang.jpg
 ##### <a name="invited-talks"></a>Invited Talks
 
 ---
+
+- Stanford University <span class="date">2018</span>
+
+- Florida University <span class="date">2018</span>
+
+- University of Southern California <span class="date">2018</span>
+
 - Woods Hole Oceanographic Institute <span class="date">2017</span>
 
 - Harvard University <span class="date">2016</span>
