@@ -1,5 +1,6 @@
 # Site live URL
 url: https://mingtang.me
+title: Ming Tang | Personal Website
 
 # Harmony theme configuration. Please change accordingly.
 harmony:
@@ -24,14 +25,14 @@ highlighter: rouge
 permalink: pretty
 
 exclude:
-- CNAME
-- Gemfile
-- Rakefile
-- README.md
-- .gitignore
-- .sass-cache
-- Gemfile.lock
-- vendor
+    - CNAME
+    - Gemfile
+    - Rakefile
+    - README.md
+    - .gitignore
+    - .sass-cache
+    - Gemfile.lock
+    - vendor
 
 # Sass conversion configs
 sass:
@@ -41,7 +42,8 @@ sass:
 # for jekyll-seo-tag
 author: Ming Tang
 
-gems:
-- jekyll-seo-tag
-- jekyll-tidy
-- jekyll-sitemap
+plugins:
+    - jekyll-feed
+    - jekyll-seo-tag
+    - jekyll-tidy
+    - jekyll-sitemap

@@ -10,6 +10,7 @@ gem 'rake'
 # gem 'pygments.rb'
 gem 'rouge'
 
+gem 'jekyll-feed'
 gem 'jekyll-tidy'
 gem 'jekyll-seo-tag'
 gem 'jekyll-sitemap'

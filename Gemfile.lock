@@ -270,6 +270,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll-admin
+  jekyll-feed
   jekyll-seo-tag
   jekyll-sitemap
   jekyll-tidy
