@@ -43,6 +43,13 @@ image: images/tang.jpg
 ##### <a name="invited-talks"></a>Invited Talks
 
 ---
+
+- Stanford University <span class="date">2018</span>
+
+- Florida University <span class="date">2018</span>
+
+- University of Southern California <span class="date">2018</span>
+
 - Woods Hole Oceanographic Institute <span class="date">2017</span>
 
 - Harvard University <span class="date">2016</span>
@@ -66,7 +73,7 @@ image: images/tang.jpg
 - Nanjing University <span class="date">2014</span>
 
 
-##### <a name="research-award"></a>Research Award
+##### <a name="research-awards"></a>Research Awards
 
 ---
 
@@ -80,10 +87,17 @@ image: images/tang.jpg
 
 - Graduate School Summer Research fellowship <span class="date">2015</span>
 
-- GSA graduate research grant <span class="date">2014</span>
 
 - Jena outstanding graduate paper cup award <span class="date">2014</span>
 
+
+##### <a name="grants"></a>Grants
+
+---
+
+- GSA and MSA graduate research grant, Li diffusion in zircon, PI, $3,500 <span class="date">2014</span>
+- Nanjing University, 2017-LAMD-K02, Mg isotopic fractionation during igneous differentiation in continental arc, PI, $30,800 <span class="date">2017-2018</span>
+- China Academy of Sciences, Z201706, Carbon Flux of the Gangdese Arc, southern Tibet: Constraints from Petrology, Structure Geology and Numerical Simulations, co-PI, $221,200 <span class="date">2017-2019</span>
 
 
 ##### <a name="service"></a>Service
@@ -92,19 +106,20 @@ image: images/tang.jpg
 
 - "Maryland Day" volunteer
 
-- Reviewer of Elements, Geochimica et Cosmochimica Acta, American Mineralogist, Chemical Geology, Science Advances, International Geology Review, Nature Geoscience, Geophysical Research Letters, Proceedings of the National Academy of Sciences, Geology, Nature Communications, Science.
+- Reviewer of Elements, Geochimica et Cosmochimica Acta, American Mineralogist, Chemical Geology, Science Advances, International Geology Review, Nature Geoscience, Geophysical Research Letters, Proceedings of the National Academy of Sciences, Geology, Nature Communications, Science, Lithos, Scientific Reports, Geochemical Perspective Letters, Earth and Planetary Science Letters.
 
 
 ##### <a name="publications"></a>Publications
 
 ---
 
-###### <a name="publications-2017"></a>2017
+###### <a name="publications-2018"></a>2018
 
-
-**Tang, M.**, Erdman, M., Eldridge, G., Lee, C-T. (201X). Redox, crustal thickness and the origin of continental crust from Eu systematics in deep arc cumulates. In review.
+**Tang, M.**, Erdman, M., Eldridge, G., Lee, C-T. (201X). The redox "filter" beneath continental orogens. In revision.
 
 **Tang, M.**, Lee, C-T., Rudnick, L.R., Condie, K. (201X). Rapid mantle convection drove massive crustal thickening in the late Archean. In revision.
+
+###### <a name="publications-2017"></a>2017
 
 **Tang, M.**, Rudnick, L.R., McDonough, F.W., Bose, M., Goreva, Y. (2017). Multi-mode Li diffusion in natural zircons: evidence for diffusion in the presence of step-function concentration boundaries. *Earth and Planetary Science Letters*, 474, 110-119. <a class="paperdl" target="_blank" href="/publications/Tang%20et%20al_EPSL2017.pdf"><i class="fa fa-cloud-download" aria-hidden="true"></i></a>
 
