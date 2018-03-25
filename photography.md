@@ -14,6 +14,16 @@ image: images/photography/full/photo35.jpg
 	<hr style="margin-bottom:48px">
 
 	<div class="post-box" style="margin-bottom:48px">
+		<img class="box-img" src="/images/photography/thumb/L1470348.jpg" alt="">
+		<div class="box-text">
+			<a href="{{ site.url }}/photography/2018/03/23/canada/">
+				<h6>The Canadian Rockies - a spring trip</h6>
+			</a>
+			<p>The Canadian Rockies make a part of the North American Rockies, which have multiple ranges of mountains. They formed as a result of the Sevier orogeny about 140 to 40 million years ago... <a href="{{ site.url }}/photography/2018/03/23/canada/">Read More</a></p>
+		</div>
+	</div>
+	
+	<div class="post-box" style="margin-bottom:48px">
 		<img class="box-img" src="/images/photography/thumb/L1460131.jpg" alt="">
 		<div class="box-text">
 			<a href="{{ site.url }}/photography/2018/01/09/lassen/">
