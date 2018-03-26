@@ -115,7 +115,7 @@ image: images/tang.jpg
 
 ###### <a name="publications-2018"></a>2018
 
-**Tang, M.**, Erdman, M., Eldridge, G., Lee, C-T. (201X). The redox "filter" beneath continental orogens. In revision.
+**Tang, M.**, Erdman, M., Eldridge, G., Lee, C-T. (201X). The redox "filter" beneath magmatic orogens and the formation of continental crust. Science Advances, in press.
 
 **Tang, M.**, Lee, C-T., Rudnick, L.R., Condie, K. (201X). Rapid mantle convection drove massive crustal thickening in the late Archean. In revision.
 
