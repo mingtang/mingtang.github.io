@@ -17,7 +17,7 @@ image: images/photography/full/photo35.jpg
 		<img class="box-img" src="/images/photography/thumb/L1470348.jpg" alt="">
 		<div class="box-text">
 			<a href="{{ site.url }}/photography/2018/03/23/canada/">
-				<h6>The Canadian Rockies - a spring trip</h6>
+				<h6>The Canadian Rockies - a winter-spring trip</h6>
 			</a>
 			<p>The Canadian Rockies make a part of the North American Rockies, which have multiple ranges of mountains. They formed as a result of the Sevier orogeny about 140 to... <a href="{{ site.url }}/photography/2018/03/23/canada/">Read More</a></p>
 		</div>
