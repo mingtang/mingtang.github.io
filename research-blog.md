@@ -35,7 +35,7 @@ image: images/posts/early-archean-vs-present-continents.png
 			<a href="{{ site.url }}/research-blog/2018/05/12/garnet-fe/">
 				<h6>2018-5. A tale of iron and Earth's continents</h6>
 			</a>
-			<p>Iron (Fe) is one of the elements that we are most familiar with. It is a critical resource that drives modern civilization. We use things (partially) made of Fe everyday, from forks and spoons in the kitchen, cars on the road, frame structures of buildings, to rockets flying into space... <a href="{{ site.url }}/research-blog/2018/05/12/garnet-fe/">Read More</a></p>
+			<p>Iron (Fe) is one of the elements that we are most familiar with. It is a critical resource that drives modern civilization. We use things (partially) made of Fe everyday, from forks and spoons in the kitchen, cars on the road, frame structures of buildings, to rockets... <a href="{{ site.url }}/research-blog/2018/05/12/garnet-fe/">Read More</a></p>
 		</div>
 	</div>
 	
