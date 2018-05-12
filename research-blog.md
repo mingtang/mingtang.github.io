@@ -30,7 +30,7 @@ image: images/posts/early-archean-vs-present-continents.png
 	<hr style="margin-bottom:48px">
 
 	<div class="post-box" style="margin-bottom:48px">
-		<img class="box-img" src="/images/posts/redox filter-thumb.jpg" alt="redox filter">
+		<img class="box-img" src="/images/posts/SB3-ME14-thumb.jpg" alt="redox filter">
 		<div class="box-text">
 			<a href="{{ site.url }}/research-blog/2018/05/12/garnet-fe/">
 				<h6>2018-5. A tale of iron and Earth's continents</h6>
