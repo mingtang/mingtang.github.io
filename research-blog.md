@@ -30,15 +30,55 @@ image: images/posts/early-archean-vs-present-continents.png
 	<hr style="margin-bottom:48px">
 
 	<div class="post-box" style="margin-bottom:48px">
-		<img class="box-img" src="/images/posts/lower-crust-foundering-thumb.jpg" alt="lower crust foundering">
+		<img class="box-img" src="/images/posts/redox filter-thumb.jpg" alt="redox filter">
 		<div class="box-text">
-			<a href="{{ site.url }}/research-blog/2017/02/22/lower-crust-foundering/">
-				<h6>2017-1. Lower crust recycling — refining from beneath</h6>
+			<a href="{{ site.url }}/research-blog/2018/05/12/garnet-fe/">
+				<h6>2018-5. A tale of iron and Earth's continents</h6>
 			</a>
-			<p>How did Earth’s continental crust form? A key feature of Earth’s continental crust is that it contains voluminous granites, and is thus felsic (rich in Si and Al). This crust is a distinctive product of our... <a href="{{ site.url }}/research-blog/2017/02/22/lower-crust-foundering/">Read More</a></p>
+			<p>Iron (Fe) is one of the elements that we are most familiar with. It is a critical resource that drives modern civilization. We use things (partially) made of Fe everyday, from forks and spoons in the kitchen, cars on the road, frame structures of buildings, to rockets flying into space... <a href="{{ site.url }}/research-blog/2018/05/12/garnet-fe/">Read More</a></p>
 		</div>
 	</div>
-
+	
+	<div class="post-box" style="margin-bottom:48px">
+		<img class="box-img" src="/images/posts/crater-thumb.jpg" alt="laser craters">
+		<div class="box-text">
+			<a href="{{ site.url }}/research-blog/2017/04/02/la/">
+				<h6>2017-6. The source of elemental fractionation in LA-ICP-MS analysis</h6>
+			</a>
+			<p>Some of my Ph.D. projects were analytically challenging, which required measurements of either high precision or extremely small sample sizes (e.g., ~10<sup>-17</sup> g). These challenges drove me to study the instruments—how they work and how to optimize them for my research... <a href="{{ site.url }}/research-blog/2017/04/02/la/">Read More</a></p>
+		</div>
+	</div>
+	
+	<div class="post-box" style="margin-bottom:48px">
+		<img class="box-img" src="/images/posts/early-archean-vs-present-continents-thumb.png" alt="comparison between the proto-continents in the early Archean and present-day continentss">
+		<div class="box-text">
+			<a href="{{ site.url }}/research-blog/2017/03/26/when-did-earths-continental-crust-form/">
+				<h6>2017-5. When did Earth’s continental crust form?</h6>
+			</a>
+			<p>This is another highly-debated question, and for decades, people have been studying it from various perspectives. I took the same approach used in the continental crust Eu anomaly project—finding clues and evidence from published data to support my idea. When... <a href="{{ site.url }}/research-blog/2017/03/26/when-did-earths-continental-crust-form/">Read More</a></p>
+		</div>
+	</div>
+	
+	<div class="post-box" style="margin-bottom:48px">
+		<img class="box-img" src="/images/posts/ns-thumb.jpg" alt="ns">
+		<div class="box-text">
+			<a href="{{ site.url }}/research-blog/2017/03/12/zircon-li/">
+				<h6>2017-4. Li diffusion mechanism in zircon—the masterpiece of my Ph.D. research</h6>
+			</a>
+			<p>This is the project that I originally proposed for my Ph.D. dissertation, although I ended up doing multiple projects that interested me. To solve the problem, I teamed up with people from multiple inst... <a href="{{ site.url }}/research-blog/2017/03/12/zircon-li/">Read More</a></p>
+		</div>
+	</div>
+	
+	<div class="post-box" style="margin-bottom:48px">
+		<img class="box-img" src="/images/posts/island-arc-thumb.jpg" alt="island arc">
+		<div class="box-text">
+			<a href="{{ site.url }}/research-blog/2017/03/06/lesser-antilles-li/">
+				<h6>2017-3. In search of crustal Li in arc lavas, "fishing expedition" and hypothesis-driven research strategies</h6>
+			</a>
+			<p>This project was suggested by one of my advisors, Roberta Rudnick, because I was being funded on a grant to investigate Li isotopes. This project started off as a “fishing expedition”, something my... <a href="{{ site.url }}/research-blog/2017/03/06/lesser-antilles-li/">Read More</a></p>
+		</div>
+	</div>
+	
 	<div class="post-box" style="margin-bottom:48px">
 		<img class="box-img" src="/images/posts/mid-ocean-ridge-thumb.jpg" alt="mid ocean ridge">
 		<div class="box-text">
@@ -50,42 +90,12 @@ image: images/posts/early-archean-vs-present-continents.png
 	</div>
 
 	<div class="post-box" style="margin-bottom:48px">
-		<img class="box-img" src="/images/posts/island-arc-thumb.jpg" alt="island arc">
+		<img class="box-img" src="/images/posts/lower-crust-foundering-thumb.jpg" alt="lower crust foundering">
 		<div class="box-text">
-			<a href="{{ site.url }}/research-blog/2017/03/06/lesser-antilles-li/">
-				<h6>2017-3. In search of crustal Li in arc lavas, "fishing expedition" and hypothesis-driven research strategies</h6>
+			<a href="{{ site.url }}/research-blog/2017/02/22/lower-crust-foundering/">
+				<h6>2017-1. Lower crust recycling — refining from beneath</h6>
 			</a>
-			<p>This project was suggested by one of my advisors, Roberta Rudnick, because I was being funded on a grant to investigate Li isotopes. This project started off as a “fishing expedition”, something my... <a href="{{ site.url }}/research-blog/2017/03/06/lesser-antilles-li/">Read More</a></p>
-		</div>
-	</div>
-
-	<div class="post-box" style="margin-bottom:48px">
-		<img class="box-img" src="/images/posts/ns-thumb.jpg" alt="ns">
-		<div class="box-text">
-			<a href="{{ site.url }}/research-blog/2017/03/12/zircon-li/">
-				<h6>2017-4. Li diffusion mechanism in zircon—the masterpiece of my Ph.D. research</h6>
-			</a>
-			<p>This is the project that I originally proposed for my Ph.D. dissertation, although I ended up doing multiple projects that interested me. To solve the problem, I teamed up with people from multiple inst... <a href="{{ site.url }}/research-blog/2017/03/12/zircon-li/">Read More</a></p>
-		</div>
-	</div>
-
-	<div class="post-box" style="margin-bottom:48px">
-		<img class="box-img" src="/images/posts/early-archean-vs-present-continents-thumb.png" alt="comparison between the proto-continents in the early Archean and present-day continentss">
-		<div class="box-text">
-			<a href="{{ site.url }}/research-blog/2017/03/26/when-did-earths-continental-crust-form/">
-				<h6>2017-5. When did Earth’s continental crust form?</h6>
-			</a>
-			<p>This is another highly-debated question, and for decades, people have been studying it from various perspectives. I took the same approach used in the continental crust Eu anomaly project—finding clues and evidence from published data to support my idea. When... <a href="{{ site.url }}/research-blog/2017/03/26/when-did-earths-continental-crust-form/">Read More</a></p>
-		</div>
-	</div>
-	
-		<div class="post-box" style="margin-bottom:48px">
-		<img class="box-img" src="/images/posts/crater-thumb.jpg" alt="laser craters">
-		<div class="box-text">
-			<a href="{{ site.url }}/research-blog/2017/04/02/la/">
-				<h6>2017-6. The source of elemental fractionation in LA-ICP-MS analysis</h6>
-			</a>
-			<p>Some of my Ph.D. projects were analytically challenging, which required measurements of either high precision or extremely small sample sizes (e.g., ~10<sup>-17</sup> g). These challenges drove me to study the instruments—how they work and how to optimize them for my research... <a href="{{ site.url }}/research-blog/2017/04/02/la/">Read More</a></p>
+			<p>How did Earth’s continental crust form? A key feature of Earth’s continental crust is that it contains voluminous granites, and is thus felsic (rich in Si and Al). This crust is a distinctive product of our... <a href="{{ site.url }}/research-blog/2017/02/22/lower-crust-foundering/">Read More</a></p>
 		</div>
 	</div>
 </div>
