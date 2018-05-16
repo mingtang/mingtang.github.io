@@ -18,3 +18,6 @@ image: images/ming-tang-at-grand-canyon.jpg
 
 2017
 - Press release for O'Neil and Carlson's 2017 Science paper on Archean crustal evolution. Their findings support our 2016 Science paper model. I was invited to comment and quoted in the press release. See [here](https://gizmodo.com/scientists-found-a-new-window-into-the-hellish-ancient-1793314650).
+
+2018
+- Press release for my 2018 Science Advances paper on the formation of Fe depleted continental crust. I didn't reallize it is actually a quite complicated story until the science writer, Jade Boyd, who wrote this release, interviewed Cin-Ty and me. Jade did a good job writing the story up in an acurate and friendly way. See [here](https://www.sciencedaily.com/releases/2018/05/180516144842.htm) or [here](https://phys.org/news/2018-05-europium-continental-mystery.html).
