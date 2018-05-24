@@ -115,6 +115,8 @@ image: images/tang.jpg
 
 ###### <a name="publications-2018"></a>2018
 
+**Tang, M.**, Lee, C-T., Chen, K., Erdman, M., Costin, G. (201X). Building continents in magmatic orogens: Nb/Ta systematics in arc magma differentiation and the role of arclogites. In review. 
+
 **Tang, M.**, Erdman, M., Eldridge, G., Lee, C-T. (2018). The redox "filter" beneath magmatic orogens and the formation of continental crust. *Science Advances*, 4, eaar4444. <a class="paperdl" target="_blank" href="/publications/Tang%20et%20al_Science%20Advances%202018%20.pdf"><i class="fa fa-cloud-download" aria-hidden="true"></i></a>
 
 ###### <a name="publications-2017"></a>2017
