@@ -19,7 +19,7 @@ image: images/photography/full/photo35.jpg
 			<a href="{{ site.url }}/photography/2018/07/23/tibet/">
 				<h6>Tibet, 2018</h6>
 			</a>
-			<p>In this past summer, I joined a field trip in southern Tibet, one of my not-so-many long serious field trips. The field trip was led by Dr. Weiqiang Ji from CAS... <a href="{{ site.url }}/photography/2018/07/23/tibet/">Read More</a></p>
+			<p>In this past summer, I joined a field trip in southern Tibet, one of my not-so-many long serious field trips. The field trip was led by Dr. Weiqiang Ji from CAS. We had a total of eight people on our team, including six geologists and two local drivers... <a href="{{ site.url }}/photography/2018/07/23/tibet/">Read More</a></p>
 		</div>
 	</div>
 	
