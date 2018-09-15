@@ -14,6 +14,16 @@ image: images/photography/full/photo35.jpg
 	<hr style="margin-bottom:48px">
 
 	<div class="post-box" style="margin-bottom:48px">
+		<img class="box-img" src="/images/photography/thumb/DSC04273.jpg" alt="">
+		<div class="box-text">
+			<a href="{{ site.url }}/photography/2018/07/23/tibet/">
+				<h6>Tibet, 2018</h6>
+			</a>
+			<p>In this past summer, I joined a field trip in southern Tibet, one of my not-so-many long serious field trips. The field trip was led by Dr. Weiqiang Ji from CAS... <a href="{{ site.url }}/photography/2018/07/23/tibet/">Read More</a></p>
+		</div>
+	</div>
+	
+	<div class="post-box" style="margin-bottom:48px">
 		<img class="box-img" src="/images/photography/thumb/L1470348.jpg" alt="">
 		<div class="box-text">
 			<a href="{{ site.url }}/photography/2018/03/23/canada/">
