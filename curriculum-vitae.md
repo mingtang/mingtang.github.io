@@ -117,7 +117,7 @@ image: images/tang.jpg
 
 **Tang, M.**, Lee, C-T., Rudnick, R., Condie, K. (201X). Rapid mantle convection drove massive crustal thickening in the late Archean. In review.
 
-**Tang, M.**, Lee, C-T., Chen, K., Erdman, M., Costin, G. (201X). Nb/Ta systematics in arc magma differentiation and the role of arclogites in continent formation. Nature Communications In press. 
+**Tang, M.**, Lee, C-T., Chen, K., Erdman, M., Costin, G. (201X). Nb/Ta systematics in arc magma differentiation and the role of arclogites in continent formation. *Nature Communications* In press. 
 
 **Tang, M.**, Erdman, M., Eldridge, G., Lee, C-T. (2018). The redox "filter" beneath magmatic orogens and the formation of continental crust. *Science Advances*, 4, eaar4444. <a class="paperdl" target="_blank" href="/publications/Tang%20et%20al_Science%20Advances%202018%20.pdf"><i class="fa fa-cloud-download" aria-hidden="true"></i></a>
 
