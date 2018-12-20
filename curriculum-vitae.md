@@ -44,6 +44,8 @@ image: images/tang.jpg
 
 ---
 
+- Institute of Geology and Geophysics, CAS <span class="date">2018</span>
+
 - Goldschmidt conference keynote <span class="date">2018</span>
 
 - GSA fall meeting <span class="date">2018</span>
