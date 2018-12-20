@@ -44,6 +44,10 @@ image: images/tang.jpg
 
 ---
 
+- Goldschmidt conference keynote <span class="date">2018</span>
+
+- GSA fall meeting <span class="date">2018</span>
+
 - Stanford University <span class="date">2018</span>
 
 - Florida University <span class="date">2018</span>
