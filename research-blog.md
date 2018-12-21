@@ -33,7 +33,7 @@ image: images/posts/early-archean-vs-present-continents.png
 		<img class="box-img" src="/images/posts/SB3-ME14-thumb.jpg" alt="redox filter">
 		<div class="box-text">
 			<a href="{{ site.url }}/research-blog/2018/05/12/garnet-fe/">
-				<h6>2018-5. The mysteriously low iron in Earth's continental crust</h6>
+				<h6>2018-5. The missing iron in Earth's continental crust</h6>
 			</a>
 			<p>Iron (Fe) is one of the elements that we are most familiar with. It is a critical resource that drives modern civilization. We use things (partially) made of Fe everyday, from forks and spoons in the kitchen, cars on the road, frame structures of buildings, to rockets flying into... <a href="{{ site.url }}/research-blog/2018/05/12/garnet-fe/">Read More</a></p>
 		</div>
