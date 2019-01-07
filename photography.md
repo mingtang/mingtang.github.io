@@ -19,7 +19,7 @@ image: images/photography/full/photo35.jpg
 			<a href="{{ site.url }}/photography/2018/12/30/washington/">
 				<h6>Olympic Peninsula and Seattle, 2018</h6>
 			</a>
-			<p>2018 passed swiftly, and I turned 30. What happened in my 2018? For the first time in seven years, I had a chance to celebrate the Lunar new year with my family in China! I also visited China this year... <a href="{{ site.url }}/photography/2018/12/30/washington/">Read More</a></p>
+			<p>2018 passed swiftly, and I turned 30. What happened in my 2018? For the first time in seven years, I had a chance to celebrate the Lunar new year with my family in China! I also... <a href="{{ site.url }}/photography/2018/12/30/washington/">Read More</a></p>
 		</div>
 	</div>
 	
