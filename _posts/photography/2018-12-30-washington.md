@@ -113,7 +113,7 @@ Dungeness County Park. The left side is the Pacific Ocean and right side is the 
 Dead wood.
 
 <div class="img-parent">
-<img src="/images/photography/full/DSC00553.jpg" alt="San Juan." style="height:100%;width:100%;"/>
+<img src="/images/photography/full/DSC00553.jpg" alt="San Juan." style="height:60%;width:60%;"/>
 </div>
 Xin and dead wood.
 
