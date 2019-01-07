@@ -168,7 +168,7 @@ Hiking on the Marymere Falls Trail.
 Ruby Beach in winter rain, like the end of the world...
 
 <div class="img-parent">
-<img src="/images/photography/full/DSC04614.jpg" alt="San Juan." style="height:100%;width:100%;"/>
+<img src="/images/photography/full/DSC00808.jpg" alt="San Juan." style="height:60%;width:60%;"/>
 </div>
 Ruby Beach.
 
