@@ -14,6 +14,16 @@ image: images/photography/full/photo35.jpg
 	<hr style="margin-bottom:48px">
 
 	<div class="post-box" style="margin-bottom:48px">
+		<img class="box-img" src="/images/photography/thumb/DSC01039.jpg" alt="">
+		<div class="box-text">
+			<a href="{{ site.url }}/photography/2019/1/3/bay/">
+				<h6>Expeditions in the bay area, CA</h6>
+			</a>
+			<p>Before and after our road trip in Washington, we made a few short trips in the bay area of California. We drove the Half Moon Bay to see tide pool, Land Ends and revisited Point Reyes National Seashore... <a href="{{ site.url }}/photography/2019/1/3/bay/">Read More</a></p>
+		</div>
+	</div>
+	
+	<div class="post-box" style="margin-bottom:48px">
 		<img class="box-img" src="/images/photography/thumb/DSC00858.jpg" alt="">
 		<div class="box-text">
 			<a href="{{ site.url }}/photography/2018/12/30/washington/">
