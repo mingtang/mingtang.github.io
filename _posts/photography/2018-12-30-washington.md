@@ -8,7 +8,7 @@ categories:
 image: /images/photography/thumb/DSC00858.jpg
 ---
 
-2018 passed swiftly, and I turned 30. What happened in my 2018? For the first time in seven years, I had a chance to celebrate the Lunar new year with my family in China! I also visited China this year. I went to Tibet, for the first time. I went to Canada, for the first time, too. First Goldschmidt keynote talk and first GSA meeting. Lots of things happened.
+2018 passed swiftly, and I turned 30. What happened in my 2018? I visited China three times this year. For the first time in seven years, I had a chance to celebrate the Lunar new year with my family in China! I also went to Tibet, for the first time. I went to Canada, for the first time, too. First Goldschmidt keynote talk and first GSA meeting. Lots of things happened.
 
 I flied to California to spend the end of the year with Xin. We then visited Seattle and did a road trip in the Olympic Peninsula. Winter is somewhat an awkward time to visit Washington because it rains a lot, but we have visited so many places in their not-so-good time of the year. Worse still, both the Olympic and Rainier national parks were closed because Mr.Trump shut down the government...In the end, we visited some other places in the area. Still fun.
 
