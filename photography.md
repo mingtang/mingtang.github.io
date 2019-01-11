@@ -19,7 +19,7 @@ image: images/photography/full/photo35.jpg
 			<a href="{{ site.url }}/photography/2019/01/03/bay/">
 				<h6>Expeditions in the bay area, CA</h6>
 			</a>
-			<p>Before and after our road trip in Washington, we made a few short trips in the bay area of California. We drove the Half Moon Bay to see tide pool, Land Ends and revisited Point Reyes National Seashore. There are a lot of scenic spots... <a href="{{ site.url }}/photography/2019/01/03/bay/">Read More</a></p>
+			<p>Before and after our road trip in Washington, we made a few short trips in the bay area of California. We drove the Half Moon Bay to see tide pool, Land Ends and revisited Point Reyes National Seashore. There are a lot of scenic spots along the... <a href="{{ site.url }}/photography/2019/01/03/bay/">Read More</a></p>
 		</div>
 	</div>
 	
