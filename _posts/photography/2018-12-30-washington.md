@@ -45,7 +45,7 @@ Seattle at dusk and Mt.Rainier in distance. It turned out to be the only chance 
 <div class="img-parent">
 <img src="/images/photography/full/DSC00391.jpg" alt="Walking on a street in San Juan, after dinner." style="height:100%;width:100%;"/>
 </div>
-Starbucks Reserve Roaster!
+Starbucks Reserve Roastery!
 
 <div class="img-parent">
 <img src="/images/photography/full/DSC00390.jpg" alt="San Juan." style="height:100%;width:100%;"/>
