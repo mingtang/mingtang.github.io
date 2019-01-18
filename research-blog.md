@@ -30,6 +30,16 @@ image: images/posts/early-archean-vs-present-continents.png
 	<hr style="margin-bottom:48px">
 
 	<div class="post-box" style="margin-bottom:48px">
+		<img class="box-img" src="/images/posts/IMG00276-thumb.JPG" alt="nbta">
+		<div class="box-text">
+			<a href="{{ site.url }}/research-blog/2019/01/18/nbta/">
+				<h6>2019-1. Twin elements point to the mystery of continents</h6>
+			</a>
+			<p>In the past several years, my most visited states in the US are Arizona and California. During my dozens of flights across the western US, I liked to stare at the vast mountainous lands through the airplane windows. It was fascinating. Wild, primitive, barren and lonely... <a href="{{ site.url }}/research-blog/2019/01/19/nbta/">Read More</a></p>
+		</div>
+	</div>
+	
+	<div class="post-box" style="margin-bottom:48px">
 		<img class="box-img" src="/images/posts/SB3-ME14-thumb.jpg" alt="redox filter">
 		<div class="box-text">
 			<a href="{{ site.url }}/research-blog/2018/05/12/garnet-fe/">
