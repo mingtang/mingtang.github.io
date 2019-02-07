@@ -21,3 +21,6 @@ image: images/ming-tang-at-grand-canyon.jpg
 
 2018
 - Press release for my 2018 Science Advances paper on the formation of Fe depleted continental crust. I didn't reallize it is actually a quite complicated story until the science writer, Jade Boyd, who wrote this release, interviewed Cin-Ty and me, and did a good job writing the story up in an acurate and friendly way. Now there are quite several versions of press online. For example, see [ScienceDaily](https://www.sciencedaily.com/releases/2018/05/180516144842.htm), [livescience](https://www.livescience.com/62610-garnet-stealing-iron-from-earths-crust.html) or [IFLScience](http://www.iflscience.com/environment/we-might-finally-know-whats-been-stealing-earths-continental-iron/all/). Our story also got the top billing on NSF's daily newsletter (Science360). See [here](https://news.science360.gov/archives/20180518/).
+
+2019
+- Press release for my 2019 Nature Communications paper on the missing Nb in the continental crust. This was also highlighted by the Geochemical Society top news. See [here](https://www.sciencedaily.com/releases/2019/01/190129162402.htm).
