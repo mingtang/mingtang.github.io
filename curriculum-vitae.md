@@ -121,7 +121,7 @@ image: images/tang.jpg
 
 ###### <a name="publications-2018"></a>2019
 
-**Tang, M.**, Lee, C-T., Rudnick, R., Condie, K. (201X). Rapid mantle convection drove massive crustal thickening in the late Archean. In review.
+**Tang, M.**, Lee, C-T., Rudnick, R., Condie, K. (2019). Rapid mantle convection drove massive crustal thickening in the late Archean. In press.
 
 **Tang, M.**, Lee, C-T., Chen, K., Erdman, M., Costin, G., Jiang, H. (2019). Nb/Ta systematics in arc magma differentiation and the role of arclogites in continent formation. *Nature Communications*, 10, 235. <a class="paperdl" target="_blank" href="/publications/Tang%20et%20al_Nature%20Communications%202019.pdf"><i class="fa fa-cloud-download" aria-hidden="true"></i></a>
 
