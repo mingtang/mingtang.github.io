@@ -44,6 +44,10 @@ image: images/tang.jpg
 
 ---
 
+- Carnegie Institution for Science <span class="date">2019</span>
+
+- University of Maryland <span class="date">2019</span>
+
 - Institute of Geology and Geophysics, CAS <span class="date">2018</span>
 
 - Goldschmidt conference keynote <span class="date">2018</span>
@@ -120,6 +124,8 @@ image: images/tang.jpg
 ---
 
 ###### <a name="publications-2018"></a>2019
+
+**Tang, M.**, Lee, C-T., Costin, G., Höfer, H. (201X). Recycling reduced iron at the base of magmatic orogens. Submitted.
 
 **Tang, M.**, Lee, C-T., Rudnick, R., Condie, K. (2019). Rapid mantle convection drove massive crustal thickening in the late Archean. *Geochimica et Cosmochimica Acta*, in press.
 
