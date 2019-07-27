@@ -19,7 +19,7 @@ image: images/photography/full/photo35.jpg
 			<a href="{{ site.url }}/photography/2019/07/27/tibet/">
 				<h6>Tibet, 2019</h6>
 			</a>
-			<p>This summer, we went on a second field trip to Tibet. We landed in Nyingchi instead of Lhasa and started there. Nyingchi is 600 m lower than Lhasa, and this really helped a lot. At 3000 m, the altitude effect was not as strong and everybody could... <a href="{{ site.url }}/photography/2019/07/27/tibet/">Read More</a></p>
+			<p>This summer, we went on a second field trip to Tibet. We landed in Nyingchi instead of Lhasa and started there. Nyingchi is 600 m lower than Lhasa, and this really helped a lot. At 3000 m, the altitude effect was not as strong and everybody... <a href="{{ site.url }}/photography/2019/07/27/tibet/">Read More</a></p>
 		</div>
 	</div>
 	
