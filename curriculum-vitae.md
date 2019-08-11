@@ -125,6 +125,8 @@ image: images/tang.jpg
 
 ###### <a name="publications-2018"></a>2019
 
+**Tang, M.**, Lee, C-T., Ji, W., Wang, R., Costin, G. (201X). Crustal thickening and endogenic oxidation of magmatic sulfur, submitted.
+
 **Tang, M.**, Lee, C-T., Costin, G., Höfer, H. (2019). Recycling reduced iron at the base of magmatic orogens. *Earth and Planetary Science Letters*, in press.
 
 **Tang, M.**, Lee, C-T., Rudnick, R., Condie, K. (2019). Rapid mantle convection drove massive crustal thickening in the late Archean. *Geochimica et Cosmochimica Acta*, in press.
