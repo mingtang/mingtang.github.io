@@ -125,7 +125,7 @@ image: images/tang.jpg
 
 ###### <a name="publications-2018"></a>2019
 
-**Tang, M.**, Lee, C-T., Ji, W., Wang, R., Costin, G. (201X). Crustal thickening and endogenic oxidation of magmatic sulfur, submitted.
+**Tang, M.**, Lee, C-T., Ji, W., Wang, R., Costin, G. (201X). Crustal thickening and endogenic oxidation of magmatic sulfur. Submitted.
 
 **Tang, M.**, Lee, C-T., Costin, G., Höfer, H. (2019). Recycling reduced iron at the base of magmatic orogens. *Earth and Planetary Science Letters*, in press.
 
