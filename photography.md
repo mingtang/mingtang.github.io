@@ -19,7 +19,7 @@ image: images/photography/full/photo35.jpg
 			<a href="{{ site.url }}/photography/2019/09/17/spain/">
 				<h6>Spain, 2019</h6>
 			</a>
-			<p>This year, the Goldschmidt conference was in Spain. After the conference, Xin and I went on a trip in eastern Spain. It was our first time visiting Spain. We don't speak Spanish, but we managed to communicate with the people there just fine. I used... <a href="{{ site.url }}/photography/2019/09/17/spain/">Read More</a></p>
+			<p>This year, the Goldschmidt conference was in Spain. After the conference, Xin and I went on a trip in eastern Spain. It was our first time visiting Spain. We don't speak Spanish, but we managed to communicate with the people there just fine. I... <a href="{{ site.url }}/photography/2019/09/17/spain/">Read More</a></p>
 		</div>
 	</div>
 
