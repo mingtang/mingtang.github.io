@@ -127,9 +127,9 @@ image: images/tang.jpg
 
 **Tang, M.**, Lee, C-T., Ji, W., Wang, R., Costin, G. (201X). Crustal thickening and endogenic oxidation of magmatic sulfur. Submitted.
 
-**Tang, M.**, Lee, C-T., Costin, G., Höfer, H. (2019). Recycling reduced iron at the base of magmatic orogens. *Earth and Planetary Science Letters*, in press.
+**Tang, M.**, Lee, C-T., Costin, G., Höfer, H. (2019). Recycling reduced iron at the base of magmatic orogens. *Earth and Planetary Science Letters*, 528. <a class="paperdl" target="_blank" href="/publications/Tang%20et%20al.%2C%202019%2C%20EPSL.pdf"><i class="fa fa-cloud-download" aria-hidden="true"></i></a>
 
-**Tang, M.**, Lee, C-T., Rudnick, R., Condie, K. (2019). Rapid mantle convection drove massive crustal thickening in the late Archean. *Geochimica et Cosmochimica Acta*, in press.
+**Tang, M.**, Lee, C-T., Rudnick, R., Condie, K. (2019). Rapid mantle convection drove massive crustal thickening in the late Archean. *Geochimica et Cosmochimica Acta*, in press. <a class="paperdl" target="_blank" href="/publications/Tang%20et%20al.%2C%202019%2C%20GCA.pdf"><i class="fa fa-cloud-download" aria-hidden="true"></i></a>
 
 **Tang, M.**, Lee, C-T., Chen, K., Erdman, M., Costin, G., Jiang, H. (2019). Nb/Ta systematics in arc magma differentiation and the role of arclogites in continent formation. *Nature Communications*, 10, 235. <a class="paperdl" target="_blank" href="/publications/Tang%20et%20al_Nature%20Communications%202019.pdf"><i class="fa fa-cloud-download" aria-hidden="true"></i></a>
 
