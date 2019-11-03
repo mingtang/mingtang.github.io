@@ -137,6 +137,8 @@ Lee, C-T., **Tang, M.** (2020). How to make porphyry copper deposits. *Earth and
 
 **Tang, M.**, Lee, C-T., Chen, K., Erdman, M., Costin, G., Jiang, H. (2019). Nb/Ta systematics in arc magma differentiation and the role of arclogites in continent formation. *Nature Communications*, 10, 235. <a class="paperdl" target="_blank" href="/publications/Tang%20et%20al_Nature%20Communications%202019.pdf"><i class="fa fa-cloud-download" aria-hidden="true"></i></a>
 
+Liu, H., Sun, WD., Zartman, R., **Tang, M.**,  (2019). Continuous plate subduction marked by the rise of alkali magmatism 2.1 billion years ago. *Nature Communications*, 10, 3408. <a class="paperdl" target="_blank" href="/publications/Liu%20et%20al.%2C%202019%2C%20NC.pdf"><i class="fa fa-cloud-download" aria-hidden="true"></i></a>
+
 Chen, X., Lee, C.-T. A., Wang, X.-L., **Tang, M.**, 2019, Influence of water on granite generation: modeling and perspective, *Journal of Asian Earth Sciences*, 174, 126-134. <a class="paperdl" target="_blank" href="/publications/Chen%20et%20al.%2C%202018%2C%20JAES.pdf"><i class="fa fa-cloud-download" aria-hidden="true"></i></a>
 
 ###### <a name="publications-2018"></a>2018
