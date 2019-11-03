@@ -127,7 +127,9 @@ image: images/tang.jpg
 
 **Tang, M.**, Lee, C-T., Ji, W., Wang, R., Costin, G. (201X). Crustal thickening and endogenic oxidation of magmatic sulfur. Submitted.
 
-**Tang, M.**, Lee, C-T., Costin, G., Höfer, H. (2019). Recycling reduced iron at the base of magmatic orogens. *Earth and Planetary Science Letters*, 528. <a class="paperdl" target="_blank" href="/publications/Tang%20et%20al.%2C%202019%2C%20EPSL.pdf"><i class="fa fa-cloud-download" aria-hidden="true"></i></a>
+Lee, C-T., **Tang, M.** (2020). How to make porphyry copper deposits. *Earth and Planetary Science Letters*, 529, 115868. <a class="paperdl" target="_blank" href="/publications/Lee%20and%20Tang_EPSL2020.pdf"><i class="fa fa-cloud-download" aria-hidden="true"></i></a>
+
+**Tang, M.**, Lee, C-T., Costin, G., Höfer, H. (2019). Recycling reduced iron at the base of magmatic orogens. *Earth and Planetary Science Letters*, 528, 115827. <a class="paperdl" target="_blank" href="/publications/Tang%20et%20al.%2C%202019%2C%20EPSL.pdf"><i class="fa fa-cloud-download" aria-hidden="true"></i></a>
 
 **Tang, M.**, Lee, C-T., Rudnick, R., Condie, K. (2019). Rapid mantle convection drove massive crustal thickening in the late Archean. *Geochimica et Cosmochimica Acta*, in press. <a class="paperdl" target="_blank" href="/publications/Tang%20et%20al.%2C%202019%2C%20GCA.pdf"><i class="fa fa-cloud-download" aria-hidden="true"></i></a>
 
