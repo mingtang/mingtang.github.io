@@ -133,9 +133,10 @@ image: images/tang.jpg
 
 Chen, K., **Tang, M.**, Lee, C-T., Wang, Z., Zou, Z., Hu, Z., Liu, Y. (2020). Sulfide-bearing cumulates in deep continental arcs: The missing copper reservoir. *Earth and Planetary Science Letters*, in press.
 
-Chen, K.,  Rudnick, R.L., Wang, Z., **Tang, M.**, Gaschnig,R.M., Zou, Z., He, T., Hu, Z., Liu, Y. (2020). How mafic was the Archean upper continental crust? Insights from Cu and Ag in ancient glacial diamictites. *Geochimica et Cosmochimica Acta*, in press. 
-
 Lee, C-T., **Tang, M.** (2020). How to make porphyry copper deposits. *Earth and Planetary Science Letters*, 529, 115868. <a class="paperdl" target="_blank" href="/publications/Lee%20and%20Tang_EPSL2020.pdf"><i class="fa fa-cloud-download" aria-hidden="true"></i></a>
+
+Chen, K.,  Rudnick, R.L., Wang, Z., **Tang, M.**, Gaschnig, R.M., Zou, Z., He, T., Hu, Z., Liu, Y. (2020). How mafic was the Archean upper continental crust? Insights from Cu and Ag in ancient glacial diamictites. *Geochimica et Cosmochimica Acta*, in press. 
+
 
 ###### <a name="publications-2019"></a>2019
 
