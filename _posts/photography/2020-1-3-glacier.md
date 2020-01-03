@@ -91,7 +91,7 @@ Driving to Two Medicine Lake.
 <div class="img-parent">
 <img src="/images/photography/full2/DSC02887.jpg" alt="Walking on a street in San Juan, after dinner." style="height:100%;width:100%;"/>
 </div>
-Our firth trip to the east...Last try. We were so persistent because all the fun trails, including the Grinnell Glacier Trail, is on the east side. We had to head back because of the snow and icy roads...
+Our fourth trip to the east...Last try. We were so persistent because all the fun trails, including the Grinnell Glacier Trail, is on the east side. We had to head back because of the snow and icy roads...
 
 <div class="img-parent">
 <img src="/images/photography/full2/IMG_1599.jpg" alt="Walking on a street in San Juan, after dinner." style="height:60%;width:60%;"/>
