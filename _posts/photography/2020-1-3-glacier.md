@@ -21,7 +21,7 @@ It was chilly in Montana in late September. Most trees there already turned gold
 <div class="img-parent">
 <img src="/images/photography/full2/IMG_8793.jpg" alt="Walking on a street in San Juan, after dinner." style="height:100%;width:100%;"/>
 </div>
-First night. We went to a theater in Whitefish after dinner. The theater is small with two rooms and one staff person. I very much enjoy watching movies in small theaters in remote towns. Feels like a different world.
+First night. We went to a theater in Whitefish after dinner. The theater is small with two rooms and one staff person. I very much enjoy watching movies in small theaters in remote towns. Feels like in a different world.
 
 <div class="img-parent">
 <img src="/images/photography/full2/DSC02907.jpg" alt="Walking on a street in San Juan, after dinner." style="height:100%;width:100%;"/>
