@@ -14,7 +14,7 @@ image: images/photography/full/photo35.jpg
 	<hr style="margin-bottom:48px">
 
 	<div class="post-box" style="margin-bottom:48px">
-		<img class="box-img" src="/images/photography/thumb/IMG_3504.jpg" alt="">
+		<img class="box-img" src="/images/photography/thumb/DSC02887.jpg" alt="">
 		<div class="box-text">
 			<a href="{{ site.url }}/photography/2020/01/03/glacier/">
 				<h6>Glacier National Park, 2019</h6>
