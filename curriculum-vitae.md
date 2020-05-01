@@ -127,7 +127,7 @@ image: images/tang.jpg
 
 ###### <a name="publications-2020"></a>2020
 
-**Tang, M.**, Ji, W-Q., Chu, X., Wu, A., Chen, C. (201X). Reconstructing Crustal Thickness Evolution from Europium Anomalies in Detrital Zircons. In review.
+**Tang, M.**, Ji, W-Q., Chu, X., Wu, A., Chen, C. (201X). Reconstructing crustal thickness evolution from europium anomalies in detrital zircons. In review.
 
 **Tang, M.**, Lee, C-T., Ji, W., Wang, R., Costin, G. (201X). Crustal thickening and endogenic oxidation of magmatic sulfur. In revision.
 
