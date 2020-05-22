@@ -19,7 +19,7 @@ image: images/photography/full/photo35.jpg
 			<a href="{{ site.url }}/photography/2020/05/21/ld/">
 				<h6>Last days in the US, 2019</h6>
 			</a>
-			<p>The world now looks so different due to the COVID-19 pandemic. I've been staying in my apartment in Beijing for three months. Now everything's finally coming back to normal, gradually.This is a long delayed update...I spent my last days in the ... <a href="{{ site.url }}/photography/2020/01/03/glacier/">Read More</a></p>
+			<p>The world now looks so different due to the COVID-19 pandemic. I've been staying in my apartment in Beijing for three months. Now everything's finally coming back to normal, gradually.This is a long delayed update...I spent my last days in the ... <a href="{{ site.url }}/photography/2020/05/21/ld/">Read More</a></p>
 		</div>
 	</div>
 	
