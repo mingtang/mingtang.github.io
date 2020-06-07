@@ -129,7 +129,7 @@ image: images/tang.jpg
 
 **Tang, M.**, Ji, W-Q., Chu, X., Wu, A., Chen, C. (201X). Reconstructing crustal thickness evolution from europium anomalies in detrital zircons. In review.
 
-**Tang, M.**, Lee, C-T., Ji, W., Wang, R., Costin, G. (201X). Crustal thickening and endogenic oxidation of magmatic sulfur. In revision.
+**Tang, M.**, Lee, C-T., Ji, W., Wang, R., Costin, G. (2020). Crustal thickening and endogenic oxidation of magmatic sulfur. *Science Advances*, in press.
 
 **Tang, M.**, Lee, C-T., Rudnick, R., Condie, K. (2020). Rapid mantle convection drove massive crustal thickening in the late Archean. *Geochimica et Cosmochimica Acta*, 278, 6-15. <a class="paperdl" target="_blank" href="/publications/Tang%20et%20al.%2C%202019%2C%20GCA.pdf"><i class="fa fa-cloud-download" aria-hidden="true"></i></a>
 
