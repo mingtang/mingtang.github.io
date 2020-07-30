@@ -131,7 +131,7 @@ image: images/tang.jpg
 
 **Tang, M.** (2020). Chapter 00128. Composition of the Earth's Crust, *Encyclopedia of Geology*, in press.
 
-**Tang, M.**, Lee, C-T., Ji, W., Wang, R., Costin, G. (2020). Crustal thickening and endogenic oxidation of magmatic sulfur. *Science Advances*, 6, eaba6342.<a class="paperdl" target="_blank" href="/publications/Tang%20et%20al.%2C%202020%2C%20Science%20Advances.pdf"><i class="fa fa-cloud-download" aria-hidden="true"></i></a>
+**Tang, M.**, Lee, C-T., Ji, W., Wang, R., Costin, G. (2020). Crustal thickening and endogenic oxidation of magmatic sulfur. *Science Advances*, 6, eaba6342. <a class="paperdl" target="_blank" href="/publications/Tang%20et%20al.%2C%202020%2C%20Science%20Advances.pdf"><i class="fa fa-cloud-download" aria-hidden="true"></i></a>
 
 **Tang, M.**, Lee, C-T., Rudnick, R., Condie, K. (2020). Rapid mantle convection drove massive crustal thickening in the late Archean. *Geochimica et Cosmochimica Acta*, 278, 6-15. <a class="paperdl" target="_blank" href="/publications/Tang%20et%20al.%2C%202019%2C%20GCA.pdf"><i class="fa fa-cloud-download" aria-hidden="true"></i></a>
 
