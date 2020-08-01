@@ -17,9 +17,9 @@
 		<!-- Harmony styles -->
 		<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/main.css?{{ site.time | date: '%s%N' }}">
 		<!-- image lightbox -->
-		<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/lightbox.css">
+		<!-- link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/lightbox.css" -->
 		<!-- font awesome -->
-		<script src="https://use.fontawesome.com/36fcacbdc4.js"></script>
+		<link rel="stylesheet" href="{{ site.baseurl }}/assets/fa/css/font-awesome.min.css">
 		<!-- Modernizr js -->
 		<script async src="{{ site.baseurl }}/assets/js/modernizr.js"></script>
 		<!-- IE Fixes -->
@@ -30,7 +30,8 @@
 		  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
 		<![endif]-->
 		<!-- jQuery -->
-		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+		<!-- script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script -->
+		<script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
 		<!-- When no internet load JQuery from local -->
 		<script>window.jQuery || document.write('<script src="{{ site.baseurl }}/assets/js/jquery.min.js"><\/script>')</script>
 		<script type="text/javascript">
