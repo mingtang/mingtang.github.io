@@ -131,7 +131,7 @@ image: images/tang.jpg
 
 **Tang, M.** (2020). Chapter 00128. Composition of the Earth's Crust, *Encyclopedia of Geology*, in press.
 
-Marschall, H., **Tang, M.**. (2020). High-Temperature Processes: Is it Time for Lithium Isotopes?. *Elements*, 16(4), 247-252. <a class="paperdl" target="_blank" href="/publications/Marschall%20and%20Tang%2C%202020%2C%20Elements.pdf"><i class="fa fa-cloud-download" aria-hidden="true"></i></a>
+Marschall, H., **Tang, M.**. (2020). High-Temperature Processes: Is it Time for Lithium Isotopes? *Elements*, 16(4), 247-252. <a class="paperdl" target="_blank" href="/publications/Marschall%20and%20Tang%2C%202020%2C%20Elements.pdf"><i class="fa fa-cloud-download" aria-hidden="true"></i></a>
 
 **Tang, M.**, Lee, C-T., Ji, W., Wang, R., Costin, G. (2020). Crustal thickening and endogenic oxidation of magmatic sulfur. *Science Advances*, 6, eaba6342. <a class="paperdl" target="_blank" href="/publications/Tang%20et%20al.%2C%202020%2C%20Science%20Advances.pdf"><i class="fa fa-cloud-download" aria-hidden="true"></i></a>
 
