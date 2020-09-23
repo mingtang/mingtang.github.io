@@ -127,6 +127,8 @@ image: images/tang.jpg
 
 ###### <a name="publications-2020"></a>2020
 
+**Tang, M.**, Chu, X., Hao, J-H., Shen, B. (202X). Orogenic quiescence in Earth’s middle age. Submitted.
+
 **Tang, M.**, Ji, W-Q., Chu, X., Wu, A., Chen, C. (2020). Reconstructing crustal thickness evolution from europium anomalies in detrital zircons. *Geology*, in press.
 
 **Tang, M.** (2020). Chapter 00128. Composition of the Earth's Crust, *Encyclopedia of Geology*, in press.
