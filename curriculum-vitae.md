@@ -125,13 +125,15 @@ image: images/tang.jpg
 
 ---
 
+###### <a name="publications-2021"></a>2021
+
+**Tang, M.**, Chu, X., Hao, J-H., Shen, B. (202X). Orogenic quiescence in Earth’s middle age, in review.
+
+**Tang, M.**, Ji, W-Q., Chu, X., Wu, A., Chen, C. (2021). Reconstructing crustal thickness evolution from europium anomalies in detrital zircons. *Geology*, in press. <a class="paperdl" target="_blank" href="/publications/Tang%20et%20al.%2C%202120%2C%20Geology.pdf"><i class="fa fa-cloud-download" aria-hidden="true"></i></a>
+
 ###### <a name="publications-2020"></a>2020
 
-**Tang, M.**, Chu, X., Hao, J-H., Shen, B. (202X). Orogenic quiescence in Earth’s middle age. Submitted.
-
-**Tang, M.**, Ji, W-Q., Chu, X., Wu, A., Chen, C. (2020). Reconstructing crustal thickness evolution from europium anomalies in detrital zircons. *Geology*, in press.
-
-**Tang, M.** (2020). Chapter 00128. Composition of the Earth's Crust, *Encyclopedia of Geology*, in press.
+**Tang, M.** (2020). Composition of the Earth's Crust, Reference Module in Earth Systems and Environmental Sciences. Elsevier. <a class="paperdl" target="_blank" href="/publications/Tang%20.%2C%202020%2C%20Encyclopedia%20of%20Geology.pdf"><i class="fa fa-cloud-download" aria-hidden="true"></i></a>
 
 Marschall, H., **Tang, M.**. (2020). High-Temperature Processes: Is it Time for Lithium Isotopes? *Elements*, 16(4), 247-252. <a class="paperdl" target="_blank" href="/publications/Marschall%20and%20Tang%2C%202020%2C%20Elements.pdf"><i class="fa fa-cloud-download" aria-hidden="true"></i></a>
 
