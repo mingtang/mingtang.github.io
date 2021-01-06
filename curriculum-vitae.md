@@ -21,7 +21,7 @@ image: images/tang.jpg
 
 ---
 
-- Assistant professor at Peking University, China <span class="date">starting December 2019</span>
+- Assistant professor at Peking University, China <span class="date">2019 - present</span>
 
 - Post-doc at Rice University, USA <span class="date">2016 - 2019</span>
 
