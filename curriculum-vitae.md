@@ -133,7 +133,7 @@ image: images/tang.jpg
 
 ###### <a name="publications-2020"></a>2020
 
-**Tang, M.** (2020). Composition of the Earth's Crust, Reference Module in Earth Systems and Environmental Sciences. Elsevier. <a class="paperdl" target="_blank" href="/publications/Tang,%202020,%20Encyclopedia%20of%20Geology.pdf"><i class="fa fa-cloud-download" aria-hidden="true"></i></a>
+**Tang, M.** (2020). Composition of the Earth's Crust. Reference Module in Earth Systems and Environmental Sciences. Elsevier. <a class="paperdl" target="_blank" href="/publications/Tang,%202020,%20Encyclopedia%20of%20Geology.pdf"><i class="fa fa-cloud-download" aria-hidden="true"></i></a>
 
 Marschall, H., **Tang, M.**. (2020). High-Temperature Processes: Is it Time for Lithium Isotopes? *Elements*, 16(4), 247-252. <a class="paperdl" target="_blank" href="/publications/Marschall%20and%20Tang%2C%202020%2C%20Elements.pdf"><i class="fa fa-cloud-download" aria-hidden="true"></i></a>
 
