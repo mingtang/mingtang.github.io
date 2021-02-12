@@ -46,7 +46,7 @@ image: images/tang.jpg
 
 ---
 
-- Carnegie Institution for Science <span class="date">2019</span>
+- Carnegie Institution for <span class="date">2019</span>
 
 - University of Maryland <span class="date">2019</span>
 
@@ -127,7 +127,7 @@ image: images/tang.jpg
 
 ###### <a name="publications-2021"></a>2021
 
-**Tang, M.**, Chu, X., Hao, J-H., Shen, B. (2021). Orogenic quiescence in Earth’s middle age. *Science*, in press.
+**Tang, M.**, Chu, X., Hao, J-H., Shen, B. (2021). Orogenic quiescence in Earth’s middle age. *Science*, 371(6530), 728-731. <a class="paperdl" target="_blank" href="/publications/Tang%20et%20al.%2C%202021%2C%20Science.pdf"><i class="fa fa-cloud-download" aria-hidden="true"></i></a>
 
 **Tang, M.**, Ji, W-Q., Chu, X., Wu, A., Chen, C. (2021). Reconstructing crustal thickness evolution from europium anomalies in detrital zircons. *Geology*, 49, 76-80. <a class="paperdl" target="_blank" href="/publications/Tang%20et%20al.,%202021,%20Geology.pdf"><i class="fa fa-cloud-download" aria-hidden="true"></i></a>
 
