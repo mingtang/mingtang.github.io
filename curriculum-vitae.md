@@ -46,7 +46,7 @@ image: images/tang.jpg
 
 ---
 
-- Carnegie Institution for <span class="date">2019</span>
+- Carnegie Institution for Science <span class="date">2019</span>
 
 - University of Maryland <span class="date">2019</span>
 
