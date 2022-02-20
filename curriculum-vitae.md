@@ -97,6 +97,8 @@ image: images/tang.jpg
 
 - Xplorer Prize <span class="date">2021</span>
 
+- Gaoshan Award <span class="date">2019</span>
+
 - Charles A. Caramello Distinguished Dissertation Award, Class 2016 <span class="date">2017</span>
 
 - Best paper award, Geology Department, University of Maryland <span class="date">2016</span>
