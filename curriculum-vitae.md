@@ -33,6 +33,9 @@ image: images/tang.jpg
 ##### <a name="teaching-experience"></a>Teaching Experience
 
 ---
+- Planetary Earth Science <span class="date">Fall semesters since 2020</span>
+
+- Scientific writing and research ethics <span class="date">Spring semesters since 2021</span>
 
 - Climate change, teaching assistant <span class="date">Feb - May 2015</span>
 
@@ -88,6 +91,11 @@ image: images/tang.jpg
 ##### <a name="research-awards"></a>Research Awards
 
 ---
+- National Science Fund for Distinguished Young Scholars <span class="date">2021</span>
+
+- Hisashi Kuno Award (AGU) <span class="date">2021</span>
+
+- Xplorer Prize <span class="date">2021</span>
 
 - Charles A. Caramello Distinguished Dissertation Award, Class 2016 <span class="date">2017</span>
 
@@ -106,10 +114,15 @@ image: images/tang.jpg
 ##### <a name="grants"></a>Grants
 
 ---
-
-- GSA and MSA graduate research grant, Li diffusion in zircon, PI, $3,500 <span class="date">2014</span>
-- Nanjing University, 2017-LAMD-K02, Mg isotopic fractionation during igneous differentiation in continental arc, PI, $30,800 <span class="date">2017-2018</span>
-- China Academy of Sciences, Z201706, Carbon Flux of the Gangdese Arc, southern Tibet: Constraints from Petrology, Structure Geology and Numerical Simulations, co-PI, $221,200 <span class="date">2017-2019</span>
+- NSFC, 42125302. Geochemical processes in continent evolution. PI ¥4,000,000 ($615,385) <span class="date">2022-2026</span>
+- National Talent Recruitment Program, 2021002979. PI, ¥3,000,000 ($461,538) <span class="date">2021-2024</span>
+- NSFC, 42073026. Endogenic oxidation during continental crust formation and its impact on early Earth surface environment. PI, ¥620,000 ($95,385) <span class="date">2021-2024</span>
+- Peking University Start-up Fund, 7101302669. PI, ¥2,000,000 ($307,692) <span class="date">2021</span>
+- NSF-USA, EAR-1850832. Synmagmatic crustal thickening and the importance of garnet fractionation in making continental crust. Co-I, $172,684 <span class="date">2019-2021</span>
+- NSFC, 41888101. Co-evolution of the continents and monsoon system. Participant, 187,500,000 ($28,846,154) <span class="date">2019-2023</span>
+- GSA and MSA graduate research grant. Li diffusion in zircon, PI, $3,500 <span class="date">2014</span>
+- Nanjing University, 2017-LAMD-K02. Mg isotopic fractionation during igneous differentiation in continental arc. PI, ¥200,000 ($30800) <span class="date">2017-2018</span>
+- China Academy of Sciences, Z201706, Carbon Flux of the Gangdese Arc, southern Tibet: Constraints from Petrology, Structure Geology and Numerical Simulations. co-PI, ¥1450,000 ($221,200) <span class="date">2017-2019</span>
 
 
 ##### <a name="service"></a>Service
@@ -125,11 +138,25 @@ image: images/tang.jpg
 
 ---
 
+###### <a name="publications-2021"></a>2022
+
+**Tang, M.**, Chen, H., Song, S., Sun, G., Wang, C. (202X). Archean felsic crust emerged from oxidative differentiation at depth. In review.
+
+Du, D.H., **Tang, M.**, Li, W., Kay, S.M., Wang, X. (2022). What drives Fe depletion in calc-alkaline magma differentiation: Insights from Fe isotopes. Geology.
+
 ###### <a name="publications-2021"></a>2021
 
 **Tang, M.**, Chu, X., Hao, J-H., Shen, B. (2021). Orogenic quiescence in Earth’s middle age. *Science*, 371(6530), 728-731. <a class="paperdl" target="_blank" href="/publications/Tang%20et%20al.%2C%202021%2C%20Science.pdf"><i class="fa fa-cloud-download" aria-hidden="true"></i></a>
 
 **Tang, M.**, Ji, W-Q., Chu, X., Wu, A., Chen, C. (2021). Reconstructing crustal thickness evolution from europium anomalies in detrital zircons. *Geology*, 49, 76-80. <a class="paperdl" target="_blank" href="/publications/Tang%20et%20al.,%202021,%20Geology.pdf"><i class="fa fa-cloud-download" aria-hidden="true"></i></a>
+
+Wang, X., **Tang, M.**, Moyen, J., Wang, D., Kröner, A., Hawkesworth, C., Xia, X., Xie, H., Anhaeusser, C., Hofmann, A. and Li, J. (2021). The onset of deep recycling of supracrustal materials at the Paleo- Mesoarchean boundary. National Science Review, nwab136.
+
+Li, J., **Tang, M.**, Lee, C.T.A., Wang, X., Gu, Z.D., Xia, X.P., Wang, D., Du, D.H. and Li, L.S. (2021). Rapid endogenic rock recycling in magmatic arcs. Nature Communications, 12(1), 1-7.
+
+Shu, X., Liao, S., **Tang, M.**, Hong, W., Li, J. (2021). Different water contents lead to contrasting magmatic differentiation pathways: A case study of two coeval rock suites. Lithos, 386-387, 10600.
+
+Sun, G., Liu, S., Cawood, P., **Tang, M.**, Hunen, Jv, Gao, L., Hu, Y., Hu, F. (2021). Thermal state and evolving geodynamic regimes of the Meso- to Neoarchean North China Craton. Nature Communications, 12: 3888.
 
 ###### <a name="publications-2020"></a>2020
 
