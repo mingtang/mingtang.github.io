@@ -146,7 +146,7 @@ image: images/tang.jpg
 
 Du, D., **Tang, M.**, Li, W., Kay, S.M., Wang, X. (2022). What drives Fe depletion in calc-alkaline magma differentiation: Insights from Fe isotopes. Geology.
 
-Brudner, A., Jiang, H., Chu, X. and **Tang, M.** (2022). Crustal thickness of the Grenville orogen: A Mesoproterozoic Tibet?. Geology.
+Brudner, A., Jiang, H., Chu, X., **Tang, M.** (2022). Crustal thickness of the Grenville orogen: A Mesoproterozoic Tibet?. Geology.
 
 ###### <a name="publications-2021"></a>2021
 
