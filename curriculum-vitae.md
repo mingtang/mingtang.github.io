@@ -142,11 +142,11 @@ image: images/tang.jpg
 
 ###### <a name="publications-2021"></a>2022
 
-**Tang, M.**, Chen, H., Song, S., Sun, G., Wang, C. (202X). Archean felsic crust emerged from oxidative differentiation at depth. In review.
+**Tang, M.**, Chen, H., Song, S., Sun, G., Wang, C. (202X). Archean felsic crust emerged from oxidative differentiation at depth. *In review*.
 
-Du, D., **Tang, M.**, Li, W., Kay, S.M., Wang, X. (2022). What drives Fe depletion in calc-alkaline magma differentiation: Insights from Fe isotopes. Geology.
+Du, D., **Tang, M.**, Li, W., Kay, S.M., Wang, X. (2022). What drives Fe depletion in calc-alkaline magma differentiation: Insights from Fe isotopes. *Geology*.
 
-Brudner, A., Jiang, H., Chu, X., **Tang, M.** (2022). Crustal thickness of the Grenville orogen: A Mesoproterozoic Tibet? Geology.
+Brudner, A., Jiang, H., Chu, X., **Tang, M.** (2022). Crustal thickness of the Grenville orogen: A Mesoproterozoic Tibet? *Geology*.
 
 ###### <a name="publications-2021"></a>2021
 
@@ -154,13 +154,13 @@ Brudner, A., Jiang, H., Chu, X., **Tang, M.** (2022). Crustal thickness of the G
 
 **Tang, M.**, Ji, W-Q., Chu, X., Wu, A., Chen, C. (2021). Reconstructing crustal thickness evolution from europium anomalies in detrital zircons. *Geology*, 49, 76-80. <a class="paperdl" target="_blank" href="/publications/Tang%20et%20al.,%202021,%20Geology.pdf"><i class="fa fa-cloud-download" aria-hidden="true"></i></a>
 
-Wang, X., **Tang, M.**, Moyen, J., Wang, D., Kröner, A., Hawkesworth, C., Xia, X., Xie, H., Anhaeusser, C., Hofmann, A. and Li, J. (2021). The onset of deep recycling of supracrustal materials at the Paleo- Mesoarchean boundary. National Science Review, nwab136.
+Wang, X., **Tang, M.**, Moyen, J., Wang, D., Kröner, A., Hawkesworth, C., Xia, X., Xie, H., Anhaeusser, C., Hofmann, A. and Li, J. (2021). The onset of deep recycling of supracrustal materials at the Paleo- Mesoarchean boundary. *National Science Review*, nwab136.
 
-Li, J., **Tang, M.**, Lee, C.T.A., Wang, X., Gu, Z.D., Xia, X.P., Wang, D., Du, D.H. and Li, L.S. (2021). Rapid endogenic rock recycling in magmatic arcs. Nature Communications, 12(1), 1-7.
+Li, J., **Tang, M.**, Lee, C.T.A., Wang, X., Gu, Z.D., Xia, X.P., Wang, D., Du, D.H. and Li, L.S. (2021). Rapid endogenic rock recycling in magmatic arcs. *Nature Communications*, 12(1), 1-7.
 
-Shu, X., Liao, S., **Tang, M.**, Hong, W., Li, J. (2021). Different water contents lead to contrasting magmatic differentiation pathways: A case study of two coeval rock suites. Lithos, 386-387, 10600.
+Shu, X., Liao, S., **Tang, M.**, Hong, W., Li, J. (2021). Different water contents lead to contrasting magmatic differentiation pathways: A case study of two coeval rock suites. *Lithos*, 386-387, 10600.
 
-Sun, G., Liu, S., Cawood, P., **Tang, M.**, Hunen, Jv, Gao, L., Hu, Y., Hu, F. (2021). Thermal state and evolving geodynamic regimes of the Meso- to Neoarchean North China Craton. Nature Communications, 12: 3888.
+Sun, G., Liu, S., Cawood, P., **Tang, M.**, Hunen, Jv, Gao, L., Hu, Y., Hu, F. (2021). Thermal state and evolving geodynamic regimes of the Meso- to Neoarchean North China Craton. *Nature Communications*, 12: 3888.
 
 ###### <a name="publications-2020"></a>2020
 
