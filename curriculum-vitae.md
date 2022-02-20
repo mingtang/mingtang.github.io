@@ -142,7 +142,7 @@ image: images/tang.jpg
 
 **Tang, M.**, Chen, H., Song, S., Sun, G., Wang, C. (202X). Archean felsic crust emerged from oxidative differentiation at depth. In review.
 
-Du, D.H., **Tang, M.**, Li, W., Kay, S.M., Wang, X. (2022). What drives Fe depletion in calc-alkaline magma differentiation: Insights from Fe isotopes. Geology.
+Du, D., **Tang, M.**, Li, W., Kay, S.M., Wang, X. (2022). What drives Fe depletion in calc-alkaline magma differentiation: Insights from Fe isotopes. Geology.
 
 ###### <a name="publications-2021"></a>2021
 
