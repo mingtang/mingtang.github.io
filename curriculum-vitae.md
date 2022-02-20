@@ -146,6 +146,8 @@ image: images/tang.jpg
 
 Du, D., **Tang, M.**, Li, W., Kay, S.M., Wang, X. (2022). What drives Fe depletion in calc-alkaline magma differentiation: Insights from Fe isotopes. Geology.
 
+Brudner, A., Jiang, H., Chu, X. and **Tang, M.** (2022). Crustal thickness of the Grenville orogen: A Mesoproterozoic Tibet?. Geology.
+
 ###### <a name="publications-2021"></a>2021
 
 **Tang, M.**, Chu, X., Hao, J-H., Shen, B. (2021). Orogenic quiescence in Earth’s middle age. *Science*, 371(6530), 728-731. <a class="paperdl" target="_blank" href="/publications/Tang%20et%20al.%2C%202021%2C%20Science.pdf"><i class="fa fa-cloud-download" aria-hidden="true"></i></a>
