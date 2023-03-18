@@ -146,7 +146,7 @@ image: images/tang.jpg
 
 **Tang, M.**, Chen, H., Song, S., Sun, G., Wang, C. (202X). Endogenic oxidation and the formation of Archean TTG crust. *In review*.
 
-Chen, H., **Tang, M.**, Song, S-G. (2023). Catastrophic craton destruction via wholesale lithosphere delamination. *Geology*, in press. <span style="color:	#ee5c41;"/>(STUDENT PAPER)</span>
+Chen, H., **Tang, M.**, Song, S-G. (2023). Catastrophic craton destruction via wholesale lithosphere delamination. *Geology*, in press. <span style="color:#ee5c41;"/>(STUDENT PAPER)</span>
 
 **Tang, M.**, Liu, X., Chen, K. (2023). High Mg# of the continental crust explained by calc-alkaline differentiation. *National Science Review*, nwac258.
 
