@@ -91,6 +91,8 @@ image: images/tang.jpg
 ##### <a name="research-awards"></a>Research Awards
 
 ---
+- F.G. Houtermans Award (EAG) <span class="date">2023</span>
+
 - National Science Fund for Distinguished Young Scholars <span class="date">2021</span>
 
 - Hisashi Kuno Award (AGU) <span class="date">2021</span>
@@ -140,9 +142,17 @@ image: images/tang.jpg
 
 ---
 
-###### <a name="publications-2021"></a>2022
+###### <a name="publications-2021"></a>2023
 
-**Tang, M.**, Chen, H., Song, S., Sun, G., Wang, C. (202X). Archean felsic crust emerged from oxidative differentiation at depth. *In review*.
+**Tang, M.**, Chen, H., Song, S., Sun, G., Wang, C. (202X). Endogenic oxidation and the formation of Archean TTG crust. *In review*.
+
+Chen, H., **Tang, M.**, Song, S-G. (2023). Catastrophic craton destruction via wholesale lithosphere delamination. *Geology*, in press. (STUDENT PAPER)
+
+**Tang, M.**, Liu, X., Chen, K. (2023). High Mg# of the continental crust explained by calc-alkaline differentiation. *National Science Review*, nwac258.
+
+Chen, J., Jiang, H., **Tang, M.**, Hao, J., Tian, M., Chu, X. (2023). Venus’ light slab hinders its development of planetary-scale subduction. *Nature Communications*, 13, 1-9.
+
+###### <a name="publications-2021"></a>2022
 
 Du, D., **Tang, M.**, Li, W., Kay, S.M., Wang, X. (2022). What drives Fe depletion in calc-alkaline magma differentiation: Insights from Fe isotopes. *Geology*.
 
