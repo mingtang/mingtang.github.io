@@ -158,15 +158,17 @@ Chen, J., Jiang, H., **Tang, M.**, Hao, J., Tian, M., Chu, X. (2022). Venus’ l
 
 Du, D., **Tang, M.**, Li, W., Kay, S.M., Wang, X. (2022). What drives Fe depletion in calc-alkaline magma differentiation: Insights from Fe isotopes. *Geology*.
 
-Brudner, A., Jiang, H., Chu, X., **Tang, M.** (2022). Crustal thickness of the Grenville orogen: A Mesoproterozoic Tibet? *Geology*.
+Brudner, A., Jiang, H., Chu, X., **Tang, M.** (2022). Crustal thickness of the Grenville orogen: A Mesoproterozoic Tibet? *Geology*，50, 402–406
+
+Wang, X., **Tang, M.**, Moyen, J., Wang, D., Kröner, A., Hawkesworth, C., Xia, X., Xie, H., Anhaeusser, C., Hofmann, A. and Li, J. (2021). The onset of deep recycling of supracrustal materials at the Paleo- Mesoarchean boundary. *National Science Review*, nwab136.
+
+Chen, Y., Meng, J., Liu, H., Wang, C., **Tang, M.**, Liu, T., Zhao, Y. (2022). Detrital zircons record the evolution of the Cathaysian Coastal Mountains along the South China margin. *Basin Research*, 34, 688-701.
 
 ###### <a name="publications-2021"></a>2021
 
 **Tang, M.**, Chu, X., Hao, J-H., Shen, B. (2021). Orogenic quiescence in Earth’s middle age. *Science*, 371(6530), 728-731. <a class="paperdl" target="_blank" href="/publications/Tang%20et%20al.%2C%202021%2C%20Science.pdf"><i class="fa fa-cloud-download" aria-hidden="true"></i></a>
 
 **Tang, M.**, Ji, W-Q., Chu, X., Wu, A., Chen, C. (2021). Reconstructing crustal thickness evolution from europium anomalies in detrital zircons. *Geology*, 49, 76-80. <a class="paperdl" target="_blank" href="/publications/Tang%20et%20al.,%202021,%20Geology.pdf"><i class="fa fa-cloud-download" aria-hidden="true"></i></a>
-
-Wang, X., **Tang, M.**, Moyen, J., Wang, D., Kröner, A., Hawkesworth, C., Xia, X., Xie, H., Anhaeusser, C., Hofmann, A. and Li, J. (2021). The onset of deep recycling of supracrustal materials at the Paleo- Mesoarchean boundary. *National Science Review*, nwab136.
 
 Li, J., **Tang, M.**, Lee, C.T.A., Wang, X., Gu, Z.D., Xia, X.P., Wang, D., Du, D.H. and Li, L.S. (2021). Rapid endogenic rock recycling in magmatic arcs. *Nature Communications*, 12(1), 1-7.
 
