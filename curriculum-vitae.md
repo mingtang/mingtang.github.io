@@ -156,7 +156,7 @@ Wu, G.H., Chu, X., **Tang, M.**, Li, W. and Chen, F. (2023). Distinct tectono-ma
 
 Chen, J., Jiang, H., **Tang, M.**, Hao, J., Tian, M., Chu, X. (2022). Venus’ light slab hinders its development of planetary-scale subduction. *Nature Communications*, 13, 1-9.
 
-Du, D., **Tang, M.**, Li, W., Kay, S.M., Wang, X. (2022). What drives Fe depletion in calc-alkaline magma differentiation: Insights from Fe isotopes. *Geology*.
+Du, D., **Tang, M.**, Li, W., Kay, S.M., Wang, X. (2022). What drives Fe depletion in calc-alkaline magma differentiation: Insights from Fe isotopes. *Geology*, 50, 552-556.
 
 Brudner, A., Jiang, H., Chu, X., **Tang, M.** (2022). Crustal thickness of the Grenville orogen: A Mesoproterozoic Tibet? *Geology*，50, 402–406
 
