@@ -1,10 +1,3 @@
-layout: page
-title: Curriculum Vitae
-description: Education | Research Experience | Teaching Experience | Invited Talks | Research Award | Publications
-permalink: /curriculum-vitae/
-image: images/tang.jpg
----
-
 Updated CV 2024-9 <a class="paperdl" target="_blank" href="/Ming%20Tang_CV%20green.pdf"><i class="fa fa-cloud-download" aria-hidden="true"></i></a>
 
 ##### <a name="education"></a>Education
