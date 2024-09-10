@@ -169,6 +169,8 @@ Zhou, Z., Chu, X., **Tang, M.**, Leybourne, M. (2024). Exploring hindered decarb
 
 **Tang, M.**, Liu, X., Chen, K. (2023). High Mg# of the continental crust explained by calc-alkaline differentiation. *National Science Review*, nwac258.<a class="paperdl" target="_blank" href="/publications/Tang%20et%20al.%2C%202023%2C%20NSR.pdf"><i class="fa fa-cloud-download" aria-hidden="true"></i></a>
 
+Chen, K., **Tang, M.**, Hu, Z-C., Liu, Y-S. (2023). Generation of tholeiitic and calc-alkaline arc magmas and its implications for continental growth. *Geochimica et Cosmochimica Acta*, 355, 173-183.
+
 Chen, H., **Tang, M.**, Song, S-G. (2023). Catastrophic craton destruction via wholesale lithosphere delamination. *Geology*, 51, 460-464. <span style="color:#ee5c41;">(STUDENT PAPER)</span>
 
 Wu, G.H., Chu, X., **Tang, M.**, Li, W. and Chen, F. (2023). Distinct tectono-magmatism on the margins of Rodinia and Gondwana. *Earth and Planetary Science Letters*, 609, 118099.
