@@ -158,6 +158,8 @@ Updated CV 2024-9 <a class="paperdl" target="_blank" href="/Ming%20Tang_CV%20gre
 
 **Tang, M.**, Chen, H., Song, S., Sun, G., Wang, C. (2024). Zircon Eu/Eu* in Archean TTGs with implications for the role of endogenic oxidation in Archean crustal differentiation. *Geochimica et Cosmochimica Acta*, 378, 259-269. 
 
+**Tang, M.**, Wang, J., Lee, C-T. (2024). Reevaluating the oxidation effect of garnet crystallization. *Lithos*, 470-471, 107537.
+
 Chen, H., **Tang, M.**, Wu, S-T., Liu, X. (2024). Determination of ultra-trace rare earth elements in olivine by laser ablation-sector field-inductively coupled plasma-mass spectrometry. *Journal of Analytical Atomic Spectrometry*, 39, 1571. <span style="color:#ee5c41;">(STUDENT PAPER)</span>
 
 Liu X., **Tang, M.**, Cao, W., Ji, W., Chen, H. (2024). Sluggish rise of the western Gangdese mountains after India-Eurasia collision. *Lithos*, 478-479, 107640. <span style="color:#ee5c41;">(STUDENT PAPER)</span>
