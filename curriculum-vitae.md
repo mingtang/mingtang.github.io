@@ -148,7 +148,7 @@ Updated CV 2024-9 <a class="paperdl" target="_blank" href="/Ming%20Tang_CV%20gre
 
 **Tang, M.**, Guo, Z., Cao, W., Chu, X. (2024). Revisiting zircon Eu anomaly as a proxy for crustal thickness: A case study of the Sierra Nevada Batholith. *Earth and Planetary Science Letters*, 643, 118897. <a class="paperdl" target="_blank" href="/publications/Tang%20et%20al.%2C%202024%2C%20EPSL.pdf"><i class="fa fa-cloud-download" aria-hidden="true"></i></a>
 
-**Tang, M.**, Chen, H., Song, S., Sun, G., Wang, C. (2024). Zircon Eu/Eu* in Archean TTGs with implications for the role of endogenic oxidation in Archean crustal differentiation. *Geochimica et Cosmochimica Acta*, 378, 259-269. <a class="paperdl" target="_blank" href="/publications/Tang%20et%20al_GCA2024.pdf"><i class="fa fa-cloud-download" aria-hidden="true"></i></a>
+**Tang, M.**, Chen, H., Song, S., Sun, G., Wang, C. (2024). Zircon Eu/Eu* in Archean TTGs with implications for the role of endogenic oxidation in Archean crustal differentiation. *Geochimica et Cosmochimica Acta*, 378, 259-269. <a class="paperdl" target="_blank" href="/publications/Tang%20et%20al.%2C%202024%2C%20GCA.pdf"><i class="fa fa-cloud-download" aria-hidden="true"></i></a>
 
 **Tang, M.**, Wang, J., Lee, C-T. (2024). Reevaluating the oxidation effect of garnet crystallization. *Lithos*, 470-471, 107537. <a class="paperdl" target="_blank" href="/publications/Tang%20et%20al.%2C%202024%2C%20Lithos.pdf"><i class="fa fa-cloud-download" aria-hidden="true"></i></a>
 
