@@ -1,10 +1,12 @@
----
+![image](https://github.com/user-attachments/assets/6a5712cc-370e-4eb3-a825-9ea486d00ad8)---
 layout: page
 title: Curriculum Vitae
 description: Education | Research Experience | Teaching Experience | Invited Talks | Research Award | Publications
 permalink: /curriculum-vitae/
 image: images/tang.jpg
 ---
+
+Updated CV 2024-9 <a class="paperdl" target="_blank" href="/Ming%20Tang_CV%20green.pdf"><i class="fa fa-cloud-download" aria-hidden="true"></i></a>
 
 ##### <a name="education"></a>Education
 
@@ -13,7 +15,7 @@ image: images/tang.jpg
 - Ph.D., Geochemistry, University of Maryland, College Park <span class="date">2011 - 2016</span>
 <br>supervised by William F. McDonough and Roberta L. Rudnick
 
-- B.A., Geochemistry, Nanjing University <span class="date">2007 - 2011</span>
+- B.S., Geochemistry, Nanjing University <span class="date">2007 - 2011</span>
 <br>supervised by Xiao-Lei Wang
 
 
@@ -21,7 +23,11 @@ image: images/tang.jpg
 
 ---
 
-- Assistant professor at Peking University, China <span class="date">2019 - present</span>
+- Professor at Peking University, China <span class="date">2023 - present</span>
+
+- Associate professor at Peking University, China <span class="date">2022 - 2023</span>
+
+- Assistant professor at Peking University, China <span class="date">2019 - 2022</span>
 
 - Post-doc at Rice University, USA <span class="date">2016 - 2019</span>
 
@@ -91,6 +97,9 @@ image: images/tang.jpg
 ##### <a name="research-awards"></a>Research Awards
 
 ---
+
+- Shen-Su Sun Award (EAG) <span class="date">2024</span>
+
 - F.G. Houtermans Award (EAG) <span class="date">2023</span>
 
 - National Science Fund for Distinguished Young Scholars <span class="date">2021</span>
@@ -144,13 +153,24 @@ image: images/tang.jpg
 
 ###### <a name="publications-2021"></a>2023
 
-**Tang, M.**, Chen, H., Song, S., Sun, G., Wang, C. (202X). Endogenic oxidation and the formation of Archean TTG crust. *In review*.
+
+**Tang, M.**, Chen, H., Lee, C-T., Cao, W. (2024). Subaerial crust emergence hindered by phase-driven lower crust densification on early Earth. *Science Advances*, 10, adq1952.
+
+**Tang, M.**, Guo, Z., Cao, W., Chu, X. (2024). Revisiting zircon Eu anomaly as a proxy for crustal thickness: A case study of the Sierra Nevada Batholith. *Earth and Planetary Science Letters*, 643, 118897.
+
+**Tang, M.**, Chen, H., Song, S., Sun, G., Wang, C. (2024). Zircon Eu/Eu* in Archean TTGs with implications for the role of endogenic oxidation in Archean crustal differentiation. *Geochimica et Cosmochimica Acta*, 378, 259-269. 
+
+Chen, H., **Tang, M.**, Wu, S-T., Liu, X. (2024). Determination of ultra-trace rare earth elements in olivine by laser ablation-sector field-inductively coupled plasma-mass spectrometry. *Journal of Analytical Atomic Spectrometry*, 39, 1571. <span style="color:#ee5c41;">(STUDENT PAPER)</span>
+
+Liu X., **Tang, M.**, Cao, W., Ji, W., Chen, H. (2024). Sluggish rise of the western Gangdese mountains after India-Eurasia collision. *Lithos*, 478-479, 107640. <span style="color:#ee5c41;">(STUDENT PAPER)</span>
+
+Zhou, Z., Chu, X., **Tang, M.**, Leybourne, M. (2024). Exploring hindered decarbonation in contact metamorphism: A glimpse into marble aureoles in Southern Tibet. *Earth and Planetary Science Letters*, 626, 118519.
 
 **Tang, M.**, Liu, X., Chen, K. (2023). High Mg# of the continental crust explained by calc-alkaline differentiation. *National Science Review*, nwac258.<a class="paperdl" target="_blank" href="/publications/Tang%20et%20al.%2C%202023%2C%20NSR.pdf"><i class="fa fa-cloud-download" aria-hidden="true"></i></a>
 
-Chen, H., **Tang, M.**, Song, S-G. (2023). Catastrophic craton destruction via wholesale lithosphere delamination. *Geology*, in press. <span style="color:#ee5c41;">(STUDENT PAPER)</span>
+Chen, H., **Tang, M.**, Song, S-G. (2023). Catastrophic craton destruction via wholesale lithosphere delamination. *Geology*, 51, 460-464. <span style="color:#ee5c41;">(STUDENT PAPER)</span>
 
-Wu, G.H., Chu, X., **Tang, M.**, Li, W. and Chen, F. (2023). Distinct tectono-magmatism on the margins of Rodinia and Gondwana. *Earth and Planetary Science Letters*, 609, p.118099.
+Wu, G.H., Chu, X., **Tang, M.**, Li, W. and Chen, F. (2023). Distinct tectono-magmatism on the margins of Rodinia and Gondwana. *Earth and Planetary Science Letters*, 609, 118099.
 
 ###### <a name="publications-2021"></a>2022
 
