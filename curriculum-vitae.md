@@ -150,9 +150,7 @@ Updated CV 2024-9 <a class="paperdl" target="_blank" href="/Ming%20Tang_CV%20gre
 ##### <a name="publications"></a>Publications
 
 ---
-
-###### <a name="publications-2021"></a>2023
-
+###### <a name="publications-2021"></a>2024
 
 **Tang, M.**, Chen, H., Lee, C-T., Cao, W. (2024). Subaerial crust emergence hindered by phase-driven lower crust densification on early Earth. *Science Advances*, 10, adq1952.
 
@@ -165,6 +163,9 @@ Chen, H., **Tang, M.**, Wu, S-T., Liu, X. (2024). Determination of ultra-trace r
 Liu X., **Tang, M.**, Cao, W., Ji, W., Chen, H. (2024). Sluggish rise of the western Gangdese mountains after India-Eurasia collision. *Lithos*, 478-479, 107640. <span style="color:#ee5c41;">(STUDENT PAPER)</span>
 
 Zhou, Z., Chu, X., **Tang, M.**, Leybourne, M. (2024). Exploring hindered decarbonation in contact metamorphism: A glimpse into marble aureoles in Southern Tibet. *Earth and Planetary Science Letters*, 626, 118519.
+
+
+###### <a name="publications-2021"></a>2023
 
 **Tang, M.**, Liu, X., Chen, K. (2023). High Mg# of the continental crust explained by calc-alkaline differentiation. *National Science Review*, nwac258.<a class="paperdl" target="_blank" href="/publications/Tang%20et%20al.%2C%202023%2C%20NSR.pdf"><i class="fa fa-cloud-download" aria-hidden="true"></i></a>
 
