@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/6a5712cc-370e-4eb3-a825-9ea486d00ad8)---
 layout: page
 title: Curriculum Vitae
 description: Education | Research Experience | Teaching Experience | Invited Talks | Research Award | Publications
