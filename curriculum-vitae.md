@@ -144,7 +144,7 @@
 ---
 ###### <a name="publications-2021"></a>2024
 
-**Tang, M.**, Chen, H., Lee, C-T., Cao, W. (2024). Subaerial crust emergence hindered by phase-driven lower crust densification on early Earth. *Science Advances*, 10, adq1952.
+**Tang, M.**, Chen, H., Lee, C-T., Cao, W. (2024). Subaerial crust emergence hindered by phase-driven lower crust densification on early Earth. *Science Advances*, 10, adq1952. <a class="paperdl" target="_blank" href="/publications/Tang%20et%20al.%2C%202420%2C%20Science%20Advances.pdf"><i class="fa fa-cloud-download" aria-hidden="true"></i></a>
 
 **Tang, M.**, Guo, Z., Cao, W., Chu, X. (2024). Revisiting zircon Eu anomaly as a proxy for crustal thickness: A case study of the Sierra Nevada Batholith. *Earth and Planetary Science Letters*, 643, 118897. <a class="paperdl" target="_blank" href="/publications/Tang%20et%20al.%2C%202024%2C%20EPSL.pdf"><i class="fa fa-cloud-download" aria-hidden="true"></i></a>
 
