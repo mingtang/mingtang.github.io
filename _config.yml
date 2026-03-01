@@ -15,6 +15,7 @@ harmony:
     # Google Analytics key, leave blank to ignore
     google_analytics_key: G-3JFCV2K7PR
     show_disclaimer: false
+    waline_server_url: https://comments.mingtang.me
 
 # Conversion / Build settings
 markdown: kramdown
