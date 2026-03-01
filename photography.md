@@ -16,10 +16,10 @@ image: images/photography/full/photo35.jpg
 	<div class="post-box" style="margin-bottom:48px">
 		<img class="box-img" src="/images/photography/thumb/IMG_2449.jpg" alt="">
 		<div class="box-text">
-			<a href="{{ site.url }}/photography/2026/02/28/ld/">
+			<a href="{{ site.url }}/photography/2026/02/28/mohe/">
 				<h6>漠河，2026</h6>
 			</a>
-			<p>这个博客上一次更新是 2020 年，也就是我刚回国工作的时候，转眼 6 年过去了。工作这几年，人的状态和想法都发生了不少变化，生活也完全不一样了，比之前忙了很多，多线工作... <a href="{{ site.url }}/photography/2020/05/21/ld/">Read More</a></p>
+			<p>这个博客上一次更新是 2020 年，也就是我刚回国工作的时候，转眼 6 年过去了。工作这几年，人的状态和想法都发生了不少变化，生活也完全不一样了，比之前忙了很多，多线工作... <a href="{{ site.url }}/photography/2026/02/28/mohe/">Read More</a></p>
 		</div>
 	</div>
 	
